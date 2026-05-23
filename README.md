@@ -1,7 +1,12 @@
 # Humanoid-Hand-
-The first thing I'm a really beginner and want to start with that Project. I'm currently 14 years old and want to build really cool enginerring project. Next year I went to high school. My future goal is to get into MIT or a really big opportunity to join a job what I like with friendly people and good payment. I do also all the enginnering porject from my own cash, so I won't have a big price and quality. Maybe in the future I will get a sponsor for my projects. But I'm just starint with the first project from me.
-I want to build a humanoid Hand from Scratch. It'll be really modern and high tech.
-(low Budget,professional) 
+## About the Author & Project Motivation
+
+This project represents my first major milestone in independent robotic engineering. As a 14-year-old aspiring engineer entering high school next year, my long-term academic goal is to pursue an engineering degree at institutions like MIT and ultimately build a career developing cutting-edge, human-centric technologies.
+
+### Engineering Under Budget Constraints
+A core philosophy of this project is **resource-constrained innovation**. The entire development process—from component sourcing to manufacturing—is completely self-funded. Operating without external sponsorships or a massive budget requires intense creative problem-solving. It forces me to prioritize highly efficient mechanical design, open-source documentation, and smart component selection over expensive, off-the-shelf industrial hardware.
+
+This repository serves as a transparent, open-source documentation of my journey. It is proof that high-tech, modern humanoid systems can be engineered entirely from scratch through rigorous self-taught practices, persistent iteration, and a passion for robotics.
 
 
 Engineering Logbook: Phase 1 (Conceptualization, CAD & Feedback Systems)
@@ -65,7 +70,7 @@ Day 8: Iteration 3 – Optimized Parametric Design
 
 • Result: Success.
 
-• Progress: Applied a strict 0.15mm tolerance to the bearing housings, ensuring a perfect press-fit for PETG material shrinkage. Utilized CAD symmetry tools to mirror the geometry, ensuring perfect bilateral alignment.
+• Progress: Applied a strict 0.15mm tolerance to the bearing housings, compensating for P1S FDM dimensional inaccuracy (±0.1mm) and PETG material shrinkage (~0.04mm on 8mm OD), ensuring a perfect press-fit assembly. Utilized CAD symmetry tools to mirror the geometry, ensuring perfect bilateral alignment.
 
 • Pending: Extrude internal routing channels through the solid body for the synthetic tendons.
 <img width="1359" height="271" alt="Screenshot 2026-05-21 173727" src="https://github.com/user-attachments/assets/6e934e4e-4495-43dd-8673-94d7d975dc36" />

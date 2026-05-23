@@ -52,7 +52,7 @@ Days 5–6: Iteration 1 – Distal & Proximal Phalanges
 <img width="570" height="523" alt="Screenshot 2026-05-08 230935" src="https://github.com/user-attachments/assets/445a4265-5c02-4d7e-a051-5c7e8e1f65a4" />
 
 
-Day 7: Iteration 2 – Joint Integration & Tolerances
+Day 7-8 : Iteration 2 – Joint Integration & Tolerances
 • Objective: Redesign the phalanx structure to integrate ball bearings for low-friction actuation.
 
 • Result: Rejected.
@@ -65,7 +65,7 @@ Day 7: Iteration 2 – Joint Integration & Tolerances
 <img width="1633" height="450" alt="Screenshot 2026-05-21 183204" src="https://github.com/user-attachments/assets/94aeca30-487f-4fe8-9aee-38fed1b30373" />
 
 
-Day 8: Iteration 3 – Optimized Parametric Design
+Day 9: Iteration 3 – Optimized Parametric Design
 • Objective: Finalize the base phalanx CAD model with correct manufacturing tolerances.
 
 • Result: Success.
@@ -81,7 +81,7 @@ Day 8: Iteration 3 – Optimized Parametric Design
 
 
 
-Day 9: Closed-Loop Control Integration & Hardware Acquisition
+Day 10: Closed-Loop Control Integration & Hardware Acquisition
 • Objective: Design a precision tracking system for finger joint angles.
 
 • Sensor Selection: Transitioned from analog potentiometers to AS5600 Absolute Magnetic Encoders. This provides non-contact, high-precision I2C angular readings without mechanical wear.

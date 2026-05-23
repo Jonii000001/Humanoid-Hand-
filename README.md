@@ -13,6 +13,7 @@ Day 4
 That day I tried my first steps in CAD, because it's my first really project in it. I use Autodesk inventor to draw the model. I only tried some different shapes in CAD. And Today I designed a part on the Servo motor I'll probably use the MG994 or the MG995 one, because I haven't got the Budget to buy something more expensive, because I don't want to beg my parents for money and end up scamming them if it gets that expensive. I also need and 3d printer, especially the Bambulab a1 oder the p1s I haven't any idea which one should I take, because of the material. I also pay everything from my own bag and don't ask my parents about cash. But I designed the pulley for the tendon rope. 
 <img width="997" height="559" alt="Screenshot 2026-05-03 151541" src="https://github.com/user-attachments/assets/f81230a6-3118-4a7b-93b4-c29ac01624b3" />
 <img width="1919" height="863" alt="Screenshot 2026-05-03 155056" src="https://github.com/user-attachments/assets/25acd5f2-902e-453b-a075-b8103c0f0716" />
+<img width="1914" height="932" alt="image" src="https://github.com/user-attachments/assets/ee80fa6a-bd9a-447c-98b9-12012cbfd2b2" />
 
 
 
@@ -41,6 +42,7 @@ That day I designed a really good CAD Model I works and looks good. I have only 
 <img width="1040" height="374" alt="Screenshot 2026-05-21 191616" src="https://github.com/user-attachments/assets/d0148b4d-d4ed-425a-b457-86452a322930" />
 <img width="1394" height="462" alt="Screenshot 2026-05-21 191722" src="https://github.com/user-attachments/assets/accc3a89-546a-4fe4-989b-2ccade870031" />
 <img width="1919" height="1020" alt="Screenshot 2026-05-21 194514" src="https://github.com/user-attachments/assets/b959c22c-e0b6-432a-afd7-aadaa3c7772d" />
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/141e5536-107f-4c80-b56e-1d637e4c2577" />
 
 
 

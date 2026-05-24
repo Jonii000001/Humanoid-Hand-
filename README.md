@@ -108,7 +108,19 @@ Day 11: Form-Factor Constraints & Custom Electronics Conception
 <img width="1440" height="888" alt="Screenshot 2026-05-23 222126" src="https://github.com/user-attachments/assets/84078f8f-49f2-4c5b-9f05-e4247d6bcbde" />
 
 
+Day 12: First-Time Custom PCB Design & KiCad Workflow Integration
+• Objective: Design and layout a highly miniaturized custom PCB around the bare AS5600 IC from scratch using KiCad.
 
+• Design Challenge: Navigating the complex KiCad schematic and layout workflow for the first time, and overcoming initial form-factor bottlenecks where the first board iteration exceeded the finger's strict spatial constraints.
+
+• Action Plan: Successfully mastered the software's pipeline, optimized component routing, and aggressively downsized the PCB layout to achieve the required micro-scale footprint.
+
+• Next Steps: Import the PCB dimensions into the 3D CAD model to verify a precise fit within the phalanx housing, integrate routing holes for the mechanical tendon system, and initiate the design phase for the next structural component.
+<img width="1917" height="1012" alt="Screenshot 2026-05-24 213221" src="https://github.com/user-attachments/assets/fe428e4c-58d6-49ad-be17-23521a89f705" />
+<img width="1329" height="725" alt="Screenshot 2026-05-24 213202" src="https://github.com/user-attachments/assets/98877ead-ee2c-4cf0-b0b0-20d2f7662646" />
+<img width="1919" height="1029" alt="Screenshot 2026-05-24 213245" src="https://github.com/user-attachments/assets/5c8e178e-df27-4a00-a9ef-138dda7c8556" />
+<img width="850" height="384" alt="Screenshot 2026-05-24 145245" src="https://github.com/user-attachments/assets/5b277fcd-f46d-40d8-ad8e-0128638b5716" />
+<img width="1086" height="635" alt="Screenshot 2026-05-24 221806" src="https://github.com/user-attachments/assets/6477b830-56df-4e7e-b7ce-8c2c678b67dd" />
 
 
 

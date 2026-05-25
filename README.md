@@ -116,6 +116,7 @@ Day 12: First-Time Custom PCB Design & KiCad Workflow Integration
 • Action Plan: Successfully mastered the software's pipeline, optimized component routing, and aggressively downsized the PCB layout to achieve the required micro-scale footprint.
 
 • Next Steps: Import the PCB dimensions into the 3D CAD model to verify a precise fit within the phalanx housing, integrate routing holes for the mechanical tendon system, and initiate the design phase for the next structural component.
+
 <img width="1917" height="1012" alt="Screenshot 2026-05-24 213221" src="https://github.com/user-attachments/assets/fe428e4c-58d6-49ad-be17-23521a89f705" />
 <img width="1329" height="725" alt="Screenshot 2026-05-24 213202" src="https://github.com/user-attachments/assets/98877ead-ee2c-4cf0-b0b0-20d2f7662646" />
 <img width="1919" height="1029" alt="Screenshot 2026-05-24 213245" src="https://github.com/user-attachments/assets/5c8e178e-df27-4a00-a9ef-138dda7c8556" />
@@ -123,6 +124,19 @@ Day 12: First-Time Custom PCB Design & KiCad Workflow Integration
 <img width="1086" height="635" alt="Screenshot 2026-05-24 221806" src="https://github.com/user-attachments/assets/6477b830-56df-4e7e-b7ce-8c2c678b67dd" />
 
 
+Day 13: Iteration 4 – Component Integration & Tactile Feedback Sourcing
+
+Objective: Advance the multi-part digit assembly in CAD, integrate a tactile feedback sensor for grasp force regulation, and prepare the structure for tendon and bearing integration.
+
+Result: In Progress.
+
+Progress: Finalized the primary CAD model for the first finger segment; however, interference analysis revealed a geometric collision issue at the joint connection point during assembly. Initiated modeling on the adjacent finger segment, navigating complex design-for-manufacturability (DFM) constraints to ensure real-world mechanical viability. To implement a closed-loop touch system and prevent excessive gripping force, selected the YWBL-WH precision force sensor. Modeled a dedicated, high-precision mounting pocket within the digit to ensure flush and accurate sensor placement.
+
+Pending: Resolve the component collision to ensure clean joint clearance, finalize the secondary segment geometry, and extrude internal routing channels for the synthetic tendon system. Conduct physical fitment and tolerance verification once the ball bearings arrive on Thursday.
+
+<img width="1896" height="976" alt="Screenshot 2026-05-25 211906" src="https://github.com/user-attachments/assets/938e036c-1a61-49fe-9749-4166b88005b5" />
+<img width="930" height="606" alt="Screenshot 2026-05-25 211948" src="https://github.com/user-attachments/assets/e416fc6b-8aea-4f3d-8320-5d513436bf93" />
+<img width="1203" height="607" alt="image" src="https://github.com/user-attachments/assets/7bf779df-cb94-45ee-8977-b32c0d6f7e9c" />
 
 
 

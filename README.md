@@ -28,7 +28,7 @@ Days 1–3: Biomechanical Research & Architecture
 Day 4: Digital Prototyping & Component Sourcing
 • Objective: Initiate CAD modeling in Autodesk Inventor and select budget-optimized hardware.
 
-• Hardware Selection: Chosen the MG994/MG995 servo series. These provide an optimal cost-to-torque ratio, essential for a self-funded prototype, ensuring enough force for the tendon routing without overspending.
+• Hardware Selection: "I selected the MG994/MG995 servo series. We could consider a higher-quality model, but that would require an increased budget.. These provide an optimal cost-to-torque ratio, essential for a self-funded prototype, ensuring enough force for the tendon routing without overspending.
 
 • Manufacturing Strategy: Evaluated FDM 3D printing platforms (Bambu Lab A1 vs. P1S). Decided on PETG filament due to its superior layer adhesion, impact resistance, and flexibility compared to standard PLA, which is critical for mechanical joints.
 

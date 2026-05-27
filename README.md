@@ -139,7 +139,7 @@ Day 12: First-Time Custom PCB Design & KiCad Workflow Integration
 <img width="1086" height="635" alt="Screenshot 2026-05-24 221806" src="https://github.com/user-attachments/assets/6477b830-56df-4e7e-b7ce-8c2c678b67dd" />
 
 
-Day 13: Iteration 4 – Component Integration & Tactile Feedback Sourcing
+Day 13: Component Integration & Tactile Feedback Sourcing
 
 Objective: Advance the multi-part digit assembly in CAD, integrate a tactile feedback sensor for grasp force regulation, and prepare the structure for tendon and bearing integration.
 
@@ -154,5 +154,21 @@ Pending: Resolve the component collision to ensure clean joint clearance, finali
 <img width="1203" height="607" alt="image" src="https://github.com/user-attachments/assets/7bf779df-cb94-45ee-8977-b32c0d6f7e9c" />
 
 
+Day 14: Sensor Upgrades & PCB Integration Planning
+Objective: Optimize sensor selection for joint position and tactile feedback, resolve kinematic collisions in the CAD assembly, and initiate custom circuit design.
 
+Result: In Progress.
+
+Progress: Evaluated and upgraded the magnetic encoder specification from the AS5600 to the higher-resolution AS5048A for improved joint tracking, identifying the MT6701 as a compact contingency option pending spatial constraints. Sourced the FSR 400 Short (Force Sensing Resistor) for fingertip tactile feedback, selected for its reliable force-response and control integration. Initiated the schematic design for the custom sensor circuit board. Additionally, performed interference analysis on the connected multi-part CAD assembly, identifying and resolving initial geometric collisions to optimize joint kinematics.
+
+Pending: Finalize the custom PCB layout and import the board geometry directly into the CAD environment to verify physical fitment. Resolve the remaining mechanical interferences in the digit assembly. Engineer the internal routing pathways to accommodate both the synthetic tendon mechanisms and sensor cable management.
+
+
+<img width="1919" height="868" alt="Screenshot 2026-05-27 132834" src="https://github.com/user-attachments/assets/8a7e58d7-a88f-4a03-a788-5cbbcd4e2efd" />
+<img width="1191" height="716" alt="Screenshot 2026-05-27 184247" src="https://github.com/user-attachments/assets/0ce0593c-107c-49b9-a837-91ff4c3fdad5" />
+<img width="1063" height="492" alt="Screenshot 2026-05-27 184237" src="https://github.com/user-attachments/assets/047bb5e4-4596-4f7d-aeb8-48cb6989a68b" />
+<img width="1133" height="780" alt="Screenshot 2026-05-27 191037" src="https://github.com/user-attachments/assets/14dfcf6d-8c8b-4d26-900a-518a567dd3d9" />
+<img width="1279" height="489" alt="Screenshot 2026-05-27 191616" src="https://github.com/user-attachments/assets/60cab05d-ab32-4106-aa5d-c12d14d93844" />
+<img width="1017" height="563" alt="Screenshot 2026-05-27 191626" src="https://github.com/user-attachments/assets/f3b32ecd-d3a8-426b-a606-ccada9e392ae" />
+<img width="805" height="485" alt="Screenshot 2026-05-27 191638" src="https://github.com/user-attachments/assets/cda3c492-09e3-4451-a8b4-84ea2172b72e" />
 

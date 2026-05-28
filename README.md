@@ -172,3 +172,20 @@ Pending: Finalize the custom PCB layout and import the board geometry directly i
 <img width="1017" height="563" alt="Screenshot 2026-05-27 191626" src="https://github.com/user-attachments/assets/f3b32ecd-d3a8-426b-a606-ccada9e392ae" />
 <img width="805" height="485" alt="Screenshot 2026-05-27 191638" src="https://github.com/user-attachments/assets/cda3c492-09e3-4451-a8b4-84ea2172b72e" />
 
+
+
+Day 15: PCB Iteration 2 & Kinematic Routing Strategy
+Objective: Redesign the custom micro-PCB for the AS5048A magnetic encoder to meet strict internal digit dimensions following an oversized initial draft, and evaluate strain-free cable routing strategies.
+
+Result: In Progress / Review Phase.
+
+Progress: This marks the second iteration of the sensor board; the initial layout was rejected for exceeding the maximum dimensional tolerances of the internal digit cavity. For this revision, navigated severe spatial constraints to successfully draft a viable, ultra-compact circuit board (12mm x 6.75mm / 0.47" x 0.27") in KiCad. The layout integrates the AS5048A 14-bit magnetic encoder configured for SPI communication, alongside the required 10µF and 100nF decoupling capacitors. While the layout is functionally complete, it requires further optimization of the pads and wire connection points to ensure reliable micro-soldering and signal integrity. Concurrently, analyzed mechanical wire routing options to prevent parasitic strain or mechanical resistance on the joints, comparing the viability of internal through-hole routing versus external channeling.
+
+Pending: Refine the PCB trace routing and pad geometry. Finalize the structural cable routing strategy in CAD (internal vs. external) to guarantee zero interference with the tendon mechanism. Perform a final digital fitment verification before exporting Gerber files for fabrication via JLCPCB. Note: Open to peer feedback regarding the pad layout and internal cable management strategies prior to manufacturing.
+
+[PCB_AS5048A.zip](https://github.com/user-attachments/files/28363985/PCB_AS5048A.zip)
+<img width="879" height="686" alt="Screenshot 2026-05-28 155727" src="https://github.com/user-attachments/assets/489a60e1-b331-4f5e-80ae-ecfabfc6436f" />
+<img width="884" height="502" alt="Screenshot 2026-05-28 175451" src="https://github.com/user-attachments/assets/0dc89368-d7e2-49a3-984c-cce7b2286d4e" />
+<img width="1106" height="659" alt="Screenshot 2026-05-28 180658" src="https://github.com/user-attachments/assets/528a1746-8b63-4c45-91bc-be88ff7e14f8" />
+
+

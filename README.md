@@ -202,6 +202,6 @@ Pending: Finalize the internal geometric features of the intermediate segment to
 <img width="548" height="548" alt="Screenshot 2026-05-29 144418" src="https://github.com/user-attachments/assets/77230e6b-ac6b-4862-98cb-71470bbe925c" />
 <img width="1371" height="308" alt="Screenshot 2026-05-29 171331" src="https://github.com/user-attachments/assets/d0cc99d8-964b-4361-acdb-dd7d90073822" />
 <img width="1418" height="761" alt="Screenshot 2026-05-29 212053" src="https://github.com/user-attachments/assets/7c432c32-0a85-46ac-a85c-d831d1d8bdad" />
-<img width="1418" height="761" alt="Screenshot 2026-05-29 212053" src="https://github.com/user-attachments/assets/306541f5-e7dd-4c5b-b05c-f0a0adba0558" />
+
 
 

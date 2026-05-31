@@ -222,3 +222,22 @@ Pending: Model the final structural segment of the finger. Integrate the custom 
 <img width="923" height="626" alt="Screenshot 2026-05-30 170759" src="https://github.com/user-attachments/assets/667a690d-07ef-4a6f-81d5-44d37a99f2e0" />
 
 
+Day 18: Magnetic Interference Mitigation & Anthropomorphic Joint Scaling
+Objective: Eliminate ferromagnetic interference from the ball bearings on the magnetic encoder while maintaining strict anthropomorphic scaling constraints for the joint assembly.
+
+Result: Design Breakthrough.
+
+Progress: Identified a critical hardware conflict: the steel composition of the ball bearings causes magnetic flux distortion, which compromises the 14-bit angular tracking precision of the AS5048A encoder's diametral magnet. An initial isolation attempt using a 0.5mm PETG shielding wall outside the bearing inflated the joint width to 31mm, severely violating the target human scale (20–22mm).
+
+Engineered a high-density packaging solution by optimizing the bearing geometry to an 11mm OD (Outer Diameter) / 7mm ID (Inner Diameter) specification. This allows the 6mm diametral magnet to be nested directly inside the inner race of the bearing, isolated by a custom 3D-printed PETG sleeve to isolate the magnetic field. This integration allows the encoder PCB to sit flush on the outer housing, reducing the final joint width to an anthropomorphic ~25mm and ensuring zero-error angular calibration. Additionally, resolved a critical procurement bottleneck by successfully sourcing the highly specialized diametral magnet dimensions after extensive vendor research.
+
+Pending: Finalize the updated CAD layout with the new bearing and magnet tolerances. Order the custom components and prepare for physical magnetic field testing upon arrival.
+
+
+<img width="1180" height="763" alt="Screenshot 2026-05-31 193110" src="https://github.com/user-attachments/assets/b6d3ad09-7426-46a2-9cbd-4ddc7028d1ca" />
+<img width="1358" height="800" alt="Screenshot 2026-05-31 193349" src="https://github.com/user-attachments/assets/00a7d9cf-70e9-4c1b-a129-8a1e4fbfe9d6" />
+<img width="863" height="667" alt="Screenshot 2026-05-31 193357" src="https://github.com/user-attachments/assets/ca9378f5-f14b-42d9-ad48-6b827522e2d8" />
+<img width="895" height="666" alt="Screenshot 2026-05-31 193405" src="https://github.com/user-attachments/assets/fca3e361-c9bf-4645-a990-dddfc399dff7" />
+<img width="919" height="608" alt="Screenshot 2026-05-31 193411" src="https://github.com/user-attachments/assets/1d1b1d37-ae3b-4b65-929d-9908df99384c" />
+<img width="284" height="268" alt="Screenshot 2026-05-31 193416" src="https://github.com/user-attachments/assets/f1330103-e5bb-44cb-9660-4256bc3501fe" />
+

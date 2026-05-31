@@ -240,4 +240,6 @@ Pending: Finalize the updated CAD layout with the new bearing and magnet toleran
 <img width="895" height="666" alt="Screenshot 2026-05-31 193405" src="https://github.com/user-attachments/assets/fca3e361-c9bf-4645-a990-dddfc399dff7" />
 <img width="919" height="608" alt="Screenshot 2026-05-31 193411" src="https://github.com/user-attachments/assets/1d1b1d37-ae3b-4b65-929d-9908df99384c" />
 <img width="284" height="268" alt="Screenshot 2026-05-31 193416" src="https://github.com/user-attachments/assets/f1330103-e5bb-44cb-9660-4256bc3501fe" />
+<img width="839" height="430" alt="Screenshot 2026-05-31 123331" src="https://github.com/user-attachments/assets/2815646e-5216-4f5c-8781-270bde473360" />
+<img width="1772" height="783" alt="Screenshot 2026-05-31 141605" src="https://github.com/user-attachments/assets/9a4435f2-59d4-4ced-88c0-1cfdd85239a6" />
 

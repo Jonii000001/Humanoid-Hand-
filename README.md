@@ -243,3 +243,25 @@ Pending: Finalize the updated CAD layout with the new bearing and magnet toleran
 <img width="839" height="430" alt="Screenshot 2026-05-31 123331" src="https://github.com/user-attachments/assets/2815646e-5216-4f5c-8781-270bde473360" />
 <img width="1772" height="783" alt="Screenshot 2026-05-31 141605" src="https://github.com/user-attachments/assets/9a4435f2-59d4-4ced-88c0-1cfdd85239a6" />
 
+
+
+Day 19: Joint Spacing Optimization, Topology Recovery, and Circular PCB Migration
+Objective: Integrate a custom axial spacer mechanism, recalibrate primary segment dimensions, and redesign the encoder PCB form factor for external cable routing.
+
+Result: Success.
+
+Progress: Engineered a custom 1mm mechanical spacer ring to eliminate the need for secondary washers within the joint assembly. Integrating this spacer required a proportional dimensional reduction of the main finger segment to maintain the correct overall length alignment. During this severe geometric modification, the CAD model suffered a catastrophic topology failure; however, full recovery was achieved via a redundant physical backup strategy (local USB hardware storage).
+
+Additionally, widened the finger's structural base component to accommodate the updated 4x4mm diametral magnet (highlighted in orange within the CAD assembly). To finalize the sensor integration, migrated the encoder circuit design from a rectangular layout to a custom circular PCB. Mounting this round board directly to the external face of the joint isolates it from internal mechanics and establishes a clean routing path for cables to run along the chassis toward the base of the humanoid hand.
+
+Pending: Finalize the trace routing on the new circular PCB layout in KiCad. Conduct a clearance check on the updated wide-base geometry to ensure full rotational freedom before exporting the final prototype files.
+
+<img width="1338" height="845" alt="Screenshot 2026-06-03 161842" src="https://github.com/user-attachments/assets/ee1f09ab-d7bb-4679-8e93-d5cbc90a3630" />
+<img width="903" height="682" alt="Screenshot 2026-06-03 175916" src="https://github.com/user-attachments/assets/23e150bc-63ec-4216-9c99-6a426cec2756" />
+<img width="1164" height="815" alt="Screenshot 2026-06-03 183332" src="https://github.com/user-attachments/assets/3fc0ec10-4b03-40e7-a7b4-92fe558a0f67" />
+<img width="729" height="550" alt="Screenshot 2026-06-03 200240" src="https://github.com/user-attachments/assets/190d0a62-ee8a-4cc8-b086-299619bd95ef" />
+<img width="804" height="505" alt="Screenshot 2026-06-03 200244" src="https://github.com/user-attachments/assets/f4d70230-aaea-451b-9d3a-f7adc6e50ee0" />
+<img width="918" height="777" alt="Screenshot 2026-06-03 200655" src="https://github.com/user-attachments/assets/9358efa6-ccce-43ea-876e-01f4e54f3b21" />
+<img width="1512" height="780" alt="Screenshot 2026-06-03 200714" src="https://github.com/user-attachments/assets/e9cd1494-6778-4ad6-8223-e2521cceb6cb" />
+<img width="778" height="650" alt="Screenshot 2026-06-03 201759" src="https://github.com/user-attachments/assets/9deac360-4539-4446-ad94-ffa1a7dd3b46" />
+<img width="1039" height="612" alt="Screenshot 2026-06-03 202207" src="https://github.com/user-attachments/assets/db6aadb6-3243-41b2-814c-9f5ce29d0bcc" />

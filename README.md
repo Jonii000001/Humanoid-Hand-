@@ -265,3 +265,32 @@ Pending: Finalize the trace routing on the new circular PCB layout in KiCad. Con
 <img width="1512" height="780" alt="Screenshot 2026-06-03 200714" src="https://github.com/user-attachments/assets/e9cd1494-6778-4ad6-8223-e2521cceb6cb" />
 <img width="778" height="650" alt="Screenshot 2026-06-03 201759" src="https://github.com/user-attachments/assets/9deac360-4539-4446-ad94-ffa1a7dd3b46" />
 <img width="1039" height="612" alt="Screenshot 2026-06-03 202207" src="https://github.com/user-attachments/assets/db6aadb6-3243-41b2-814c-9f5ce29d0bcc" />
+
+
+Day 20: Magnetic Saturation Resolution & Signal Architecture Evaluation
+Objective: Mitigate sensor saturation issues caused by high-flux magnetic fields and evaluate a centralized transceiver/multiplexer architecture for multi-digit signal routing.
+
+Result: Critical Pivot / In Progress.
+
+Progress: Identified a major hardware incompatibility during data sheet verification: the 4x4mm magnet generates a magnetic flux density (1.17 - 1.20 units) that causes magnetic saturation on the initially selected AS5048A encoder. The sensor could only process this field strength if separated by an unviable $5\text{mm}$ air gap, expanding the joint width to an unacceptable 30mm
+
+Successfully pivoted by transitioning to the Infineon TLE5012B 15-bit GMR (Giant Magnetoresistance) encoder. This chip natively supports higher magnetic flux densities without clipping, allowing for a flush, compact integration.
+
+Concurrently, initiated the system architecture design to handle the high-density wiring loom (40+ signal lines). Began drafting a centralized transceiver bus-master PCB using the Infineon chip's multi-protocol capabilities to streamline data acquisition.
+
+To optimize cognitive load given the complexity of this first-time custom circuit design, temporarily paused the transceiver layout to re-prioritize mechanical CAD integration of the new circular TLE5012B footprint.
+
+Pending: Finalize the physical integration of the new 15-bit circular PCB into the CAD joint assembly. Resume the transceiver/multiplexer schematic design once the individual digit kinematics are locked in.
+
+
+
+<img width="645" height="514" alt="Screenshot 2026-06-04 214925" src="https://github.com/user-attachments/assets/7250aea2-d930-431e-9e89-2d26a2513872" />
+<img width="496" height="378" alt="Screenshot 2026-06-04 121044" src="https://github.com/user-attachments/assets/e17347ea-72de-43f1-8d52-864f4b7ecdd6" />
+<img width="1770" height="953" alt="Screenshot 2026-06-04 125747" src="https://github.com/user-attachments/assets/f9b23da0-4291-40e0-9363-6687161217bc" />
+<img width="1304" height="751" alt="Screenshot 2026-06-04 131812" src="https://github.com/user-attachments/assets/cf2468c0-4463-4470-8b2b-b10ff037f53a" />
+<img width="948" height="637" alt="Screenshot 2026-06-04 150318" src="https://github.com/user-attachments/assets/f61c9ee4-b6fc-4972-9afb-2f30a59fe4ee" />
+<img width="572" height="806" alt="Screenshot 2026-06-04 152838" src="https://github.com/user-attachments/assets/92859b02-43d6-4538-a8be-a90a061d1ee9" />
+<img width="1718" height="931" alt="Screenshot 2026-06-04 154819" src="https://github.com/user-attachments/assets/41133ddb-9d35-466e-8cb5-801887f95501" />
+<img width="949" height="719" alt="Screenshot 2026-06-04 190428" src="https://github.com/user-attachments/assets/02bef64c-a0ff-4a54-9b5a-d89e9748557d" />
+<img width="710" height="521" alt="Screenshot 2026-06-04 191321" src="https://github.com/user-attachments/assets/82b8cd75-9216-4140-9f8d-68baf085ecd6" />
+<img width="891" height="686" alt="Screenshot 2026-06-04 195343" src="https://github.com/user-attachments/assets/d932571b-8841-44c1-9419-118eebebbe28" />

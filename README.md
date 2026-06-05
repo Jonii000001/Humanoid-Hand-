@@ -294,3 +294,27 @@ Pending: Finalize the physical integration of the new 15-bit circular PCB into t
 <img width="949" height="719" alt="Screenshot 2026-06-04 190428" src="https://github.com/user-attachments/assets/02bef64c-a0ff-4a54-9b5a-d89e9748557d" />
 <img width="710" height="521" alt="Screenshot 2026-06-04 191321" src="https://github.com/user-attachments/assets/82b8cd75-9216-4140-9f8d-68baf085ecd6" />
 <img width="891" height="686" alt="Screenshot 2026-06-04 195343" src="https://github.com/user-attachments/assets/d932571b-8841-44c1-9419-118eebebbe28" />
+
+
+Day 21: Enclosure Prototyping, Tendon Routing & Anthropomorphic Angulation
+Objective: Validate the PCB spatial footprint, design a non-permanent protective enclosure, map internal Dyneema tendon channels, and initiate the angled fifth digit (pinky) base.
+
+- Result: In Progress.
+
+- Progress: Created a 3D volumetric CAD mock-up of the circular PCB to verify physical clearances within the joint assembly. Identified and resolved a spatial collision where the magnetic encoder IC intersected with the structural wall of the primary phalanx.
+
+- Concurrently, initiated the design of a protective outer housing for the exposed PCB. To allow for continuous mechanical adjustments and perfect encoder recalibration, a non-permanent closure is strictly required. Traditional metal fasteners cannot be used due to magnetic flux distortion, so a 3D-printable, tool-less "snap-fit" mechanism is currently being evaluated to securely but temporarily lock the housing.
+
+- In addition to the electronic packaging, engineered the internal mechanical routing by integrating dedicated guide holes through the finger structure to accommodate the high-tensile Dyneema tendon actuation system. Finally, began structural planning for the lower base phalanx of the fifth digit (pinky finger). To mimic natural human anthropometry, this component requires an inward adduction angle, the exact degree of which is currently pending further biomechanical evaluation.
+
+- Pending: Finalize the snap-fit locking mechanism for the PCB housing and replicate this standardized enclosure across all joint assemblies. Determine the optimal inward angle for the fifth digit and refine the Dyneema routing paths.
+
+<img width="646" height="634" alt="Screenshot 2026-06-05 204244" src="https://github.com/user-attachments/assets/efe62fe5-077c-48ef-8f59-a0e04d825b0c" />
+<img width="1160" height="722" alt="Screenshot 2026-06-05 192247" src="https://github.com/user-attachments/assets/ed4d9b2c-df98-4596-9513-cf1575569465" />
+<img width="754" height="634" alt="Screenshot 2026-06-05 173447" src="https://github.com/user-attachments/assets/f6abbd93-a267-4abf-b748-bcfd268dd608" />
+<img width="791" height="728" alt="Screenshot 2026-06-05 173501" src="https://github.com/user-attachments/assets/bcd78803-ec62-4c91-94fb-a02cc2e4775f" />
+<img width="1810" height="864" alt="Screenshot 2026-06-05 185416" src="https://github.com/user-attachments/assets/8b45ed11-ae4e-49c2-b211-558552b5d90b" />
+<img width="646" height="634" alt="Screenshot 2026-06-05 204244" src="https://github.com/user-attachments/assets/c5e8c976-171f-44a6-9548-643e80462c3a" />
+<img width="956" height="689" alt="Screenshot 2026-06-05 204239" src="https://github.com/user-attachments/assets/4deebbe5-f33b-48c3-9914-e2925fd02f72" />
+<img width="1103" height="770" alt="Screenshot 2026-06-05 210530" src="https://github.com/user-attachments/assets/f3cc5cdf-31dd-4484-88fc-1590dbc2a512" />
+

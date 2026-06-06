@@ -326,11 +326,11 @@ Objective: Assemble the complete kinematic chain for the first digit in CAD, des
 - Result: Milestone Achieved / In Progress.
 
 - Progress:
-- Enclosure Engineering: Designed a custom PCB housing featuring an overhanging lip with internal alignment pegs (bosses) for precise board positioning. Currently evaluating temporary retention methods like electrical     tape versus a permanent printed cap.
-- Form Factor Trade-off: Encountered a spatial bottleneck where the enclosure inflated the joint width to 30mm (exceeding the 21mm anthropomorphic human target). Accepted this limitation for the current prototype to avoid feature creep, scheduling the 21mm footprint for a "Version 2" redesign.
-- Kinematic Assembly: Successfully mated all individual sub-assemblies within Autodesk Inventor, completing the first fully functional digital kinematic finger model.
-- Organic Modeling: Initiated the design of the main hand palm, which presents a steep difficulty curve due to the complex, non-geometric organic surfaces required to replicate human anatomy.
-- Procurement Strategy: Shifted focus toward hardware acquisition to mitigate CAD fatigue. Actively monitoring Bambu Lab hardware sales to strategically invest personal funds into a 3D printer, transitioning the project into the physical prototyping phase.
+  - Enclosure Engineering: Designed a custom PCB housing featuring an overhanging lip with internal alignment pegs (bosses) for precise board positioning. Currently evaluating temporary retention methods like electrical     tape versus a permanent printed cap.
+  - Form Factor Trade-off: Encountered a spatial bottleneck where the enclosure inflated the joint width to 30mm (exceeding the 21mm anthropomorphic human target). Accepted this limitation for the current prototype to avoid feature creep, scheduling the 21mm footprint for a "Version 2" redesign.
+  - Kinematic Assembly: Successfully mated all individual sub-assemblies within Autodesk Inventor, completing the first fully functional digital kinematic finger model.
+  - Organic Modeling: Initiated the design of the main hand palm, which presents a steep difficulty curve due to the complex, non-geometric organic surfaces required to replicate human anatomy.
+  - Procurement Strategy: Shifted focus toward hardware acquisition to mitigate CAD fatigue. Actively monitoring Bambu Lab hardware sales to strategically invest personal funds into a 3D printer, transitioning the project into the physical prototyping phase.
 
 - Pending: Finalize the base joint housing for the complete digit. Continue navigating the complex organic surface modeling for the palm chassis in Inventor. Procure the Bambu Lab 3D printer to transition from digital design to physical prototyping.
 

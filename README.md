@@ -323,21 +323,21 @@ Day 22:
 Day 22: First Digit Assembly, Enclosure Trade-offs & Palm Chassis Initiation
 Objective: Assemble the complete kinematic chain for the first digit in CAD, design the PCB enclosure, and initiate organic surface modeling for the main palm chassis.
 
--Result: Milestone Achieved / In Progress.
+- Result: Milestone Achieved / In Progress.
 
--Progress:
+- Progress:
 
- -Enclosure Engineering: Designed a custom PCB housing featuring an overhanging lip with internal alignment pegs (bosses) for precise board positioning. Currently evaluating temporary retention methods like electrical     tape versus a permanent printed cap.
+ - Enclosure Engineering: Designed a custom PCB housing featuring an overhanging lip with internal alignment pegs (bosses) for precise board positioning. Currently evaluating temporary retention methods like electrical     tape versus a permanent printed cap.
 
- -Form Factor Trade-off: Encountered a spatial bottleneck where the enclosure inflated the joint width to 30mm (exceeding the 21mm anthropomorphic human target). Accepted this limitation for the current prototype to avoid   feature creep, scheduling the 21mm footprint for a "Version 2" redesign.
+ - Form Factor Trade-off: Encountered a spatial bottleneck where the enclosure inflated the joint width to 30mm (exceeding the 21mm anthropomorphic human target). Accepted this limitation for the current prototype to avoid   feature creep, scheduling the 21mm footprint for a "Version 2" redesign.
 
- -Kinematic Assembly: Successfully mated all individual sub-assemblies within Autodesk Inventor, completing the first fully functional digital kinematic finger model.
+ - Kinematic Assembly: Successfully mated all individual sub-assemblies within Autodesk Inventor, completing the first fully functional digital kinematic finger model.
 
- -Organic Modeling: Initiated the design of the main hand palm, which presents a steep difficulty curve due to the complex, non-geometric organic surfaces required to replicate human anatomy.
+ - Organic Modeling: Initiated the design of the main hand palm, which presents a steep difficulty curve due to the complex, non-geometric organic surfaces required to replicate human anatomy.
 
- -Procurement Strategy: Shifted focus toward hardware acquisition to mitigate CAD fatigue. Actively monitoring Bambu Lab hardware sales to strategically invest personal funds into a 3D printer, transitioning the project into the physical prototyping phase.
+ - Procurement Strategy: Shifted focus toward hardware acquisition to mitigate CAD fatigue. Actively monitoring Bambu Lab hardware sales to strategically invest personal funds into a 3D printer, transitioning the project into the physical prototyping phase.
 
--Pending: Finalize the base joint housing for the complete digit. Continue navigating the complex organic surface modeling for the palm chassis in Inventor. Procure the Bambu Lab 3D printer to transition from digital design to physical prototyping.
+- Pending: Finalize the base joint housing for the complete digit. Continue navigating the complex organic surface modeling for the palm chassis in Inventor. Procure the Bambu Lab 3D printer to transition from digital design to physical prototyping.
 
 <img width="1650" height="810" alt="Screenshot 2026-06-06 174247" src="https://github.com/user-attachments/assets/1f26a166-10d8-4e87-ad73-15c5577df4d2" />
 <img width="1081" height="618" alt="Screenshot 2026-06-06 214048" src="https://github.com/user-attachments/assets/be459929-dd4c-4ade-867f-459b301eb5f4" />

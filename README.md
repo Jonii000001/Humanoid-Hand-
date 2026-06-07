@@ -344,3 +344,31 @@ Objective: Assemble the complete kinematic chain for the first digit in CAD, des
 <img width="842" height="337" alt="Screenshot 2026-06-06 173915" src="https://github.com/user-attachments/assets/e135de4d-5acb-4351-803c-23aea5817113" />
 <img width="1264" height="646" alt="Screenshot 2026-06-06 173926" src="https://github.com/user-attachments/assets/7bd774b4-7bfb-46ce-ab9d-274294101a6c" />
 
+
+Day 23: Time-Tracking Integration, Palm Interface Design & Academic Balancing
+Objective: Implement precise time-tracking infrastructure, establish the initial structural connection between the digit and the palm chassis, and manage the CAD roadmap alongside academic constraints.
+
+- Result: Progress Made / Iterative Design Phase.
+
+- Progress:
+
+    - Time-Tracking Integration: Implemented Toggl to track development hours with high precision, ensuring complete transparency and strict compliance with the Macondo Hack Club time-reporting guidelines.
+
+    - Academic Balancing: Managed project development velocity alongside a demanding school schedule, successfully balancing complex engineering tasks with upcoming exams and tests.
+
+    - Palm Interface Design: Developed the initial mating interface on the palm chassis to connect the completed finger assembly. While functionally sound for this design sprint, the palm geometry will likely be slated for a future ergonomic redesign once the overall CAD phase concludes and programming begins.
+
+    - Strategic Workflow Delay: Structured the remaining pipeline to prioritize finishing the primary CAD files over feature creep. The development of the complex thumb mechanics and the final tendon routing paths have been strategically deferred until the physical 3D printer is on-site.
+
+    - Procurement Prioritization: Designated the 3D printer as the critical path item, pausing secondary component orders to ensure hardware availability is aligned with the completion of the digital assembly files.
+
+- Pending: Finalize the palm chassis geometry. Design the PCB enclosure for the proximal phalanx (base segment) of the first digit, duplicate the standardized finger assemblies, and initiate modeling on the intermediate phalanx of the fifth digit (pinky).
+
+<img width="737" height="561" alt="Screenshot 2026-06-07 192602" src="https://github.com/user-attachments/assets/c7a411fe-944f-4cec-924f-382e2720845d" />
+<img width="1688" height="740" alt="Screenshot 2026-06-07 192806" src="https://github.com/user-attachments/assets/3b4f2d09-4515-44b2-a655-e1be6b822614" />
+<img width="1269" height="728" alt="Screenshot 2026-06-07 200243" src="https://github.com/user-attachments/assets/09344392-5c2a-414f-b5ef-bf7a07d2fedb" />
+<img width="1248" height="727" alt="Screenshot 2026-06-07 200330" src="https://github.com/user-attachments/assets/46babc0d-9a31-4402-8a48-85c88cc6f838" />
+<img width="1273" height="623" alt="Screenshot 2026-06-07 201614" src="https://github.com/user-attachments/assets/09a2f439-77e2-41c5-90ec-6695f134a481" />
+<img width="1028" height="821" alt="Screenshot 2026-06-07 202815" src="https://github.com/user-attachments/assets/e6a44dc8-02e6-4288-b9d7-d0516dee0a12" />
+<img width="1368" height="767" alt="Screenshot 2026-06-07 202820" src="https://github.com/user-attachments/assets/fd2d15b8-d080-432e-a48b-4da8747b3d1d" />
+<img width="830" height="810" alt="Screenshot 2026-06-07 203919" src="https://github.com/user-attachments/assets/102c02a0-a890-483e-91a5-cee58c0abddf" />

@@ -372,3 +372,30 @@ Objective: Implement precise time-tracking infrastructure, establish the initial
 <img width="1028" height="821" alt="Screenshot 2026-06-07 202815" src="https://github.com/user-attachments/assets/e6a44dc8-02e6-4288-b9d7-d0516dee0a12" />
 <img width="1368" height="767" alt="Screenshot 2026-06-07 202820" src="https://github.com/user-attachments/assets/fd2d15b8-d080-432e-a48b-4da8747b3d1d" />
 <img width="830" height="810" alt="Screenshot 2026-06-07 203919" src="https://github.com/user-attachments/assets/102c02a0-a890-483e-91a5-cee58c0abddf" />
+
+Day 24: Mechanical Leverage Optimization & PCB Cost Estimation
+Objective: Redesign the palm chassis geometry based on mechanical torque constraints, iterate on the PCB housing, and conduct preliminary component cost analysis.
+
+- Result: Progress Made / Structural Optimization.
+
+- Progress:
+
+    - Mechanical Leverage Optimization: Redesigned the palm chassis to be more compact. Recognized that an elongated, hyper-realistic palm profile would increase the moment arm (lever law), significantly increasing the torque requirements for the actuation motors. Shortening the geometry optimizes the mechanical advantage and reduces motor strain.
+
+    - Enclosure Iteration: Developed an alternative variant of the PCB housing to improve component packaging and integration, with physical validation pending.
+
+    - Prototyping Strategy: Confirmed that the current CAD generation serves as a functional proof-of-concept simulation. Final fine-tuning of fine tolerances, precision adjustments, and aesthetic details will be executed after initial 3D prints reveal real-world mechanical performance.
+
+    - Financial Sourcing: Conducted initial market research and manufacturer pricing queries to estimate the production and fabrication costs of the custom encoder PCBs.
+
+- Pending: Await the arrival of the 3D printer to begin physical fit-testing. Refine the alternative PCB housing variant and prepare the final file package for print validation.
+
+<img width="1747" height="930" alt="Screenshot 2026-06-08 132105" src="https://github.com/user-attachments/assets/60742469-3e37-44d4-9760-1f69f10387ef" />
+<img width="1088" height="775" alt="Screenshot 2026-06-08 141606" src="https://github.com/user-attachments/assets/abb5f94f-2853-40a6-9119-501b87691c73" />
+<img width="696" height="540" alt="Screenshot 2026-06-08 141616" src="https://github.com/user-attachments/assets/02e7af64-cc03-4291-8712-5a54b22b8eaf" />
+<img width="863" height="634" alt="Screenshot 2026-06-08 152008" src="https://github.com/user-attachments/assets/9002f78e-cd00-49ad-a56d-550f8002a9d0" />
+<img width="1407" height="798" alt="Screenshot 2026-06-08 154928" src="https://github.com/user-attachments/assets/8c28781d-d5a1-40c8-aa11-ad0a1d529ed0" />
+<img width="1182" height="546" alt="Screenshot 2026-06-08 153814" src="https://github.com/user-attachments/assets/fd3e127f-5d9e-47d0-8753-7c4d32862531" />
+<img width="1083" height="654" alt="Screenshot 2026-06-08 171205" src="https://github.com/user-attachments/assets/36636094-6523-4017-a064-ab55e06bf9be" />
+<img width="1093" height="640" alt="Screenshot 2026-06-08 181624" src="https://github.com/user-attachments/assets/b1b8e59e-fb16-4432-b25e-f37ab8f71642" />
+

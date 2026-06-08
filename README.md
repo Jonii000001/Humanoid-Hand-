@@ -398,4 +398,5 @@ Objective: Redesign the palm chassis geometry based on mechanical torque constra
 <img width="1182" height="546" alt="Screenshot 2026-06-08 153814" src="https://github.com/user-attachments/assets/fd3e127f-5d9e-47d0-8753-7c4d32862531" />
 <img width="1083" height="654" alt="Screenshot 2026-06-08 171205" src="https://github.com/user-attachments/assets/36636094-6523-4017-a064-ab55e06bf9be" />
 <img width="1093" height="640" alt="Screenshot 2026-06-08 181624" src="https://github.com/user-attachments/assets/b1b8e59e-fb16-4432-b25e-f37ab8f71642" />
+<img width="332" height="509" alt="image" src="https://github.com/user-attachments/assets/bd77c8b4-d6f4-435f-b436-ebf8be4adfd2" />
 

@@ -421,3 +421,6 @@ Objective: Refine palm chassis geometry for anatomical accuracy and standardize 
 <img width="1090" height="635" alt="Screenshot 2026-06-09 203800" src="https://github.com/user-attachments/assets/6d04cb03-be18-4cea-8848-056dd64d4a97" />
 <img width="741" height="621" alt="Screenshot 2026-06-09 205725" src="https://github.com/user-attachments/assets/245f20d6-f9be-4897-97f9-85169797bbd7" />
 <img width="1690" height="872" alt="Screenshot 2026-06-09 205739" src="https://github.com/user-attachments/assets/3fbaaea2-f247-47e5-9888-4f497797dccc" />
+
+Day 26:
+I completed the finger connecters of the palm. It was very hard, because I nearly tried 50 different positions for them. At the end I came up to the point that they connecters are to close together, so I've to do it a thirt time

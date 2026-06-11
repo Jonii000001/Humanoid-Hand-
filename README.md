@@ -470,6 +470,10 @@ Objective: Sequence the CAD workflow, design a non-interfering PCB housing, scal
 
 - Pending: Complete the CAD modeling for the pinky digit. Evaluate engineering an extended proximal segment for the middle finger to accurately reflect human proportions.
 
+
+
+
+https://github.com/user-attachments/assets/3a072bb1-8ccc-41af-9362-5cba3cb2b5d4
 <img width="1292" height="678" alt="image" src="https://github.com/user-attachments/assets/215a4eae-c294-48cf-9125-b3776bf7f3d4" />
 <img width="863" height="510" alt="Screenshot 2026-06-11 151811" src="https://github.com/user-attachments/assets/dff9169c-ea12-4652-a733-14dcaadbf77c" />
 <img width="756" height="553" alt="Screenshot 2026-06-11 151820" src="https://github.com/user-attachments/assets/05723464-c7ef-4bc5-a1cb-d455213c726b" />

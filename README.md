@@ -460,6 +460,8 @@ Objective: Sequence the CAD workflow, design a non-interfering PCB housing, scal
 
     - Strategic Assembly Sequencing: Paused the redesign of the main palm chassis. Realized that attempting to finalize the complex palm topology is highly inefficient without first locking in the final dimensions of all individual fingers (a bottom-up design approach).
 
+    - Legacy Data Integration: Accelerated the initial palm redesign phase by porting over the core dimensions from the previous iteration. Reusing this established measurement data allowed for a highly efficient rapid-drafting process, saving significant CAD modeling time before pausing the component for the bottom-up assembly.
+
     - Enclosure Clearance: Identified the need to design a highly compact PCB housing specifically engineered to prevent mechanical interference with adjacent fingers during movement.
 
     - Digit Scaling (Pinky): Initiated modeling for the proximal phalanx (base segment) of the fifth digit. To maintain modularity, the two distal components will remain identical to the standard finger design, while only the proximal segment is scaled down to achieve realistic anthropomorphic proportions.

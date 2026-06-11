@@ -451,4 +451,28 @@ Objective: Optimize the spatial positioning for the digit-to-palm mounting inter
 <img width="1045" height="659" alt="Screenshot 2026-06-10 162031" src="https://github.com/user-attachments/assets/aae167bd-6606-4eac-8e98-bd0cd2dac1bd" />
 
 
+Day 27: Assembly Sequencing, Digit Scaling & Parametric Constraints
+Objective: Sequence the CAD workflow, design a non-interfering PCB housing, scale the fifth digit (pinky) for anatomical accuracy, and implement parametric constraints.
+
+- Result: Strategic Pivot / In Progress.
+
+- Progress:
+
+    - Strategic Assembly Sequencing: Paused the redesign of the main palm chassis. Realized that attempting to finalize the complex palm topology is highly inefficient without first locking in the final dimensions of all individual fingers (a bottom-up design approach).
+
+    - Enclosure Clearance: Identified the need to design a highly compact PCB housing specifically engineered to prevent mechanical interference with adjacent fingers during movement.
+
+    - Digit Scaling (Pinky): Initiated modeling for the proximal phalanx (base segment) of the fifth digit. To maintain modularity, the two distal components will remain identical to the standard finger design, while only the proximal segment is scaled down to achieve realistic anthropomorphic proportions.
+
+    - Interference Resolution & Parametric Shift: Encountered a critical geometric error: accidentally modeled the finger joint connector and the palm receiver socket both exactly at 17mm, creating an unviable interference fit. To mitigate such errors and make future CAD updates far more efficient, I am transitioning to a parametric design strategy (utilizing fixed global variables/distances).
+
+- Pending: Complete the CAD modeling for the pinky digit. Evaluate engineering an extended proximal segment for the middle finger to accurately reflect human proportions.
+
+<img width="1292" height="678" alt="image" src="https://github.com/user-attachments/assets/215a4eae-c294-48cf-9125-b3776bf7f3d4" />
+<img width="863" height="510" alt="Screenshot 2026-06-11 151811" src="https://github.com/user-attachments/assets/dff9169c-ea12-4652-a733-14dcaadbf77c" />
+<img width="756" height="553" alt="Screenshot 2026-06-11 151820" src="https://github.com/user-attachments/assets/05723464-c7ef-4bc5-a1cb-d455213c726b" />
+<img width="974" height="677" alt="Screenshot 2026-06-11 172519" src="https://github.com/user-attachments/assets/48b3309f-47d9-4b42-acf6-0aca922f2a21" />
+<img width="1313" height="535" alt="Screenshot 2026-06-11 175917" src="https://github.com/user-attachments/assets/d4648506-05c3-4d41-a604-6eb7c08e398b" />
+<img width="1177" height="693" alt="Screenshot 2026-06-11 180554" src="https://github.com/user-attachments/assets/988ec37a-5401-41e4-be6a-cbc39d3ea1f5" />
+<img width="1454" height="774" alt="Screenshot 2026-06-11 181913" src="https://github.com/user-attachments/assets/9299bc79-09c1-47f4-80b2-69f85cbc71cd" />
 

@@ -482,3 +482,34 @@ https://github.com/user-attachments/assets/3a072bb1-8ccc-41af-9362-5cba3cb2b5d4
 <img width="1177" height="693" alt="Screenshot 2026-06-11 180554" src="https://github.com/user-attachments/assets/988ec37a-5401-41e4-be6a-cbc39d3ea1f5" />
 <img width="1454" height="774" alt="Screenshot 2026-06-11 181913" src="https://github.com/user-attachments/assets/9299bc79-09c1-47f4-80b2-69f85cbc71cd" />
 
+
+Day 28: Proximal Phalanx Completion, Digital Assembly & Control Architecture Selection
+Objective: Finalize the CAD geometry for the middle and fifth digits, compile a full digital hand assembly, define the electronic control architecture, and pivot to software development.
+
+- Result: Phase Transition / Tech Stack Locked.
+
+- Progress:
+
+    - Digit Scaling & Efficiency: Successfully completed the CAD modeling for the extended proximal phalanx (base segment) of the middle finger, as well as the scaled-down version for the fifth digit (pinky). The workflow was highly efficient, indicating a growing proficiency in CAD operations and parametric design.
+
+    - Tolerance Visualization Constraint: Decided to temporarily pause the highly detailed enclosure and housing designs. As this is my first hardware project, accurately visualizing physical tolerances and micro-clearances purely on a screen is proving difficult without tactile reference models.
+
+    - Hardware Procurement & Assembly: Scheduled the purchase of the Bambu Lab 3D printer for Monday. While awaiting delivery to validate physical clearances, my immediate mechanical goal is to mate all existing sub-assemblies into one complete digital mock-up of the hand.
+
+    - Control Architecture Selection: Formulated a powerful master-slave (high-level/low-level) control topography. Selected the Teensy 4.1 running C++ as the low-level, real-time microcontroller due to its 600 MHz clock speed, making it ideal for processing high-frequency TLE5012B encoder data and controlling the Dyneema tendon servos. For high-level cognitive logic, planned an upgrade path to a Raspberry Pi or an Nvidia Jetson Orin, depending on final budget allocations.
+
+    - Software Pivot & Vibe Coding Strategy: Transitioning the project's primary focus to software engineering. I intend to embrace a "vibe coding" workflow—focusing on high-level system architecture, logic loops, and prompt-driven development rather than getting bogged down in traditional syntax from scratch. For a complete beginner, this approach serves as an efficient catalyst to generate functional C++ code for the Teensy while strengthening foundational engineering concepts.
+
+- Pending: Execute the full digital assembly of the hand in Autodesk Inventor. Finalize the 3D printer procurement. Set up the software development environment to begin the vibe coding phase.
+
+
+<img width="1018" height="547" alt="Screenshot 2026-06-12 154001" src="https://github.com/user-attachments/assets/357bd97d-102c-46d9-a06c-1fa440fdd439" />
+<img width="901" height="649" alt="Screenshot 2026-06-12 140826" src="https://github.com/user-attachments/assets/6428d0c2-db87-4070-936f-42458827e26d" />
+<img width="1085" height="559" alt="Screenshot 2026-06-12 155826" src="https://github.com/user-attachments/assets/b6683f1a-6cce-4afb-9613-da1d0406a10c" />
+<img width="1147" height="606" alt="Screenshot 2026-06-12 155958" src="https://github.com/user-attachments/assets/bbfce0c0-62cd-4cdd-9736-4aac2c26292c" />
+<img width="1449" height="621" alt="Screenshot 2026-06-12 165654" src="https://github.com/user-attachments/assets/6cdf7155-3f37-4934-b4be-5b3243b73485" />
+<img width="1452" height="637" alt="Screenshot 2026-06-12 162001" src="https://github.com/user-attachments/assets/e5c5b812-90e1-4628-9f1d-ac547ddc2029" />
+<img width="1155" height="651" alt="Screenshot 2026-06-12 181149" src="https://github.com/user-attachments/assets/bcc6f8f2-4899-4fa2-ab2a-c759feb61ffd" />
+<img width="896" height="557" alt="Screenshot 2026-06-12 181519" src="https://github.com/user-attachments/assets/2b1fe4c0-d45d-4f7b-a221-0079f19ebfd7" />
+<img width="893" height="437" alt="Screenshot 2026-06-12 181529" src="https://github.com/user-attachments/assets/5e053437-4679-4e11-a721-4e03071c19fd" />
+<img width="1353" height="863" alt="Screenshot 2026-06-12 192502" src="https://github.com/user-attachments/assets/a3598d9f-d256-4d40-a130-3d652ab67f70" />

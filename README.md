@@ -514,8 +514,8 @@ Objective: Finalize the CAD geometry for the middle and fifth digits, compile a 
 <img width="893" height="437" alt="Screenshot 2026-06-12 181529" src="https://github.com/user-attachments/assets/5e053437-4679-4e11-a721-4e03071c19fd" />
 <img width="1353" height="863" alt="Screenshot 2026-06-12 192502" src="https://github.com/user-attachments/assets/a3598d9f-d256-4d40-a130-3d652ab67f70" />
 
-Day 29: Component Sourcing, BOM Evaluation & Contingency Planning
-Objective: Source physical hardware components, evaluate budget constraints, and perform minor digital model refinements.
+Day 29: Component Sourcing, BOM Evaluation & Hardware Arrival
+Objective: Source physical hardware components, evaluate budget constraints, perform minor digital model refinements, and take delivery of manufacturing hardware.
 
 - Result: In Progress / Sourcing Phase.
 
@@ -525,10 +525,11 @@ Objective: Source physical hardware components, evaluate budget constraints, and
 
     - Sponsorship Strategy & Contingency: Currently evaluating funding pathways. If the Macondo Hack Club can provide financial sponsorship, I will proceed with procuring the premium, high-performance components. However, as a proactive contingency plan, I am also preparing a list of budget-friendly alternative components to ensure the project can still be completed out-of-pocket if necessary.
 
-    - Time Management & CAD Refinement: Due to external scheduling constraints, development time was limited to a one-hour sprint today. Utilized this focused block to make minor, incremental adjustments and cleanups within the CAD environment.
+    - Hardware Arrival & Academic Balancing: The 3D printer successfully arrived today, marking a major milestone for the upcoming physical prototyping phase! While I am highly anticipating the initial calibration and test prints, my project velocity will temporarily decrease this week due to a strict, intentional prioritization of my school exams and academic responsibilities.
 
-- Pending: Finalize the official Bill of Materials (BOM) and submit a potential sponsorship request to the Macondo Hack Club. Solidify the budget-alternative component list.
+    - Time Management & CAD Refinement: Due to these external scheduling constraints, development time was limited to a one-hour sprint today. Utilized this focused block to make minor, incremental adjustments and cleanups within the CAD environment.
 
+- Pending: Finalize the official Bill of Materials (BOM) and submit a potential sponsorship request to the Macondo Hack Club. Solidify the budget-alternative component list. Setup and calibrate the new 3D printer once academic schedule permits.
 
 <img width="1266" height="785" alt="Screenshot 2026-06-13 211334" src="https://github.com/user-attachments/assets/081818dc-2734-4e58-b1c7-89dc1806d615" />
 <img width="1883" height="841" alt="Screenshot 2026-06-13 211851" src="https://github.com/user-attachments/assets/73617a50-447f-4eb1-90fe-ccc6aef26558" />

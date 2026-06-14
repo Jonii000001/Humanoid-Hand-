@@ -535,3 +535,26 @@ Objective: Source physical hardware components, evaluate budget constraints, per
 <img width="1883" height="841" alt="Screenshot 2026-06-13 211851" src="https://github.com/user-attachments/assets/73617a50-447f-4eb1-90fe-ccc6aef26558" />
 <img width="1919" height="599" alt="Screenshot 2026-06-13 211919" src="https://github.com/user-attachments/assets/890fafa3-287f-4b85-9078-454529525412" />
 <img width="1475" height="538" alt="Screenshot 2026-06-13 211924" src="https://github.com/user-attachments/assets/39cacca1-8dc9-42dd-b298-998e9ac283b3" />
+
+Day 30: Facility Setup, Hardware Commissioning & Material Selection
+Objective: Establish the physical manufacturing workspace, commission the new 3D printer, and define the primary material parameters for the humanoid hand.
+
+- Result: Workspace Operational / Material Selected.
+
+- Progress:
+
+    - Workspace Infrastructure: Shifted focus from digital CAD to physical facility setup. Installed the newly arrived Bambu Lab P1S in the garage workspace. This required significant infrastructure work, including reinforcing/stabilizing a custom mounting crate, routing electrical conduit (cable trunking), and wiring a dedicated power outlet—a highly rewarding first-time electrical experience.
+
+    - Hardware Commissioning: Successfully completed the physical setup of the printer. Cleaned the hardware, mounted the filament spool holder, and fully commissioned the machine after a comprehensive 4-hour integration session.
+
+    - Visual Documentation Policy: Implemented a strategic approach to photographic documentation. To maintain personal privacy and operational security (OPSEC) regarding my home environment, I am intentionally limiting background workspace photos. Furthermore, minimizing photo interruptions during complex, hands-on hardware installations (such as electrical wiring) ensures strict safety, uninterrupted focus, and optimal workflow efficiency.
+
+    - High-Resolution Procurement: Ordered a 0.2 mm high-precision nozzle to enable the printing of micro-tolerances and ultra-fine mechanical details required for the finger joints. The component is scheduled to arrive on Wednesday, which will officially initiate the hardware testing and calibration phase.
+
+    - Material Selection: Finalized the structural material for the humanoid hand chassis. Selected PLA+ due to its optimal balance of high tensile strength, structural rigidity, and rapid, reliable print times.
+
+    - Academic Prioritization & Balanced Velocity: Due to this week being a critical "exams week" with multiple major school tests and assignments, the initial printing phase will proceed at a slower, measured pace. Managing a large-scale robotics project alongside demanding high school academics requires strict time allocation, and I appreciate everyone's understanding regarding this temporary deceleration.
+
+- Pending: Perform initial bed leveling and calibration on the P1S. Await the arrival of the 0.2 mm nozzle on Wednesday to execute preliminary high-resolution test prints. Focus on upcoming school exams before ramping up physical prototyping velocity.
+
+

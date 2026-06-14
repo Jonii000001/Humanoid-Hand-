@@ -558,3 +558,8 @@ Objective: Establish the physical manufacturing workspace, commission the new 3D
 - Pending: Perform initial bed leveling and calibration on the P1S. Await the arrival of the 0.2 mm nozzle on Wednesday to execute preliminary high-resolution test prints. Focus on upcoming school exams before ramping up physical prototyping velocity.
 
 
+<img width="1576" height="2100" alt="image" src="https://github.com/user-attachments/assets/74763c2a-370f-46d0-a8d2-a466c65c8740" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/1e722f68-7d7d-4a23-9e45-9091d5a427da" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/56f11571-8ba1-4b38-b18d-263104bace8e" />
+<img width="1170" height="1547" alt="image" src="https://github.com/user-attachments/assets/72d86f89-2bad-48c4-a23d-42531f74641d" />
+

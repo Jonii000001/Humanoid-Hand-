@@ -563,3 +563,30 @@ Objective: Establish the physical manufacturing workspace, commission the new 3D
 <img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/56f11571-8ba1-4b38-b18d-263104bace8e" />
 <img width="1170" height="1547" alt="image" src="https://github.com/user-attachments/assets/72d86f89-2bad-48c4-a23d-42531f74641d" />
 
+
+
+Day 31: Sensor Cavity Integration, Low-Friction Tendon Routing & Conceptual Design
+Objective: Integrate the encoder chip housing within the digital finger joints, research low-friction materials for the tendon actuation system, and manage development velocity during exam week.
+
+- Result: Progress Made / Design Iteration.
+
+- Progress:
+
+    - Sensor Pocket Integration: Identified a critical geometric requirement while attempting to mate the digital finger sub-assemblies. Modified the joint connector to incorporate a custom recess (clearance pocket), ensuring the TLE5012B magnetic encoder chip fits perfectly within the internal structure without interfering with the mechanical joint rotation.
+
+    - Low-Friction Actuation Routing: Conducted material sourcing for the mechanical tendon system. Decided to implement a high-strength tendon line routed entirely through internal PTFE tubing. This industrial-grade routing method minimizes surface friction, guides the actuation lines smoothly through the chassis, and protects the tendons from structural wear and fraying over time.
+
+    - Conceptual Prototyping: Spent an extensive research session conceptualizing and evaluating several routing architecture variations. While these theoretical layouts look highly promising on paper, their physical viability and clearance tolerances remain pending empirical validation.
+
+    - Academic Constraints: Maintained a reduced development schedule to balance project progress with heavy high school exam week preparation.
+
+- Pending: Complete the CAD updates for the sensor pockets across all remaining digits. Prepare for initial physical testing of the PTFE tendon channels once the 0.2mm high-precision nozzle arrives.
+
+
+<img width="1156" height="839" alt="Screenshot 2026-06-15 163634" src="https://github.com/user-attachments/assets/c793ce4a-bee7-4b17-89c6-170cebc7af16" />
+<img width="1360" height="727" alt="Screenshot 2026-06-15 173249" src="https://github.com/user-attachments/assets/119262d7-6aa0-44b8-90e6-3433dfea12f8" />
+<img width="1234" height="678" alt="Screenshot 2026-06-15 174432" src="https://github.com/user-attachments/assets/6aa433e5-82b5-4c74-a7ee-4216dedb3ef7" />
+<img width="915" height="599" alt="Screenshot 2026-06-15 174612" src="https://github.com/user-attachments/assets/2828ac80-9bee-4472-b4f8-6780ad97896c" />
+<img width="1903" height="896" alt="Screenshot 2026-06-15 175729" src="https://github.com/user-attachments/assets/214a9376-d1c9-4c08-b8ac-77ecc64e7296" />
+<img width="1843" height="830" alt="image" src="https://github.com/user-attachments/assets/9d64341c-74f9-445e-a838-3dda9e5aa5e3" />
+

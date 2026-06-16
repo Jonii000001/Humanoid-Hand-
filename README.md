@@ -590,3 +590,28 @@ Objective: Integrate the encoder chip housing within the digital finger joints, 
 <img width="1903" height="896" alt="Screenshot 2026-06-15 175729" src="https://github.com/user-attachments/assets/214a9376-d1c9-4c08-b8ac-77ecc64e7296" />
 <img width="1843" height="830" alt="image" src="https://github.com/user-attachments/assets/9d64341c-74f9-445e-a838-3dda9e5aa5e3" />
 
+
+Day 32: Dimensional Tolerances, Interference Detection & Base Segment Redesign
+Objective: Resolve dimensional inaccuracies in the base finger segment, integrate PCB mounting structures, and analyze digital collision warnings.
+
+- Result: Design Iteration / Tolerance Analysis.
+
+- Progress:
+    - Dimensional Redesign: Encountered a critical scaling issue during the digital assembly phase. The base finger segment (proximal phalanx) was calculated to be exactly 1 mm too wide. In the context of anthropomorphic/humanoid robotics, a 1 mm deviation creates significant mechanical and aesthetic issues. Consequently, I initiated a comprehensive redesign of the component to correct its width.
+    - PCB Mounting & Clearance: Successfully integrated the internal mounting bracket for the custom PCB. Modified the structural cutouts specifically to accommodate the TLE5012B magnetic encoder chip and ensure an optimal fit within the joint housing.
+    - Interference Analysis & Deferral Strategy: The CAD software's interference detection flagged a minor collision between the PCB chip and the housing, calculating an overlap of just 0.7 mm². Instead of stopping my entire workflow to fix this immediately, I have decided to defer the optimization to a later stage. I will simply reduce the internal fillet/radius slightly at a later date. This allows me to maintain development momentum right now.
+    - Academic Constraints & Weekend Planning: Due to the heavy workload of finals week, project velocity will remain low for the next few days to keep focus entirely on school exams. However, a full-scale prototyping sprint is scheduled for the weekend, where I plan to kick off physical test prints and printer calibrations.
+
+- Pending: Await the 0.2 mm high-precision nozzle to initiate the first physical test prints over the weekend. Complete school finals before executing the minor CAD radius adjustments.
+
+
+<img width="874" height="701" alt="Screenshot 2026-06-16 172057" src="https://github.com/user-attachments/assets/e0728056-2c1b-4608-baca-ef37fdc7fb7c" />
+<img width="1177" height="673" alt="Screenshot 2026-06-16 171225" src="https://github.com/user-attachments/assets/847ef7b3-2ff4-4a52-9c3c-394819ffda5a" />
+<img width="1238" height="686" alt="Screenshot 2026-06-16 171249" src="https://github.com/user-attachments/assets/0e9fa30c-0893-469a-820d-e32a6a86fda8" />
+<img width="960" height="658" alt="Screenshot 2026-06-16 174710" src="https://github.com/user-attachments/assets/aa88f426-715f-4003-b579-cb5c874aa8c6" />
+<img width="1209" height="556" alt="Screenshot 2026-06-16 174138" src="https://github.com/user-attachments/assets/6ade3a12-db82-4c5e-a42c-df7194184598" />
+<img width="999" height="676" alt="Screenshot 2026-06-16 190639" src="https://github.com/user-attachments/assets/8d86dfb3-2ed9-4c79-8208-d9da822fdce1" />
+<img width="800" height="430" alt="Screenshot 2026-06-16 191443" src="https://github.com/user-attachments/assets/1bf82bcd-9986-4d04-977b-3fe80ce17e1f" />
+<img width="789" height="449" alt="Screenshot 2026-06-16 191745" src="https://github.com/user-attachments/assets/36a8e653-1808-4200-81ab-f6a36f2012de" />
+<img width="513" height="596" alt="Screenshot 2026-06-16 200913" src="https://github.com/user-attachments/assets/3b40911f-8927-4abc-970b-5bd793ca002f" />
+

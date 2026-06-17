@@ -615,3 +615,30 @@ Objective: Resolve dimensional inaccuracies in the base finger segment, integrat
 <img width="789" height="449" alt="Screenshot 2026-06-16 191745" src="https://github.com/user-attachments/assets/36a8e653-1808-4200-81ab-f6a36f2012de" />
 <img width="513" height="596" alt="Screenshot 2026-06-16 200913" src="https://github.com/user-attachments/assets/3b40911f-8927-4abc-970b-5bd793ca002f" />
 
+
+Day 33: Tendon Routing, BOM Refinement & Prototyping Preparation
+Objective: Model internal tendon routing channels, finalize the procurement list, and prepare for the physical prototyping phase.
+
+- Result: CAD Updated / Prototyping Ready.
+
+- Progress:
+
+    - Tendon Routing Channels: Modeled the internal channels for the tendon lines to enable finger actuation. Initially attempted to design a curved channel (swept cut) for optimal tendon guidance but encountered CAD workflow limitations. Opted for a straight linear cut ("straight hole") as a functional baseline. The mechanical viability and friction levels of this straight routing will be evaluated during physical testing.
+
+    - Hardware Delivery: The 0.2 mm high-precision nozzle and the preliminary prototyping filament successfully arrived today, unlocking the imminent physical manufacturing phase.
+
+    - BOM Refinement: Compiled a clean, finalized version of the Bill of Materials (BOM), detailing all remaining components required for procurement.
+
+    - Phase Transition: Scheduled the first physical test prints for Friday. This upcoming weekend marks a major project milestone: elevating the development process to the next level by bridging theoretical digital design with practical hardware validation. I will begin the iterative engineering cycle—printing, testing, and correcting—until the kinematic mechanics function flawlessly.
+
+- Pending: Install the 0.2 mm nozzle on the Bambu Lab P1S. Execute the first test print of the finger assembly on Friday to validate the straight tendon channels and real-world tolerances.
+
+
+<img width="997" height="421" alt="Screenshot 2026-06-17 154553" src="https://github.com/user-attachments/assets/d04ce117-04f1-4eab-9188-725ada7aad1a" />
+<img width="1419" height="564" alt="Screenshot 2026-06-17 155514" src="https://github.com/user-attachments/assets/464787cc-db37-489f-9f25-a2775ac13cec" />
+<img width="1344" height="534" alt="Screenshot 2026-06-17 171704" src="https://github.com/user-attachments/assets/d5be4673-05eb-4790-a4ce-d5d2762e64f6" />
+<img width="835" height="488" alt="Screenshot 2026-06-17 175011" src="https://github.com/user-attachments/assets/14f3b524-6a1c-49d2-be9e-63cb6038160a" />
+<img width="1815" height="689" alt="Screenshot 2026-06-17 175403" src="https://github.com/user-attachments/assets/bfeef34f-908d-4e98-a032-3986f16e928f" />
+<img width="1135" height="755" alt="Screenshot 2026-06-17 181808" src="https://github.com/user-attachments/assets/87c9801a-41b7-4b27-b753-6b4f160c7a65" />
+<img width="1910" height="475" alt="Screenshot 2026-06-17 181817" src="https://github.com/user-attachments/assets/de452cae-ed96-4d32-9125-f39f761d52f7" />
+

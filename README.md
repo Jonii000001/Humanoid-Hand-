@@ -642,3 +642,31 @@ Objective: Model internal tendon routing channels, finalize the procurement list
 <img width="1135" height="755" alt="Screenshot 2026-06-17 181808" src="https://github.com/user-attachments/assets/87c9801a-41b7-4b27-b753-6b4f160c7a65" />
 <img width="1910" height="475" alt="Screenshot 2026-06-17 181817" src="https://github.com/user-attachments/assets/de452cae-ed96-4d32-9125-f39f761d52f7" />
 
+
+Day 34: First Physical Prototype, Slicer Calibration & High-Resolution Nozzle Retrofit
+Objective: Adjust sensor-to-magnet clearance, calibrate slicing profiles for the 0.2 mm nozzle, and execute the inaugural physical print of the custom finger chassis.
+
+- Result: First Prototype Printed / Precision Troubleshooting.
+
+- Progress:
+
+    - Magnetic Air Gap Optimization: Modified the internal geometry of the proximal phalanx segment. The initial configuration placed the TLE5012B magnetic encoder chip too close to the magnet, risking signal saturation. Widening the internal recess resolved this layout issue.
+
+    - Slicer Integration & AI-Assisted Learning: Prepared my first fully custom CAD model for manufacturing using slicing software. Because optimizing print profiles for a high-precision 0.2 mm nozzle can be challenging, I utilized a combination of instructional documentation and targeted AI queries to master the necessary speed, retraction, and temperature settings.
+
+    - Nozzle Retrofit & Maintenance Lesson: Successfully retrofitted the Bambu Lab P1S with the 0.2 mm high-precision nozzle. Due to a rookie oversight, I initially attempted to unscrew the components before retracting and unloading the filament. I successfully resolved this bottleneck by reconnecting the hardware, heating the hotend, clearing the filament path, and finalising the nozzle installation. This provided an invaluable hands-on mechanical troubleshooting experience.
+
+    - Initial Print Assessment: Successfully completed the first physical print of the finger component! Visual inspection reveals that the structural finish and surface tolerances are not yet perfectly clean. This is a normal part of prototyping and will be addressed through minor model modifications and slicer fine-tuning over the weekend.
+
+    - Sponsorship Preparation: Continued organizing project documentation and media to pitch for external budget support, specifically focusing on a financial sponsorship application through the Macondo Hack Club.
+
+- Pending: Calibrate print tolerances on the P1S to clean up the component finish. Print the remaining digital sub-assemblies to test physical interlocking and joint kinematics.
+
+
+  <img width="1866" height="745" alt="Screenshot 2026-06-18 160136" src="https://github.com/user-attachments/assets/c5544d1b-814e-4802-97db-266273c9f865" />
+<img width="1636" height="773" alt="Screenshot 2026-06-18 161224" src="https://github.com/user-attachments/assets/ccc510a2-fe58-4c17-b516-53cc915bb532" />
+<img width="1067" height="575" alt="Screenshot 2026-06-18 162201" src="https://github.com/user-attachments/assets/0221f07b-e42d-40ee-b0bc-b9a9551c0015" />
+<img width="1297" height="700" alt="Screenshot 2026-06-18 163437" src="https://github.com/user-attachments/assets/e5c4f827-38e6-4356-93aa-ed84b68e630f" />
+<img width="565" height="376" alt="Screenshot 2026-06-18 173223" src="https://github.com/user-attachments/assets/055c4a87-cf2e-4d88-a7f9-59d7e693e8c2" />
+<img width="1087" height="926" alt="Screenshot 2026-06-18 173850" src="https://github.com/user-attachments/assets/ad0211b0-f6cb-492d-a3bd-cda1de33c5de" />
+<img width="1182" height="716" alt="Screenshot 2026-06-18 202737" src="https://github.com/user-attachments/assets/46e9a838-74ba-48d5-8a03-8dcb9c9c8b49" />

@@ -670,6 +670,13 @@ Objective: Adjust sensor-to-magnet clearance, calibrate slicing profiles for the
 <img width="565" height="376" alt="Screenshot 2026-06-18 173223" src="https://github.com/user-attachments/assets/055c4a87-cf2e-4d88-a7f9-59d7e693e8c2" />
 <img width="1087" height="926" alt="Screenshot 2026-06-18 173850" src="https://github.com/user-attachments/assets/ad0211b0-f6cb-492d-a3bd-cda1de33c5de" />
 <img width="1182" height="716" alt="Screenshot 2026-06-18 202737" src="https://github.com/user-attachments/assets/46e9a838-74ba-48d5-8a03-8dcb9c9c8b49" />
+<img width="1266" height="585" alt="image" src="https://github.com/user-attachments/assets/f8a20ffb-97c1-496b-9486-24d4bb77df53" />
+<img width="1170" height="2078" alt="image" src="https://github.com/user-attachments/assets/cf8bc1f4-a41c-4c31-8728-1a4437e81303" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/46d59908-ed35-4543-b157-5efc1b25ee79" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/c23e0cad-0ce5-46a9-9e72-09a1ca718a07" />
+
+
+
 
 
 
@@ -702,3 +709,24 @@ Objective: Validate CAD designs through iterative physical prototyping, resolve 
 <img width="920" height="646" alt="Screenshot 2026-06-19 210722" src="https://github.com/user-attachments/assets/d7b25b80-eda1-4e7b-85a3-7d94b035b888" />
 <img width="1478" height="773" alt="Screenshot 2026-06-19 211842" src="https://github.com/user-attachments/assets/c790253d-450f-469d-b506-b31ab389bea5" />
 <img width="1850" height="813" alt="Screenshot 2026-06-19 192007" src="https://github.com/user-attachments/assets/12ee2ded-d7db-4d5a-ab70-9d239e498bcb" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/8a72fd90-84ae-44b4-8217-7f19900125fd" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/d0b4bff1-d51b-4f21-a0b9-8e04533e4021" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/578f767d-3b3b-4d6e-805b-4e1496d3b85b" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/197aadfd-d714-41fe-9a36-a81fdc429afa" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/f4025247-0a29-4535-9978-8c4478781058" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/550ac4b3-c36d-43b1-932e-8ac8257a7add" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/bed7bca4-a990-4dea-ad0c-4e2160fb3bfd" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/1ee54813-9afe-43f8-afc8-c7f4130f6a04" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/bd9705b5-a599-473a-8c3d-59f2cbde8119" />
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/eac8e3c4-27ac-4389-8682-0fce355ee68f" />
+
+
+
+
+
+
+
+
+
+
+

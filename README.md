@@ -670,3 +670,35 @@ Objective: Adjust sensor-to-magnet clearance, calibrate slicing profiles for the
 <img width="565" height="376" alt="Screenshot 2026-06-18 173223" src="https://github.com/user-attachments/assets/055c4a87-cf2e-4d88-a7f9-59d7e693e8c2" />
 <img width="1087" height="926" alt="Screenshot 2026-06-18 173850" src="https://github.com/user-attachments/assets/ad0211b0-f6cb-492d-a3bd-cda1de33c5de" />
 <img width="1182" height="716" alt="Screenshot 2026-06-18 202737" src="https://github.com/user-attachments/assets/46e9a838-74ba-48d5-8a03-8dcb9c9c8b49" />
+
+
+
+
+Day 35: Rapid Prototyping, Snap-Fit Mechanics & Workspace Upgrades
+Objective: Validate CAD designs through iterative physical prototyping, resolve mechanical clearance issues, and upgrade hardware workspace infrastructure.
+
+- Result: Iteration Successful / Workspace Upgraded.
+
+- Progress:
+
+    - Workspace & Safety Infrastructure: Upgraded the garage workspace by installing a new power outlet equipped with a red LED status indicator. Because the 3D printer is mounted on an elevated crate requiring a ladder to access, this visual indicator allows me to quickly and safely verify the machine's power status directly from the garage floor.
+
+    - Machine Maintenance Protocol: Established a strict hardware maintenance routine. I now thoroughly clean the printer's textured PEI build plate with Isopropyl Alcohol (IPA) before every print to ensure optimal first-layer adhesion and prevent warping.
+
+    - Rapid Iteration & Snap-Fit Engineering: Executed a rapid prototyping sprint, printing multiple iterations of the finger chassis to test real-world tolerances against the digital CAD models. Identified a mounting issue with the internal PCB cover. To resolve this, I engineered a custom snap-fit mechanism, allowing the cover to click securely into place without the need for external screws or hardware.
+
+    - Dummy Bearing Implementation: To maintain development momentum while awaiting the delivery of official metal ball bearings, I designed and printed temporary 3D-printed dummy bearings (bushings). This innovative workaround allowed me to continue testing the mechanical kinematics and joint friction without being blocked by supply chain delays.
+
+    - Actuation Planning & Mechanical Termination: Developed a robust method to anchor the finger actuation lines. I plan to route a prototype nylon tendon through a narrowly tapered channel at the tip of the finger segment and secure it at the end using a series of compacted stopper knots. This mechanical termination ensures the line will hold perfectly under tension without slipping through the hole.
+
+- Pending: Replicate and design the snap-fit PCB cover mechanism across all remaining finger segments. Integrate the prototype nylon tendon lines and perform manual pull-tests to validate the structural integrity of the stopper knots.
+
+
+<img width="1070" height="594" alt="Screenshot 2026-06-19 170358" src="https://github.com/user-attachments/assets/d7403d6c-0928-4967-932a-437646bff987" />
+<img width="1476" height="833" alt="Screenshot 2026-06-19 164159" src="https://github.com/user-attachments/assets/7bff4272-c5e5-4b9c-8ba6-01a67f461e6d" />
+<img width="1015" height="749" alt="Screenshot 2026-06-19 182103" src="https://github.com/user-attachments/assets/04d752bb-b7ee-48e3-b684-a81fc36e0f4c" />
+<img width="1060" height="677" alt="Screenshot 2026-06-19 191037" src="https://github.com/user-attachments/assets/fe627953-ef2c-40dc-b9fd-6ec8e5fa2c69" />
+<img width="1292" height="719" alt="Screenshot 2026-06-19 211440" src="https://github.com/user-attachments/assets/e828cd73-b51e-4fbe-913e-dae1c8a44e6f" />
+<img width="920" height="646" alt="Screenshot 2026-06-19 210722" src="https://github.com/user-attachments/assets/d7b25b80-eda1-4e7b-85a3-7d94b035b888" />
+<img width="1478" height="773" alt="Screenshot 2026-06-19 211842" src="https://github.com/user-attachments/assets/c790253d-450f-469d-b506-b31ab389bea5" />
+<img width="1850" height="813" alt="Screenshot 2026-06-19 192007" src="https://github.com/user-attachments/assets/12ee2ded-d7db-4d5a-ab70-9d239e498bcb" />

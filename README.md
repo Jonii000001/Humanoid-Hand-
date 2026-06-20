@@ -722,6 +722,29 @@ Objective: Validate CAD designs through iterative physical prototyping, resolve 
 
 
 
+Day 36: Tendon Routing Struggles & Snap-Fit Completion
+Progress & Thoughts:
+
+- The Tendon Dilemma: Today honestly cooked my brain. I spent almost an hour just researching and overthinking how to build a reliable tendon system. My current idea is to use one servo motor for each finger joint. To secure the nylon tendon, I want to route it in a small internal loop, then drive a side-mounted grub screw (set screw) into the part to clamp the tendon tight against the PTFE tubing. I’m not 100% sure if this pinch-mechanism will hold under tension without slipping, so I’ll need to look for some advice or just test it tomorrow.
+
+- CAD Updates: I successfully added the snap-fit PCB covers to all the finger segments I’ve modeled so far. That modular system is fully integrated now.
+
+    - The Hardware Wait: The best feeling in this entire project is taking the printed pieces and physically snapping them together to see them work. Honestly, designing would be infinitely easier if I had the real metal bearings sitting on my desk to test the physical clearances. But since you don't always have the hardware right away, I just have to trust the CAD dimensions and keep using my 3D-printed dummy parts as temporary stand-ins.
+
+- Next Steps: Tomorrow, I want to finalize the tendon clamping mechanism and finally start modeling the thumb. I really want to rush ahead, but the geometry of the thumb is just genuinely difficult.
+
+- Pending: Research/test the grub screw clamping method. Start CAD modeling for the thumb structure.
+
+
+<img width="1118" height="687" alt="Screenshot 2026-06-20 125208" src="https://github.com/user-attachments/assets/d250ebe4-e4d8-4343-9998-3ceb7a2b55ae" />
+<img width="1506" height="864" alt="Screenshot 2026-06-20 123532" src="https://github.com/user-attachments/assets/4f6e95ac-0ccd-4049-82ae-217f51ca97a4" />
+<img width="1495" height="775" alt="Screenshot 2026-06-20 125625" src="https://github.com/user-attachments/assets/a9a50fe8-6379-4730-8ea0-9d3d72e5c28d" />
+<img width="1144" height="204" alt="Screenshot 2026-06-20 204949" src="https://github.com/user-attachments/assets/e0153224-d35f-4e6f-ae47-4556f6afa52f" />
+<img width="1610" height="529" alt="Screenshot 2026-06-20 204929" src="https://github.com/user-attachments/assets/77f7c528-246c-4fbf-88e9-e8d32becb2ca" />
+<img width="1079" height="806" alt="Screenshot 2026-06-20 214354" src="https://github.com/user-attachments/assets/e6827b10-783a-403d-bc1c-3a2612887ce8" />
+<img width="1159" height="506" alt="Screenshot 2026-06-20 220243" src="https://github.com/user-attachments/assets/aa5253db-2396-4ac1-aab6-aada85e4f4ef" />
+<img width="1151" height="742" alt="Screenshot 2026-06-20 220258" src="https://github.com/user-attachments/assets/420f1db4-f32f-4730-ac03-85d025fc5733" />
+<img width="1295" height="706" alt="Screenshot 2026-06-20 220741" src="https://github.com/user-attachments/assets/e1440aab-aace-4ba0-b77f-429f1bf984ea" />
 
 
 

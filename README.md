@@ -748,6 +748,47 @@ Progress & Thoughts:
 
 
 
+Day 37: The Thumb Base Struggle, CAD Glitches & Bearing Strategy
+Progress & Thoughts:
+
+- Starting the Thumb: Today I started designing the base of the thumb from scratch. I honestly had no idea where to begin at first, so I scoured the internet to figure out a good mechanical approach for the thumb's complex movement.
+
+- CAD Frustrations: Autodesk Inventor really tested my patience today. I tried to use the mirror tool to save time, but it kept glitching out completely. I was forced to design the entire second half manually from scratch. It took me 4 solid hours and drained a lot of my energy. But honestly, I’m just glad it worked out in the end—I was able to pass the tendon through the hole and verify the fit.
+
+- Bearing Procurement: I decided to just order standard metal MR84ZZ ball bearings for the prototyping phase. The ceramic bearings are a huge investment, and I need to be 100% sure the mechanics work perfectly before spending that kind of money.
+
+- Near Misses & Mistakes: I almost made a huge mistake right before slicing the print. I initially forgot to include the PCB mounting, the snap-fit PCB cover, and the 20-degree cut on the bearing connector. Luckily, I caught all of that and fixed it just before hitting print. However, I did miss one detail: I forgot to make the front cutout for the TLE5012B chip to pass through, which I actually had planned out on my paper sketch.
+
+Next Steps: * Fix the missing chip cutout on the thumb base.
+
+- Continue connecting all finger CAD models and finalize the tendon routing mechanisms.
+
+- Start designing the main palm structure. The plan is to route all the individual tendons through a central hole in the palm down to the bottom.
+
+- Wait for the MR84ZZ bearings to arrive so I can finally start the real physical assembly.
+
+
+<img width="1044" height="765" alt="Screenshot 2026-06-21 214711" src="https://github.com/user-attachments/assets/dcfb08df-aaaa-488a-97fa-50437c72415f" />
+<img width="1898" height="865" alt="Screenshot 2026-06-21 190850" src="https://github.com/user-attachments/assets/79f155aa-009c-4a9e-9b5c-d1fc43718607" />
+<img width="771" height="494" alt="Screenshot 2026-06-21 185627" src="https://github.com/user-attachments/assets/b512791d-62c4-4a0c-aa43-06e4f964f8bc" />
+<img width="1086" height="557" alt="Screenshot 2026-06-21 182508" src="https://github.com/user-attachments/assets/c339283c-ab10-4511-9f63-ba0fd4edaffe" />
+<img width="899" height="576" alt="Screenshot 2026-06-21 170052" src="https://github.com/user-attachments/assets/1daa57ac-88ad-4a1e-b5be-1fe1291426ff" />
+<img width="898" height="677" alt="Screenshot 2026-06-21 164814" src="https://github.com/user-attachments/assets/5cceea57-cd68-4ef0-b7a3-81b57126c83d" />
+<img width="1132" height="618" alt="Screenshot 2026-06-21 162942" src="https://github.com/user-attachments/assets/2b62dbab-4e63-477c-8462-c7e7d2e79f3c" />
+<img width="485" height="447" alt="Screenshot 2026-06-21 160254" src="https://github.com/user-attachments/assets/0db6a437-4633-4143-98f8-1ed872a9d993" />
+<img width="814" height="371" alt="Screenshot 2026-06-21 160251" src="https://github.com/user-attachments/assets/06c5026d-8fa3-476a-8f06-70e94239c456" />
+<img width="784" height="761" alt="Screenshot 2026-06-21 153112" src="https://github.com/user-attachments/assets/652a464b-f05c-4195-8641-488488d1f794" />
+<img width="737" height="544" alt="Screenshot 2026-06-21 153044" src="https://github.com/user-attachments/assets/6fc94aaf-9056-4df2-b9a1-6792fa6146cb" />
+<img width="712" height="426" alt="Screenshot 2026-06-21 141700" src="https://github.com/user-attachments/assets/f32d9007-0aa9-4512-ba32-7293bb357339" />
+<img width="821" height="559" alt="Screenshot 2026-06-21 133516" src="https://github.com/user-attachments/assets/12d5172f-5c8e-416f-b796-2060d2a46fff" />
+<img width="633" height="653" alt="Screenshot 2026-06-21 133035" src="https://github.com/user-attachments/assets/fdad9044-f618-4d65-857b-017ed343a3b5" />
+<img width="799" height="393" alt="Screenshot 2026-06-21 131933" src="https://github.com/user-attachments/assets/b70eccf8-2b6b-4de7-b2d3-5fdf51beaf3f" />
+<img width="1088" height="784" alt="Screenshot 2026-06-21 130229" src="https://github.com/user-attachments/assets/394b2edd-7478-446d-b31e-55f892923b6b" />
+<img width="1085" height="712" alt="Screenshot 2026-06-21 122114" src="https://github.com/user-attachments/assets/f26b6bfe-a353-4ffe-9908-066f626a6e35" />
+<img width="1018" height="707" alt="Screenshot 2026-06-21 121316" src="https://github.com/user-attachments/assets/07032941-3c67-40c0-81d4-f12e1e7e656b" />
+<img width="1022" height="682" alt="Screenshot 2026-06-21 115739" src="https://github.com/user-attachments/assets/360cb859-ed40-469f-a1eb-a3011900ed54" />
+
+
 
 
 

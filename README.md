@@ -789,6 +789,23 @@ Next Steps: * Fix the missing chip cutout on the thumb base.
 <img width="1022" height="682" alt="Screenshot 2026-06-21 115739" src="https://github.com/user-attachments/assets/360cb859-ed40-469f-a1eb-a3011900ed54" />
 
 
+Day 38: Minor CAD Tweaks, The Pinky Hole & Quality Over Speed
+Progress & Thoughts:
+
+- Short Session: Today was a shorter work day, I only put in about 1 hour. I mainly focused on correcting some small details on the thumb base and tweaking a few other existing parts. Nothing overly special, but necessary maintenance work.
+
+- The Pinky Hole Struggle: I tried to model a specific hole into the pinky finger part because I want to dual-purpose that same design for both the pinky and the thumb. Honestly, getting that right took me way longer than expected and was quite a struggle.
+
+- Design Philosophy: Even though I wrestled with the thumb corrections today, I’ve realized something important: I highly prefer taking more time to ensure good quality rather than rushing through the CAD just to get it done fast but with bad quality. It’s slow progress right now, but it’s the right progress.
+
+- Pending: Continue refining the dual-purpose pinky/thumb CAD model and finalize the remaining finger mechanics.
+
+<img width="1504" height="853" alt="Screenshot 2026-06-22 171402" src="https://github.com/user-attachments/assets/a9c5f2ee-614e-4814-ae12-f74260bc9443" />
+<img width="1310" height="742" alt="Screenshot 2026-06-22 172720" src="https://github.com/user-attachments/assets/231ceef2-e7d3-488f-bfe2-0a4b1f889156" />
+<img width="811" height="605" alt="Screenshot 2026-06-22 180031" src="https://github.com/user-attachments/assets/5bdae00f-2928-4f68-a54e-29269bfddae5" />
+<img width="887" height="645" alt="Screenshot 2026-06-22 180623" src="https://github.com/user-attachments/assets/b9d2092a-f32e-4f91-9a23-7237c81a4ec3" />
+<img width="1023" height="720" alt="Screenshot 2026-06-22 181215" src="https://github.com/user-attachments/assets/75219a95-3d2b-4bb5-b6f0-aeefa1e7b895" />
+<img width="1479" height="659" alt="Screenshot 2026-06-22 174649" src="https://github.com/user-attachments/assets/3a539763-3ef6-4a51-a69a-e18a2be781dd" />
 
 
 

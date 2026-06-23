@@ -808,6 +808,27 @@ Progress & Thoughts:
 <img width="1479" height="659" alt="Screenshot 2026-06-22 174649" src="https://github.com/user-attachments/assets/3a539763-3ef6-4a51-a69a-e18a2be781dd" />
 
 
+Day 39: Tendon Integration & The Magnetic Crosstalk Dilemma
+Progress & Thoughts:
 
+- Tendon Routing: Successfully integrated the internal tendon system into the dual-purpose pinky/thumb segment today. Mechanically, things are moving forward.
+
+- The Magnetic Dilemma: I ran into a serious theoretical roadblock regarding the sensors. The diametric magnets for the TLE5012B encoders in the adjacent finger joints are only about 5 mm apart. At that distance, they are way too close, and their magnetic fields will almost certainly interfere with each other (magnetic crosstalk), which would ruin the sensor readings.
+
+- The Shielding Solution: I spent some time researching online and found out that Mu-metal foil could be the perfect solution to shield the magnetic fields.
+
+- Budget Reality Check: The big catch is the price. A sheet of Mu-metal costs around 50 Euros, which is a massive investment considering I only need a few tiny scraps for the fingers.
+
+- Next Steps: Tomorrow, I need to dive deeper into this research. I have to think very carefully about whether the Mu-metal is absolutely necessary or if there are cheaper workarounds before I spend that kind of budget.
+
+<img width="1015" height="642" alt="Screenshot 2026-06-23 185406" src="https://github.com/user-attachments/assets/934954f4-9362-4e4d-8e15-27654e3c62ad" />
+<img width="773" height="592" alt="Screenshot 2026-06-23 190516" src="https://github.com/user-attachments/assets/59659f90-986c-460e-903e-6e0690a0a267" />
+<img width="1191" height="694" alt="Screenshot 2026-06-23 190830" src="https://github.com/user-attachments/assets/d9c615b9-9c84-464f-bc45-5bb7464d0cee" />
+<img width="1716" height="760" alt="Screenshot 2026-06-23 192418" src="https://github.com/user-attachments/assets/8d034b6d-9fb2-41bb-9150-cd1c70ae44d9" />
+<img width="794" height="610" alt="Screenshot 2026-06-23 192948" src="https://github.com/user-attachments/assets/cd2ef455-d720-4e69-95e5-7a040cf33b5c" />
+<img width="1057" height="714" alt="Screenshot 2026-06-23 193636" src="https://github.com/user-attachments/assets/95b9480f-73da-431d-abed-98bf8ddfa4d4" />
+<img width="1061" height="623" alt="Screenshot 2026-06-23 193954" src="https://github.com/user-attachments/assets/0d7cc849-8fbc-4568-be70-f1cd28861b5e" />
+<img width="1334" height="786" alt="Screenshot 2026-06-23 194230" src="https://github.com/user-attachments/assets/7d2fad13-d09e-49a3-bbbb-ea3443ca85b0" />
+<img width="942" height="694" alt="image" src="https://github.com/user-attachments/assets/8d8ec19a-47ee-4792-9bf8-9fe38c2b7554" />
 
 

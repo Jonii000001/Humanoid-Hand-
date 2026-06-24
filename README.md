@@ -831,4 +831,28 @@ Progress & Thoughts:
 <img width="1334" height="786" alt="Screenshot 2026-06-23 194230" src="https://github.com/user-attachments/assets/7d2fad13-d09e-49a3-bbbb-ea3443ca85b0" />
 <img width="942" height="694" alt="image" src="https://github.com/user-attachments/assets/8d8ec19a-47ee-4792-9bf8-9fe38c2b7554" />
 
+Day 40: Tendon Routing, Heatwave Printing & Manual Drilling
+Progress & Thoughts:
 
+- CAD Progress: Continued working on the tendon system for the pinky and the fingertip connection part. I also realized the fingertip connector was slightly too wide, so I went back into CAD and adjusted the width.
+
+- Heatwave Printing: I printed the pinky part today, but the quality wasn't great. I spent about 20 minutes researching the best slicer settings, but I'm pretty sure the real issue is the summer heat. The room temperature is just too hot right now, which messes with the printer's part cooling.
+
+- Prototyping Mindset: The print had some errors, but honestly, I don't care right now since it's just a prototype. The internal holes were slightly clogged with plastic residue, so I just grabbed a 1mm drill bit and manually cleared them out. Sometimes a quick manual fix is better than reprinting.
+
+- Looking Ahead: My standard MR84ZZ bearings are arriving on Monday! I specifically ordered these cheaper ones just to test the physical mechanics and identify any hidden problems. Once the fingers are working, my next massive goal is designing the main palm and assembling the entire hand.
+
+- Next Steps: Print the updated fingertip connection part tomorrow and test the fit. If it works perfectly, I will integrate this design across the other finger parts and prepare for the bearing installation on Monday.
+
+
+<img width="1720" height="835" alt="image" src="https://github.com/user-attachments/assets/48a0f6f1-fa9b-44ce-9f59-2118952ace89" />
+<img width="1051" height="613" alt="Screenshot 2026-06-24 190617" src="https://github.com/user-attachments/assets/c0be3841-c8b9-417b-b9db-9efacffd8091" />
+<img width="918" height="699" alt="Screenshot 2026-06-24 174959" src="https://github.com/user-attachments/assets/618ebb92-834a-4399-8b31-f4f5228442e5" />
+<img width="1296" height="798" alt="Screenshot 2026-06-24 162530" src="https://github.com/user-attachments/assets/2ebec673-00a2-4f7e-bdc3-e74c69c595d8" />
+<img width="1208" height="869" alt="Screenshot 2026-06-24 160749" src="https://github.com/user-attachments/assets/db4193df-8f6a-47a8-b818-5939efd2c3a0" />
+<img width="1017" height="666" alt="Screenshot 2026-06-24 154910" src="https://github.com/user-attachments/assets/c46be666-7dd1-4a79-93d7-5deaab611500" />
+<img width="971" height="557" alt="Screenshot 2026-06-24 142916" src="https://github.com/user-attachments/assets/6b93cfec-c9a1-49cf-9f78-4728f51763ca" />
+<img width="899" height="502" alt="Screenshot 2026-06-24 143749" src="https://github.com/user-attachments/assets/400a39d1-a60c-44be-9ed7-2a36398ccdd3" />
+<img width="1285" height="817" alt="Screenshot 2026-06-24 144834" src="https://github.com/user-attachments/assets/f04095c8-7fbd-439b-b686-1b69ec3b4cc1" />
+<img width="944" height="563" alt="Screenshot 2026-06-24 151914" src="https://github.com/user-attachments/assets/dee07904-1fe5-4894-a686-13125f03ae96" />
+<img width="666" height="537" alt="Screenshot 2026-06-24 152901" src="https://github.com/user-attachments/assets/ffe657cc-a03c-406d-a491-5f874552a110" />

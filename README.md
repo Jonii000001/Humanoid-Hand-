@@ -856,3 +856,26 @@ Progress & Thoughts:
 <img width="1285" height="817" alt="Screenshot 2026-06-24 144834" src="https://github.com/user-attachments/assets/f04095c8-7fbd-439b-b686-1b69ec3b4cc1" />
 <img width="944" height="563" alt="Screenshot 2026-06-24 151914" src="https://github.com/user-attachments/assets/dee07904-1fe5-4894-a686-13125f03ae96" />
 <img width="666" height="537" alt="Screenshot 2026-06-24 152901" src="https://github.com/user-attachments/assets/ffe657cc-a03c-406d-a491-5f874552a110" />
+
+
+Day 41: Palm Redesign Struggles & Balancing Social Life
+Progress & Thoughts:
+
+- Taking a Break: Today I didn't do a whole lot because I wanted to hang out with a friend and take a quick break for my social life. It's important not to burn out.
+
+- The Palm Iterations: Before heading out, I managed to work for about 1 hour and 40 minutes on the project. I attempted to design the main palm for the 3rd time, but it still didn’t turn out perfect, so I’m going to have to do it for a 4th time. It's a bit annoying, but I know the next version will be the one. Once the palm is done, the CAD phase is pretty much finished.
+
+- Heatwave Worries: I really want to move on to the practical stuff like printing, but the extreme heat outside is making me worried. The room temperature in my workspace is so hot right now that I’m genuinely concerned the printer might overheat or the prints will crash and fail.
+
+- Next Steps:
+
+    - Start the 4th CAD attempt on the palm and finally get the geometry right.
+
+    - Keep an eye on the room temperature to see when it's cool enough to start printing safely again.
+
+
+<img width="850" height="600" alt="Screenshot 2026-06-25 152644" src="https://github.com/user-attachments/assets/29b7a601-ad77-4b86-9753-679f9b35de16" />
+<img width="839" height="653" alt="Screenshot 2026-06-25 154133" src="https://github.com/user-attachments/assets/d8bb07c4-c9be-438e-a13a-ddf105727696" />
+<img width="879" height="477" alt="Screenshot 2026-06-25 170846" src="https://github.com/user-attachments/assets/5e1e7361-72c8-45e3-89f5-92f0c716567a" />
+<img width="1662" height="743" alt="image" src="https://github.com/user-attachments/assets/7f1b72dd-e1e7-43d4-80f0-c15616d97ea9" />
+

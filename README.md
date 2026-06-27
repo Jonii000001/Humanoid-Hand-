@@ -917,4 +917,33 @@ Progress & Thoughts:
 
 
 
+Day 43: Thumb Kinematics, The Wuji Inspiration & Base Optimizations
+Progress & Thoughts:
+
+- Quick Fixes First: The first thing I did today was finish optimizing the base for the other four fingers from yesterday. It was a really fast fix. I just included the mounting mechanism for the PCB cover and added the two alignment pins to hold the PCB in place.
+
+- The Thumb-Palm Connection: Next, I tackled the connection between the palm and the base of the thumb. At first, I honestly had no clue what kind of kinematic system I should choose. But after doing some research and watching a video about the open-source Wuji hand, I came up with a surprisingly simple solution. I designed a two-part linkage system to connect the thumb base to the main palm structure (as seen in the pictures).
+
+- The Grind: I grinded really hard on this system today and got completely into the zone. I’m incredibly proud of myself that I managed to complete the geometry and get it right on the very first try!
+
+- Next Steps:
+
+    - Tomorrow, I won't have much free time, so I will focus on doing some light research for further optimizations and making small CAD tweaks.
+
+    - On Monday, the big goal is to fully integrate the internal tendon routing system into every single part and finally start printing the rest of the hand.
+
+
+<img width="923" height="606" alt="Screenshot 2026-06-27 120231" src="https://github.com/user-attachments/assets/de35ec2f-3d36-403d-a957-1b026e965c28" />
+<img width="1061" height="673" alt="Screenshot 2026-06-27 120508" src="https://github.com/user-attachments/assets/31b2770c-fd38-4661-b1f9-57ebce736804" />
+<img width="1175" height="729" alt="Screenshot 2026-06-27 122853" src="https://github.com/user-attachments/assets/e5737584-636f-4620-98e2-ebde87c6f024" />
+<img width="96" height="71" alt="Screenshot 2026-06-27 124105" src="https://github.com/user-attachments/assets/e3935157-c273-4cc5-a359-0f737594b3cd" />
+<img width="846" height="588" alt="Screenshot 2026-06-27 211048" src="https://github.com/user-attachments/assets/ed6097b6-5980-479b-b853-4e13a427791b" />
+<img width="1046" height="649" alt="Screenshot 2026-06-27 130836" src="https://github.com/user-attachments/assets/a5c7640b-eb61-48e1-ae6c-d5faa54b3e93" />
+<img width="744" height="724" alt="Screenshot 2026-06-27 210251" src="https://github.com/user-attachments/assets/dc38f882-d4c9-4ef1-8f43-4dff2d72ea90" />
+<img width="335" height="403" alt="Screenshot 2026-06-27 210707" src="https://github.com/user-attachments/assets/8025bab1-0db8-4e8e-a977-b11a61b4a906" />
+<img width="888" height="657" alt="Screenshot 2026-06-27 221437" src="https://github.com/user-attachments/assets/edfc456f-6d20-4457-bb26-c2cc97dcf638" />
+<img width="602" height="506" alt="Screenshot 2026-06-27 221829" src="https://github.com/user-attachments/assets/b13c8c73-d49f-4458-87d0-c2ab385d5f55" />
+<img width="997" height="783" alt="Screenshot 2026-06-27 221848" src="https://github.com/user-attachments/assets/7af9949f-97c5-42c7-823b-b160e6d4737d" />
+<img width="1193" height="625" alt="Screenshot 2026-06-27 221934" src="https://github.com/user-attachments/assets/36b9e4f4-aafc-465a-b61a-3dfae742e0e8" />
+<img width="1677" height="822" alt="Screenshot 2026-06-27 222108" src="https://github.com/user-attachments/assets/bfa2ea98-f3a8-4953-a275-adf984997f1a" />
 

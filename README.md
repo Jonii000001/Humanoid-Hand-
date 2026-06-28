@@ -947,3 +947,25 @@ Progress & Thoughts:
 <img width="1193" height="625" alt="Screenshot 2026-06-27 221934" src="https://github.com/user-attachments/assets/36b9e4f4-aafc-465a-b61a-3dfae742e0e8" />
 <img width="1677" height="822" alt="Screenshot 2026-06-27 222108" src="https://github.com/user-attachments/assets/bfa2ea98-f3a8-4953-a275-adf984997f1a" />
 
+
+Day 44: Remote Research, Part Sourcing & CAD Fillets
+Progress & Thoughts:
+
+- Working on the Go: I didn't have a lot of time today because I wasn't at home. I still wanted to get some work done, so I used a borrowed tablet to do some project management. Because I wasn't at my main setup, I couldn't properly track my hours or do heavy CAD work.
+
+- Hardware Sourcing: I spent most of my time researching the specific hardware parts I still need and looking for reliable suppliers. Trying to find a good vendor for the full ceramic ball bearings was incredibly difficultthey are very niche and hard to source.
+
+- Late Night CAD Tweaks: When I finally got home, I opened up the project and added some fillets (rounded edges) to the palm design to make it smoother and more ergonomic.
+
+- Note: Sorry I don't have a huge visual update or major milestone to show today, but supplier research is a necessary part of the project. The next few days will be much more action-packed once I get back to my regular routine!
+
+- Next Steps: Integrate the tendon routing system into the remaining CAD parts and start printing on Monday.
+
+
+<img width="786" height="659" alt="Screenshot 2026-06-28 201906" src="https://github.com/user-attachments/assets/b57f2c8d-01d7-4c9e-b953-db7cf6eb4608" />
+<img width="1079" height="769" alt="Screenshot 2026-06-28 202402" src="https://github.com/user-attachments/assets/6a97e7f8-9cf1-4dd8-8eff-eb7acfea2f75" />
+<img width="616" height="699" alt="Screenshot 2026-06-28 202540" src="https://github.com/user-attachments/assets/1f504d32-8a4d-49b0-9cf3-1ff27f5ca672" />
+<img width="339" height="291" alt="Screenshot 2026-06-28 202720" src="https://github.com/user-attachments/assets/96dd58e5-e6d0-4a57-8ed0-2415eea3c65f" />
+<img width="1008" height="549" alt="Screenshot 2026-06-28 204405" src="https://github.com/user-attachments/assets/37217dd8-8f75-4a4c-a96c-838bcb1af095" />
+<img width="1907" height="528" alt="Screenshot 2026-06-28 204836" src="https://github.com/user-attachments/assets/17edafc9-b2ca-4cfd-88f8-213e4e2fe940" />
+<img width="1894" height="180" alt="Screenshot 2026-06-28 204843" src="https://github.com/user-attachments/assets/a63f79df-7c64-43dc-904f-620ac6a55045" />

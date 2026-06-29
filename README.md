@@ -787,6 +787,13 @@ Next Steps: * Fix the missing chip cutout on the thumb base.
 <img width="1085" height="712" alt="Screenshot 2026-06-21 122114" src="https://github.com/user-attachments/assets/f26b6bfe-a353-4ffe-9908-066f626a6e35" />
 <img width="1018" height="707" alt="Screenshot 2026-06-21 121316" src="https://github.com/user-attachments/assets/07032941-3c67-40c0-81d4-f12e1e7e656b" />
 <img width="1022" height="682" alt="Screenshot 2026-06-21 115739" src="https://github.com/user-attachments/assets/360cb859-ed40-469f-a1eb-a3011900ed54" />
+<img width="487" height="644" alt="Screenshot 2026-06-29 225503" src="https://github.com/user-attachments/assets/0b31da24-79be-466d-8a51-e16090e015cc" />
+<img width="479" height="635" alt="Screenshot 2026-06-29 225512" src="https://github.com/user-attachments/assets/de2e64df-70f7-4274-8e3f-5cadc1b23e34" />
+<img width="473" height="639" alt="Screenshot 2026-06-29 225520" src="https://github.com/user-attachments/assets/0f45bd13-c700-423c-a8d4-e27df614b61a" />
+
+
+
+
 
 
 Day 38: Minor CAD Tweaks, The Pinky Hole & Quality Over Speed

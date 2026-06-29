@@ -969,3 +969,40 @@ Progress & Thoughts:
 <img width="1008" height="549" alt="Screenshot 2026-06-28 204405" src="https://github.com/user-attachments/assets/37217dd8-8f75-4a4c-a96c-838bcb1af095" />
 <img width="1907" height="528" alt="Screenshot 2026-06-28 204836" src="https://github.com/user-attachments/assets/17edafc9-b2ca-4cfd-88f8-213e4e2fe940" />
 <img width="1894" height="180" alt="Screenshot 2026-06-28 204843" src="https://github.com/user-attachments/assets/a63f79df-7c64-43dc-904f-620ac6a55045" />
+
+
+
+Day 45: The Grind, First Bearings & Wrist Gear Integration
+Progress & Thoughts:
+
+- Discipline Over Exhaustion: Honestly, I was pretty exhausted today. It was a stressful and incredibly hot day at school, but I refused to take a break. I keep pushing forward with my project because I know that the grind equals progress. Showing up every single day is how you get results, and I want to stay disciplined so I can look back and be proud of what I've built.
+
+- CAD & Mechanical Innovations: First thing today, I added more fillets (rounded edges) to the palm in CAD so it looks like a real human hand. I also integrated a gear system into the palm to control the flexion and extension (bending and straightening) of the entire hand using just one powerful servo motor. To make it sturdy, one side of the pivot point uses a ball bearing for smooth rotation, while the other side is driven by the servo and gear mechanism. I also had to trim off a little bit of the thumb connection part because it was colliding with the palm, and I might need to cut off more later.
+
+- Hardware & Printing Tweaks: Huge milestone today! My MR84ZZ prototyping ball bearings finally arrived. I printed the thumb base connection, installed the bearings, and tested it out—it moves so smoothly! For this test print, I actually used two printed cylinders as placeholders instead of the real diametric magnets just to check the physical fit.
+
+- The Importance of Version Control: I ran into a funny issue with the base parts for the other four fingers. Last week, I resized them because they felt too small. But when I tested the new ones today, they were actually too wide! I ended up going back and using the old version. I don't know exactly why the new dimensions didn't work out, but honestly, I am just incredibly lucky and thankful that I save every single version of my CAD files. I didn't lose any progress!
+
+- My Vision: At the end of the day, looking at that moving thumb, I felt incredibly proud of what I've achieved so far. I really want this to be a highly professional project—my very first big one. I want to show everyone what you can accomplish with just hard work and dedication, even if you are just a 14-year-old beginner. I know I’m not the best yet and I have so much room to improve, but that’s exactly what I’ll be learning when I start technical high school in September.
+
+- Next Steps:
+
+    - Integrate the internal tendon routing into the remaining parts (including the palm).
+
+    - Print all the finalized components.
+
+    - Order the rest of the electronic and hardware supplies.
+
+
+<img width="1675" height="661" alt="Screenshot 2026-06-29 220047" src="https://github.com/user-attachments/assets/05f651b4-b1d5-43ba-997f-295d65e9ff6c" />
+<img width="1282" height="878" alt="Screenshot 2026-06-29 195857" src="https://github.com/user-attachments/assets/e2f4c3ae-89d4-4820-ab7e-b76888559f32" />
+<img width="1342" height="833" alt="Screenshot 2026-06-29 200227" src="https://github.com/user-attachments/assets/7f6657a3-a0d4-45a2-832b-f1fa32f6bd78" />
+<img width="738" height="733" alt="Screenshot 2026-06-29 201346" src="https://github.com/user-attachments/assets/7506c04a-ae20-4410-b327-c1842d1d59c9" />
+<img width="1238" height="688" alt="Screenshot 2026-06-29 204125" src="https://github.com/user-attachments/assets/b2b99048-aa28-468e-841b-4be2858c60a8" />
+<img width="655" height="436" alt="Screenshot 2026-06-29 215833" src="https://github.com/user-attachments/assets/5144416c-bbb2-4c87-9f69-7c6d8afd8b9c" />
+<img width="958" height="368" alt="Screenshot 2026-06-29 194924" src="https://github.com/user-attachments/assets/cbb8b6de-5d13-499b-97e4-7e3fbb92f5ac" />
+<img width="801" height="531" alt="Screenshot 2026-06-29 195409" src="https://github.com/user-attachments/assets/cc83ac88-def0-49d9-b5be-b7525174c33a" />
+<img width="1075" height="606" alt="Screenshot 2026-06-29 182429" src="https://github.com/user-attachments/assets/065c114d-ea2b-4b1d-9b6c-adbfade6b4fc" />
+<img width="1068" height="692" alt="Screenshot 2026-06-29 184708" src="https://github.com/user-attachments/assets/fdf6f38f-8065-4363-adc2-50d9a96e7ee7" />
+<img width="1121" height="699" alt="Screenshot 2026-06-29 183534" src="https://github.com/user-attachments/assets/53101fae-ce9d-493b-9b64-fd12683a45be" />
+<img width="1531" height="676" alt="Screenshot 2026-06-29 193200" src="https://github.com/user-attachments/assets/a2a85125-00b9-4319-afe2-fd5fe9a14652" />

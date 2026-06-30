@@ -1013,3 +1013,8 @@ Progress & Thoughts:
 <img width="1068" height="692" alt="Screenshot 2026-06-29 184708" src="https://github.com/user-attachments/assets/fdf6f38f-8065-4363-adc2-50d9a96e7ee7" />
 <img width="1121" height="699" alt="Screenshot 2026-06-29 183534" src="https://github.com/user-attachments/assets/53101fae-ce9d-493b-9b64-fd12683a45be" />
 <img width="1531" height="676" alt="Screenshot 2026-06-29 193200" src="https://github.com/user-attachments/assets/a2a85125-00b9-4319-afe2-fd5fe9a14652" />
+
+
+
+Day 46:
+Today I couldn't do so much, because I had to do soo much for school, but I kept stil grinding more than 1 hour. The first 10 minutes I was like brain afk and saved the project and also started to intigrate the tendon system into the palm, but I deleted it later, because it wasn't so good. Today I only tried to integrate the tendon system and I deleted it like 2 times, because it wasn't well done. So at the end I researched with some Youtube videos and KI ( I had to use it for help), but I didn't counted it to the time and came up that I can use 3d sketch for that. First I always used

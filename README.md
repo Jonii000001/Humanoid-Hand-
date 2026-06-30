@@ -1016,5 +1016,27 @@ Progress & Thoughts:
 
 
 
-Day 46:
-Today I couldn't do so much, because I had to do soo much for school, but I kept stil grinding more than 1 hour. The first 10 minutes I was like brain afk and saved the project and also started to intigrate the tendon system into the palm, but I deleted it later, because it wasn't so good. Today I only tried to integrate the tendon system and I deleted it like 2 times, because it wasn't well done. So at the end I researched with some Youtube videos and KI ( I had to use it for help), but I didn't counted it to the time and came up that I can use 3d sketch for that. First I always used
+Day 46: School Stress, Brain AFK & The 3D Sketch Breakthrough
+Progress & Thoughts:
+
+- Grinding Through Exhaustion: I couldn't get a massive amount done today because I was completely slammed with schoolwork. Still, I kept grinding for over an hour. For the first 10 minutes, my brain was just completely AFK, so I simply organized my files, saved the project, and started experimenting with integrating the tendon routing into the palm.
+
+- Trial, Error & Forgotten Details: I actually ended up deleting my work later because it just wasn't good enough. My main focus was trying to route the tendons, and I deleted my attempts at least twice. I refuse to settle for messy CAD work. While doing this, I suddenly realized I completely forgot to integrate the tendon system for the thumb-to-palm connection!
+
+- Rethinking the Design: Because of that missing tendon routing, I am seriously considering changing the whole thumb-to-palm connection part. I'm leaving it as a "maybe" for now, but if I come up with a smarter mechanism, I won't hesitate to redesign it.
+
+- The Breakthrough: After getting stuck, I turned to YouTube and AI to do some research (which I didn't even count toward my working hours). That's when I discovered that I could use the 3D Sketch feature for the complex tendon paths! Before, I was always trying to use standard 2D sketches, but the paths collided every time and the geometry was never as clean as I wanted it to be.
+
+- Next Steps: * Try out the new 3D sketch mechanism for the tendons tomorrow.
+
+    - Brainstorm if there is a better way to design the thumb-to-palm joint before I finalize the tendon paths there.
+
+
+<img width="760" height="451" alt="Screenshot 2026-06-30 200701" src="https://github.com/user-attachments/assets/0210ed70-d94d-47a1-b622-f0919453f2fa" />
+<img width="840" height="469" alt="Screenshot 2026-06-30 195450" src="https://github.com/user-attachments/assets/f83d35b6-ae26-471e-bf9b-915917544812" />
+<img width="529" height="361" alt="Screenshot 2026-06-30 205619" src="https://github.com/user-attachments/assets/a1436252-89bb-4ef6-be33-51958153e159" />
+<img width="1629" height="811" alt="Screenshot 2026-06-30 210412" src="https://github.com/user-attachments/assets/eea8005f-eaf1-4e9d-99f4-b45ae4a22482" />
+<img width="694" height="464" alt="Screenshot 2026-06-30 213509" src="https://github.com/user-attachments/assets/cf28c4e2-4480-4ea6-9f43-53d5ccac53f8" />
+<img width="788" height="353" alt="image" src="https://github.com/user-attachments/assets/781e04b3-d8e5-4454-8c72-332e1c0f64dc" />
+
+

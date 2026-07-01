@@ -1040,3 +1040,44 @@ Progress & Thoughts:
 <img width="788" height="353" alt="image" src="https://github.com/user-attachments/assets/781e04b3-d8e5-4454-8c72-332e1c0f64dc" />
 
 
+Day 47: Tendon Routing, Diagonal Cuts & The Crashing Laptop
+Progress & Thoughts:
+
+- Index Finger Tendons: I had quite a few technical troubles today, which really slowed down my progress. First, I integrated the tendon system into the index finger phalanx. I needed to design two different mechanisms: an anchor point with a pin to hold the tendon (so I can actually pull and control that segment), and two holes to guide the tendons from the upper joint straight down into the palm.
+
+- Mirroring Issues: I ran into my first roadblock here. I couldn't simply mirror the part because I didn't want to duplicate the anchor mechanism. So, I had to keep the part as a whole and use construction planes (working surfaces) to carefully position the internal anchor mechanism exactly where it needed to be.
+
+- Tight Clearances: Next, I moved on to the tendon routing in the finger base part. I wanted to use the same mechanism as I did for the thumb—routing the tendon from the side, to the middle of the back, and then down to the palm. But this base part is much smaller, so I had to shrink the routing channels from 3mm down to 2mm just to make it fit.
+
+- Diagonal Cuts & Crashes: Cutting diagonally (at an angle) into the middle of the part was a nightmare. I kept accidentally catching the outer edge and cutting chunks out of the main body. After a few tries, I finally managed to do it! But then... my laptop crashed. Because autosave didn't catch it, I had to model the whole thing a second time.
+
+- Fillet Nightmares: Later, whenever I tried to add fillets to smooth out the parts, my laptop just kept crashing repeatedly, forcing me to stop working on it.
+
+- Hardware Reality Check: I am currently using an old school laptop, and it clearly can't handle complex CAD assemblies anymore. I will definitely have to order a better one for high school. My wallet is going to suffer, and I might be completely broke afterwards, but I absolutely need it for my work.
+
+- Thumb Collision: To top the day off, I noticed that the thumb base joint would collide with the palm during movement because the palm is directly in its path.
+
+- Next Steps:
+
+    - Correct the thumb-to-palm collision geometry.
+
+    - Try to find a workaround to add the fillets without crashing my laptop again.
+
+
+
+<img width="1672" height="838" alt="Screenshot 2026-07-01 220412" src="https://github.com/user-attachments/assets/30c1179a-da8d-4880-9367-654df16a5fb8" />
+<img width="887" height="548" alt="Screenshot 2026-07-01 214924" src="https://github.com/user-attachments/assets/dcdea1e0-f327-4029-9802-ae5f35f63ed1" />
+<img width="1598" height="664" alt="Screenshot 2026-07-01 213116" src="https://github.com/user-attachments/assets/81ffeb18-063c-48ca-8d3a-c15b107629c2" />
+<img width="1426" height="753" alt="Screenshot 2026-07-01 211917" src="https://github.com/user-attachments/assets/c6d7ecf4-b507-49fa-b8f8-e4679dcd4048" />
+<img width="1028" height="813" alt="Screenshot 2026-07-01 211717" src="https://github.com/user-attachments/assets/022478e3-170e-422e-b33f-46e4aa87c5b0" />
+<img width="1212" height="433" alt="Screenshot 2026-07-01 194252" src="https://github.com/user-attachments/assets/b267a8bd-f9e9-46ef-86c6-fceafb12cb1f" />
+<img width="1301" height="765" alt="Screenshot 2026-07-01 194122" src="https://github.com/user-attachments/assets/abe33ff3-9952-4748-bca5-827604678865" />
+<img width="863" height="634" alt="Screenshot 2026-07-01 193808" src="https://github.com/user-attachments/assets/351b591c-b8db-412e-87a2-5dbc7e24902b" />
+<img width="980" height="535" alt="Screenshot 2026-07-01 192826" src="https://github.com/user-attachments/assets/17dd6726-9405-494f-a900-bee2deefdc9f" />
+<img width="1090" height="546" alt="Screenshot 2026-07-01 144440" src="https://github.com/user-attachments/assets/64da951e-d16c-4aa7-af02-9b5117ec14da" />
+<img width="1162" height="571" alt="Screenshot 2026-07-01 143430" src="https://github.com/user-attachments/assets/e6478144-06f6-4041-afb3-5d9fae176159" />
+<img width="1463" height="765" alt="Screenshot 2026-07-01 133641" src="https://github.com/user-attachments/assets/0c875475-308a-4d12-8c34-8ad176efab15" />
+<img width="942" height="606" alt="Screenshot 2026-07-01 142219" src="https://github.com/user-attachments/assets/326045f1-c0c3-4867-a189-0fb4fa6450af" />
+<img width="1013" height="590" alt="Screenshot 2026-07-01 133338" src="https://github.com/user-attachments/assets/f6961c31-bd1e-454c-813f-d84ae426dcc9" />
+
+

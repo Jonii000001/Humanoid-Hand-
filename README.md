@@ -1064,7 +1064,6 @@ Progress & Thoughts:
     - Try to find a workaround to add the fillets without crashing my laptop again.
 
 
-
 <img width="1672" height="838" alt="Screenshot 2026-07-01 220412" src="https://github.com/user-attachments/assets/30c1179a-da8d-4880-9367-654df16a5fb8" />
 <img width="887" height="548" alt="Screenshot 2026-07-01 214924" src="https://github.com/user-attachments/assets/dcdea1e0-f327-4029-9802-ae5f35f63ed1" />
 <img width="1598" height="664" alt="Screenshot 2026-07-01 213116" src="https://github.com/user-attachments/assets/81ffeb18-063c-48ca-8d3a-c15b107629c2" />
@@ -1081,3 +1080,29 @@ Progress & Thoughts:
 <img width="1013" height="590" alt="Screenshot 2026-07-01 133338" src="https://github.com/user-attachments/assets/f6961c31-bd1e-454c-813f-d84ae426dcc9" />
 
 
+Day 48: Tight Tolerances, Test Prints & Component Collisions
+Progress & Thoughts:
+
+- Tendon Routing Fixes: Today I continued working on the tendon system inside the finger base parts. While doing this, I made a mistake where one internal hole path ran directly into another line. I had to redesign the routing and position the two guide circles much closer together on the other side, leaving a clearance of just 0.9 mm.
+
+- Slicing & Printing: I managed to add some fillets to the part without my laptop crashing this time. After troubleshooting and analyzing a few more minor issues, I finally exported the STL file and got the part ready for printing.
+
+- The Reality Check: Once the print was finished, I immediately spotted a physical problem. The index finger component is actually thicker than the others. I realized that the base part I just printed only fits the dimensions of the pinky finger.
+
+- Reusing Old Iterations: I thought my older, thicker finger version was useless, but it turns out I actually need that extra thickness for the index finger to fit correctly. As you can see in the picture, there is a clear collision issue when trying to force the wrong parts together. Luckily, I don't have to redesign everything from scratch. Last week, I already created two different widths for the finger bases. Now, I just need to reuse those models and integrate the new 3D sketch tendon routing directly into them.
+
+- Next Steps:
+
+    - Reuse the wider base part geometry specifically for the wider index finger and integrate the tendon system.
+
+    - Ensure proper spacing between the remaining fingers to prevent any further collisions during movement.
+ 
+  
+<img width="769" height="605" alt="Screenshot 2026-07-02 173654" src="https://github.com/user-attachments/assets/04b67c1c-6442-4267-9e01-256d0cd33834" />
+<img width="738" height="466" alt="Screenshot 2026-07-02 174926" src="https://github.com/user-attachments/assets/8c4e025b-4c89-4a85-b8ba-4d5141cda18d" />
+<img width="1837" height="702" alt="Screenshot 2026-07-02 175952" src="https://github.com/user-attachments/assets/54d5428a-e9dd-4d6e-b419-2851f1b2c8c7" />
+<img width="922" height="406" alt="Screenshot 2026-07-02 182543" src="https://github.com/user-attachments/assets/d0d8ef7c-8d4c-4a36-be03-4c93a6e05c9a" />
+<img width="1119" height="876" alt="Screenshot 2026-07-02 184441" src="https://github.com/user-attachments/assets/82aa4d17-1e64-4345-a9ca-6019fe14019e" />
+<img width="859" height="444" alt="Screenshot 2026-07-02 221550" src="https://github.com/user-attachments/assets/a3ce92fe-bfd9-4284-a0de-e986aad6715c" />
+<img width="582" height="304" alt="Screenshot 2026-07-02 222217" src="https://github.com/user-attachments/assets/7f90ec80-8ba3-4217-9dfb-628ec2bf204a" />
+<img width="1527" height="668" alt="Screenshot 2026-07-02 222349" src="https://github.com/user-attachments/assets/2d9c1109-2d5d-4206-acd6-c05dd9a92c69" />

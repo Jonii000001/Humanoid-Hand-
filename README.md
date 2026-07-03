@@ -1106,3 +1106,39 @@ Progress & Thoughts:
 <img width="859" height="444" alt="Screenshot 2026-07-02 221550" src="https://github.com/user-attachments/assets/a3ce92fe-bfd9-4284-a0de-e986aad6715c" />
 <img width="582" height="304" alt="Screenshot 2026-07-02 222217" src="https://github.com/user-attachments/assets/7f90ec80-8ba3-4217-9dfb-628ec2bf204a" />
 <img width="1527" height="668" alt="Screenshot 2026-07-02 222349" src="https://github.com/user-attachments/assets/2d9c1109-2d5d-4206-acd6-c05dd9a92c69" />
+
+
+Day 49: CAD Frustrations, Sweeping Errors & A Drained Battery
+Progress & Thoughts:
+
+- The Wall of Frustration: Honestly, today really demotivated me. I worked for almost 4 hours, and I spent 1.5 of those hours just trying to model a single tendon canal through the palm... and I still couldn't get it right.
+
+- A Quick Win: First, I did manage to fix the thumb connection on the palm. I moved it 2 mm further out to give it more clearance. I also extruded the area where it used to collide. Now, that part works perfectly, which is a huge relief.
+
+- The 3D Sketch Nightmare: After that, I moved on to the internal tendon routing for the thumb. I only wanted to integrate four channels today, but of course, knowing my luck, it turned into a nightmare. I had no clue how to do it at first, so I did some research and used AI to help me understand the 3D sketch feature since I couldn't find the right YouTube tutorial.
+
+- The Sweeping Glitch: I successfully made the first two channels using splines and the sweep tool. But the fourth one completely drove me crazy. My old laptop was lagging terribly, and when I tried to sweep the round profile along the path, it didn't stay perfectly round to the end. Instead, it flattened out like a 2 mm wide plate.
+
+- Calling it Quits: I tried to fix that one single line for so long, but I eventually realized I just need to stop. I will try again tomorrow when my brain is reset and I have recharged the energy that this stupid line drained from me.
+
+- Next Steps:
+
+    - Tackle that 4th tendon channel again with a fresh mind and figure out why the sweep is flattening out.
+
+
+ <img width="1692" height="881" alt="Screenshot 2026-07-03 224059" src="https://github.com/user-attachments/assets/fd4092cb-367f-4c63-8fda-82deb59ddb0f" />
+<img width="1496" height="835" alt="Screenshot 2026-07-03 223227" src="https://github.com/user-attachments/assets/db63bcfd-5a3a-4f65-8dbc-26a1aa6c526e" />
+<img width="830" height="339" alt="Screenshot 2026-07-03 222922" src="https://github.com/user-attachments/assets/04e75ede-d36e-4ec5-af52-24310fc4010e" />
+<img width="1250" height="543" alt="Screenshot 2026-07-03 210556" src="https://github.com/user-attachments/assets/fcc22a7d-a81a-4462-b951-0f981c245e56" />
+<img width="1171" height="914" alt="Screenshot 2026-07-03 210231" src="https://github.com/user-attachments/assets/a09be6a8-5ca8-40e2-ab8b-c11648a79b6c" />
+<img width="1534" height="751" alt="Screenshot 2026-07-03 203810" src="https://github.com/user-attachments/assets/bbd8975a-fed5-4e7c-a3ca-771210ff15ba" />
+<img width="1413" height="700" alt="Screenshot 2026-07-03 201805" src="https://github.com/user-attachments/assets/1b1469c3-b075-424c-9c51-9c7c7b66fc9a" />
+<img width="1618" height="783" alt="Screenshot 2026-07-03 200856" src="https://github.com/user-attachments/assets/db006a71-cce8-4ba4-b959-cb3a547000d0" />
+<img width="1396" height="699" alt="Screenshot 2026-07-03 195227" src="https://github.com/user-attachments/assets/260b20c6-e583-4c60-b4a9-d10d658a378a" />
+<img width="1536" height="707" alt="Screenshot 2026-07-03 192903" src="https://github.com/user-attachments/assets/cad9e319-d74a-4b12-ba66-6b0bbfc7a34c" />
+<img width="973" height="690" alt="Screenshot 2026-07-03 193522" src="https://github.com/user-attachments/assets/f6fc699d-30ed-4869-8708-af3e547e144e" />
+<img width="1281" height="588" alt="Screenshot 2026-07-03 184547" src="https://github.com/user-attachments/assets/fb862a8a-ef77-45dd-a579-a18071845d87" />
+<img width="1307" height="698" alt="Screenshot 2026-07-03 174907" src="https://github.com/user-attachments/assets/3f314a6f-dd1c-4ddf-bb35-0545dbbde248" />
+<img width="962" height="655" alt="Screenshot 2026-07-03 180654" src="https://github.com/user-attachments/assets/da87c46d-2c98-4ee2-989f-7cad0ee7d7ad" />
+<img width="1056" height="782" alt="Screenshot 2026-07-03 173454" src="https://github.com/user-attachments/assets/28439601-bc6a-4740-afdb-6cc38eaf22a0" />
+<img width="1154" height="742" alt="Screenshot 2026-07-03 165908" src="https://github.com/user-attachments/assets/8436288d-5826-48af-9d4d-512b267a58f9" />

@@ -1170,6 +1170,7 @@ Progress & Thoughts:
 <img width="1247" height="717" alt="Screenshot 2026-07-04 123311" src="https://github.com/user-attachments/assets/a997b9e5-a284-406e-ba8a-0fea5b86acf7" />
 <img width="1229" height="741" alt="Screenshot 2026-07-04 123250" src="https://github.com/user-attachments/assets/5265a0e5-1a4b-448a-bfae-abfc63a5aa7c" />
 <img width="1518" height="811" alt="image" src="https://github.com/user-attachments/assets/e93e92c9-b1de-438d-971c-1e0d296d2a55" />
+<img width="544" height="752" alt="Screenshot 2026-07-04 220915" src="https://github.com/user-attachments/assets/cba6ff66-1094-443e-bd7f-ffa84306cf7f" />
 
 
  

@@ -1173,4 +1173,39 @@ Progress & Thoughts:
 <img width="544" height="752" alt="Screenshot 2026-07-04 220915" src="https://github.com/user-attachments/assets/cba6ff66-1094-443e-bd7f-ffa84306cf7f" />
 
 
- 
+Day 51: Spooling Struggles, Wet Filament & Resizing the Index Finger
+Progress & Thoughts:
+
+- CAD Revisions & Print Prep: I originally planned to print the palm today, but I suddenly realized I had forgotten to add two crucial holes. I need a total of 8 holes for the tendon routing (2 for the thumb connection, 2 for the base, 2 for the pinky, and 2 for the fingertip connection), so I quickly added them. I also made a few adjustments to the gear system.
+
+- 3D Printing Frustrations: I wanted to print the entire palm, but the slicer estimated 8 hours, which was too long for today. I decided to slice just the thumb section to test the tendon mechanism. To prep, I spooled 1kg of filament from a massive 5kg ecoPLA roll to a smaller spool so the extruder wouldn't struggle with the weight. However, the grey filament had a really strange, rough surface texture, and the print failed. I suspect it absorbed moisture, so I stopped printing for the day. My new filament dryer and fresh PLA+ arrive tomorrow, so I'll try again then!
+
+- Dimensional Corrections: Later, I looked through my engineering notes to figure out why the index finger always collided with the base. I realized my measurements were off! The front was 12.6mm wide when it should have been 11.6mm, and the back was 1mm too big. Instead of modifying the base and fingertip connections (which would be a ton of work), I decided to just design a completely new index finger.
+
+- Proportions: While correcting the width, I also adjusted the overall length. The original index finger was 43mm long, which was almost as big as the middle finger. I reduced the length by about 5mm, bringing the main body down to 38mm (using my 30mm pinky body as a reference value).
+
+- Next Steps:
+
+    - Immediate Future: Focus on the fingertip designs and the rest of the tendon system.
+
+    - Electronics: Start working on the PCB designs (encoder, encoder transceiver, and potentially the servo boards).
+
+    - Hardware Limitations: Since the massive palm assembly lags terribly and my old laptop can't handle the performance load, I will officially pause work on the palm until I get my new laptop after the holidays. Work smart, not hard!
+
+
+<img width="958" height="707" alt="Screenshot 2026-07-05 114918" src="https://github.com/user-attachments/assets/8dced57d-ac3b-47c3-b2fd-e7838e1b2a98" />
+<img width="1209" height="768" alt="Screenshot 2026-07-05 121840" src="https://github.com/user-attachments/assets/cea3e386-30a5-4639-ae59-32bf699e2ade" />
+<img width="1640" height="728" alt="Screenshot 2026-07-05 123658" src="https://github.com/user-attachments/assets/d30a0cb1-3d51-464c-8791-198a5378e3b3" />
+<img width="1198" height="686" alt="Screenshot 2026-07-05 123707" src="https://github.com/user-attachments/assets/10bbfc80-aa52-4220-8052-929e0b7e98f3" />
+<img width="1257" height="414" alt="Screenshot 2026-07-05 150721" src="https://github.com/user-attachments/assets/4f0d0dda-a168-4cfd-9caa-e813775ed787" />
+<img width="1008" height="479" alt="Screenshot 2026-07-05 171959" src="https://github.com/user-attachments/assets/b401400f-b598-4f36-9317-673014f6ec63" />
+<img width="1291" height="736" alt="Screenshot 2026-07-05 172525" src="https://github.com/user-attachments/assets/c56da70a-0e91-4fb7-a868-6c2da9bd5b3a" />
+<img width="1272" height="614" alt="Screenshot 2026-07-05 173024" src="https://github.com/user-attachments/assets/bd64a1ae-e279-407d-adf4-9fd64772b8c9" />
+<img width="839" height="588" alt="Screenshot 2026-07-05 193524" src="https://github.com/user-attachments/assets/d1374b9d-b16e-4187-921c-0a3170a6e35d" />
+<img width="465" height="711" alt="Screenshot 2026-07-05 194742" src="https://github.com/user-attachments/assets/1447e3e7-22a2-4225-9992-694fd6e7a470" />
+<img width="1135" height="852" alt="Screenshot 2026-07-05 195312" src="https://github.com/user-attachments/assets/902c7af2-9201-4f9f-9152-014607a2f56d" />
+<img width="731" height="470" alt="Screenshot 2026-07-05 200634" src="https://github.com/user-attachments/assets/5a79dbaf-8d6c-4aec-b69b-406201e45949" />
+<img width="1919" height="803" alt="Screenshot 2026-07-05 201941" src="https://github.com/user-attachments/assets/58272af4-5de4-4f1e-a116-922c113ad981" />
+<img width="738" height="606" alt="Screenshot 2026-07-05 202247" src="https://github.com/user-attachments/assets/4d5acac5-bd7c-4727-ac7a-30d570c911dc" />
+<img width="1199" height="540" alt="Screenshot 2026-07-05 203741" src="https://github.com/user-attachments/assets/9665121d-b6c0-4965-bb35-4ea1e789e582" />
+<img width="882" height="781" alt="Screenshot 2026-07-05 205622" src="https://github.com/user-attachments/assets/a6d73a77-74fd-4075-8ed0-eaf74e77c28c" />

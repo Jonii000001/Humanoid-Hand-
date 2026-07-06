@@ -1209,3 +1209,33 @@ Progress & Thoughts:
 <img width="738" height="606" alt="Screenshot 2026-07-05 202247" src="https://github.com/user-attachments/assets/4d5acac5-bd7c-4727-ac7a-30d570c911dc" />
 <img width="1199" height="540" alt="Screenshot 2026-07-05 203741" src="https://github.com/user-attachments/assets/9665121d-b6c0-4965-bb35-4ea1e789e582" />
 <img width="882" height="781" alt="Screenshot 2026-07-05 205622" src="https://github.com/user-attachments/assets/a6d73a77-74fd-4075-8ed0-eaf74e77c28c" />
+
+
+Day 52: Sensor Design, Printer Nightmares & Total Frustration
+Progress & Thoughts:
+
+- FSR Sensor Fingertip: Before everything went wrong, I actually had a great engineering idea. I started designing the fingertip that will house the FSR (Force Sensitive Resistor) sensor. I realized that rigid plastic wouldn't transfer the force properly, so I plan to use a rubber overlay on the tip to make the sensor readings much more precise.
+
+- The 3D Printer Breakdown: After that, I wanted to print the thumb-to-palm connection... and that's when the nightmare started. Today was probably the most frustrating day of my life regarding this project.
+
+- The Clog: I changed the filament from the rough ecoPLA to my brand-new PLA+. When I started the print, absolutely nothing came out of the nozzle. I spent almost 3 hours trying to troubleshoot. My dad (who doesn't have a clue about 3D printers, but knows general mechanics) even tried to clear the nozzle using a tiny 0.2mm drill bit, but it didn't solve the issue.
+
+- The Bubble Mystery: Out of desperation, I swapped back to the old green PLA Basic that worked perfectly just a week ago. Instead of a smooth line of filament, only weird bubbles appeared out of the nozzle.
+
+- Current State: I am incredibly disappointed and exhausted. For a moment, I actually panicked and thought my whole project was completely over. I have absolutely no idea what to do right now, but I need to figure out how to fix this machine.
+
+- Next Steps:
+
+    - Take a deep breath and fix the 3D printer hardware (unclog the nozzle and dry the filament).
+
+    - Resume printing the thumb connection part once the printer is functional again.
+
+
+ <img width="1144" height="491" alt="Screenshot 2026-07-06 154023" src="https://github.com/user-attachments/assets/4a694048-49fe-42f1-aaba-9f120b279128" />
+<img width="1223" height="545" alt="Screenshot 2026-07-06 154354" src="https://github.com/user-attachments/assets/20358de7-5f16-4591-87a8-3f8a7998dd06" />
+<img width="1462" height="802" alt="Screenshot 2026-07-06 183238" src="https://github.com/user-attachments/assets/3d6a9174-0fcf-4c23-b7d0-63ec1b09e853" />
+<img width="1254" height="824" alt="Screenshot 2026-07-06 183429" src="https://github.com/user-attachments/assets/fcd92340-3eb6-483d-a1ea-24e92b889b3a" />
+<img width="1409" height="768" alt="Screenshot 2026-07-06 183443" src="https://github.com/user-attachments/assets/835273a8-4c67-40dc-9372-b70a8b3b8f36" />
+<img width="1386" height="797" alt="Screenshot 2026-07-06 183812" src="https://github.com/user-attachments/assets/5749d34e-bf04-42c8-be58-f9620dc7a072" />
+<img width="996" height="677" alt="Screenshot 2026-07-06 190532" src="https://github.com/user-attachments/assets/df9d37bd-5a6b-4680-85e4-7c120a02d1cd" />
+<img width="1387" height="801" alt="Screenshot 2026-07-06 204325" src="https://github.com/user-attachments/assets/72a0cc71-c356-407a-ba19-b1652909d028" />

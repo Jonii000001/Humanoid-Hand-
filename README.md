@@ -1256,3 +1256,14 @@ Progress & Thoughts:
     - Figure out the root cause of this extrusion issue and fix the printer.
 
     - Dry the PLA+ in the new Sunlu S2.
+
+
+<img width="447" height="592" alt="Screenshot 2026-07-07 221708" src="https://github.com/user-attachments/assets/d5efac30-f0a3-4546-a77c-68c14cd5c869" />
+<img width="439" height="587" alt="Screenshot 2026-07-07 221728" src="https://github.com/user-attachments/assets/03aaa711-6646-4b10-a1f2-3755b5990fdb" />
+<img width="437" height="591" alt="Screenshot 2026-07-07 221750" src="https://github.com/user-attachments/assets/8c10b203-bf50-4834-a972-dc1d4cb6e551" />
+<img width="232" height="160" alt="Screenshot 2026-07-07 221804" src="https://github.com/user-attachments/assets/39009b36-2d12-48c7-86bf-2b3c0ad810d6" />
+<img width="442" height="598" alt="Screenshot 2026-07-07 221818" src="https://github.com/user-attachments/assets/411584be-3b49-47aa-a569-c5181ef8f26b" />
+<img width="402" height="585" alt="Screenshot 2026-07-07 221838" src="https://github.com/user-attachments/assets/bc31d1ee-ed1b-4e02-b95d-9014eaa9851b" />
+<img width="440" height="574" alt="Screenshot 2026-07-07 221901" src="https://github.com/user-attachments/assets/50c90f0f-b64e-4463-8425-9db5b0185593" />
+<img width="409" height="394" alt="Screenshot 2026-07-07 221913" src="https://github.com/user-attachments/assets/678f2b8e-6815-4843-9827-05b851a4d343" />
+<img width="433" height="572" alt="Screenshot 2026-07-07 221929" src="https://github.com/user-attachments/assets/1a30d48e-5ce1-4d63-b7d5-45c8f8bf0389" />

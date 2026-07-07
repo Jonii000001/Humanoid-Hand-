@@ -1239,3 +1239,20 @@ Progress & Thoughts:
 <img width="1386" height="797" alt="Screenshot 2026-07-06 183812" src="https://github.com/user-attachments/assets/5749d34e-bf04-42c8-be58-f9620dc7a072" />
 <img width="996" height="677" alt="Screenshot 2026-07-06 190532" src="https://github.com/user-attachments/assets/df9d37bd-5a6b-4680-85e4-7c120a02d1cd" />
 <img width="1387" height="801" alt="Screenshot 2026-07-06 204325" src="https://github.com/user-attachments/assets/72a0cc71-c356-407a-ba19-b1652909d028" />
+
+
+
+Day 53: Extruder Teardown, Dryer Mods & Ongoing Printer Battles
+Progress & Thoughts:
+
+- Filament Dryer Upgrades: My Sunlu S2 filament dryer finally arrived! Since my printer is currently down, I couldn't print the custom parts for it, but I still did some manual mods. I plugged one of the two holes with a rubber stopper so the heat doesn't escape. I also successfully installed a pneumatic PTFE tube fitting in the other hole to guide the filament. I still need to add a small ventilation hole for moisture circulation, but that has to wait until the printer works.
+
+- Deep Cleaning the Printer: I decided to tackle the 3D printer issue head-on. I completely disassembled the extruder. It was absolutely covered in filament dust and debris inside. I gave it a massive deep clean using isopropanol and cotton swabs, and then blasted it with brake cleaner and an air compressor to get rid of every last bit of dirt.
+
+- Reassembly & Frustration: Putting the extruder and the nozzle back together took me a really long time because I had absolutely no experience with it. Unfortunately, after all that work, it still wouldn't print. I tried everything I could think of, including doing 4 or 5 cold pulls, but nothing worked. No filament is coming out.
+
+- Next Steps:
+
+    - Figure out the root cause of this extrusion issue and fix the printer.
+
+    - Dry the PLA+ in the new Sunlu S2.

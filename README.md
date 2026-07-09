@@ -1321,3 +1321,15 @@ Progress & Thoughts:
 - Next Steps:
 
     - Now that the machine is fixed, the printing factory will officially resume operations tomorrow!
+
+
+
+<img width="417" height="516" alt="Screenshot 2026-07-09 231055" src="https://github.com/user-attachments/assets/cc3bf914-20f5-4b64-9ff7-12dcb695b84d" />
+<img width="554" height="590" alt="Screenshot 2026-07-09 231112" src="https://github.com/user-attachments/assets/90693022-352e-4dc8-84fe-fab077ccbc63" />
+<img width="438" height="581" alt="Screenshot 2026-07-09 231134" src="https://github.com/user-attachments/assets/b7bf1931-b403-4b5c-bf91-531b219ab848" />
+<img width="439" height="590" alt="Screenshot 2026-07-09 231151" src="https://github.com/user-attachments/assets/1099fa54-4890-4862-b936-e0967cfd8e41" />
+<img width="410" height="440" alt="Screenshot 2026-07-09 231159" src="https://github.com/user-attachments/assets/34b46679-5e97-44dc-8f16-fc3867b12d22" />
+<img width="417" height="522" alt="Screenshot 2026-07-09 231215" src="https://github.com/user-attachments/assets/3f0922dc-2762-48d0-b915-7956cf44cf75" />
+<img width="437" height="522" alt="Screenshot 2026-07-09 231242" src="https://github.com/user-attachments/assets/a1ba0f15-1d13-4ebb-9d20-9f6de30242e0" />
+<img width="444" height="562" alt="Screenshot 2026-07-09 231253" src="https://github.com/user-attachments/assets/95225fa1-4925-4bfb-b32a-a2661a7d1285" />
+<img width="431" height="554" alt="Screenshot 2026-07-09 231323" src="https://github.com/user-attachments/assets/def67f2e-ba45-4cfd-b9ee-5a0c707d0467" />

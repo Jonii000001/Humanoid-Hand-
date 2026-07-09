@@ -1300,3 +1300,24 @@ Progress & Thoughts:
 <img width="1914" height="741" alt="Screenshot 2026-07-08 220249" src="https://github.com/user-attachments/assets/7282c36e-d044-4971-9d6a-6813376ef0e7" />
 <img width="1919" height="709" alt="Screenshot 2026-07-08 225946" src="https://github.com/user-attachments/assets/cfea4f86-acae-46ed-bc44-dd0d24917627" />
 <img width="1861" height="869" alt="image" src="https://github.com/user-attachments/assets/ae42cac9-94d1-4819-b8b7-3138b75e4196" />
+
+
+
+Day 55: Hotend Surgery, Thermal Paste & The Printer Lives!
+Progress & Thoughts:
+
+- Spare Parts Arrive: Today, my new 0.2mm bare hotend arrived. I only ordered the bare metal nozzle, not the complete hotend assembly. Honestly, I regret that a bit now. It would have been smarter to buy the complete assembly so I could have a quick-swap reserve if one breaks in the future.
+
+- The Teardown: I completely disassembled the clogged nozzle on my Bambu Lab P1S and clearly saw the massive filament string stuck deep inside it. I had no choice but to do my very first hotend swap. To make sure I didn't break anything, I watched a tutorial video first.
+
+- Hotend Surgery: I was extremely careful with the metal retaining clip that holds everything together. I used tweezers and cotton swabs to remove it, which gave me access to the ceramic heater and the second wire (which I researched and learned is the thermistor for reading temperatures). I carefully pulled the heater and thermistor out of the clogged block and removed the white pad.
+
+- Reassembly: I applied fresh thermal paste to the new nozzle. I was a bit scared of breaking the delicate wires, but I carefully inserted the ceramic heater and the thermistor into the new holes (filled with thermal paste), placed the pad, and snapped the metal retaining clip back on to secure everything. Finally, I slipped the silicone sock back over the front.
+
+- The Moment of Truth: I screwed the new hotend assembly back into the printer and tried to load filament. It worked! A perfect, thin string of filament came right out of the tip. I am so unbelievably glad and relieved!
+
+- Future Proofing: Ironically, at the very end of the day, the long nozzle cleaning pin finally arrived. At least I have it for next time! But honestly, experiencing this teardown taught me exactly how the hardware works and what the problems can be. Troubleshooting will be so much easier from now on.
+
+- Next Steps:
+
+    - Now that the machine is fixed, the printing factory will officially resume operations tomorrow!

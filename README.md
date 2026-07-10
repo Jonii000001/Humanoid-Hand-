@@ -1333,3 +1333,12 @@ Progress & Thoughts:
 <img width="437" height="522" alt="Screenshot 2026-07-09 231242" src="https://github.com/user-attachments/assets/a1ba0f15-1d13-4ebb-9d20-9f6de30242e0" />
 <img width="444" height="562" alt="Screenshot 2026-07-09 231253" src="https://github.com/user-attachments/assets/95225fa1-4925-4bfb-b32a-a2661a7d1285" />
 <img width="431" height="554" alt="Screenshot 2026-07-09 231323" src="https://github.com/user-attachments/assets/def67f2e-ba45-4cfd-b9ee-5a0c707d0467" />
+
+
+
+Day 56:
+Today I went on with the printing. First I printed the thumb connection to the palm. After that I printed a part of the palm. Not the whole one, because it would take 8.30 hours and the part for the thumb took 3 hours. 
+Going on, I wanted to assemble on the thumb connection part to the palm the ball bearing for the first full prototyp, but the holders were to big and I used a cuttermesser, but it was still to big, so I used a Schleifpapiert to make it clean and at the end it worked.
+Futhermore, I used the string to assembly the whole thing, but the string didn't wanted to go trough the hole, because maybe the printer made a mistake and the string what I have also knicket so much, so the string get's damaged and can't go trough it.
+Later, I found somehow a other string by the Näh stuff, like 0.1mm.
+So I tried to put it trough and also I took a needle to stich trough it.

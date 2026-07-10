@@ -1336,9 +1336,31 @@ Progress & Thoughts:
 
 
 
-Day 56:
-Today I went on with the printing. First I printed the thumb connection to the palm. After that I printed a part of the palm. Not the whole one, because it would take 8.30 hours and the part for the thumb took 3 hours. 
-Going on, I wanted to assemble on the thumb connection part to the palm the ball bearing for the first full prototyp, but the holders were to big and I used a cuttermesser, but it was still to big, so I used a Schleifpapiert to make it clean and at the end it worked.
-Futhermore, I used the string to assembly the whole thing, but the string didn't wanted to go trough the hole, because maybe the printer made a mistake and the string what I have also knicket so much, so the string get's damaged and can't go trough it.
-Later, I found somehow a other string by the Näh stuff, like 0.1mm.
-So I tried to put it trough and also I took a needle to stich trough it.
+Day 56: The Factory is Back, Post-Processing & Stringing the Thumb
+Progress & Thoughts:
+
+- Printing Resumes: The print factory is officially back in business! First, I printed the thumb-to-palm connection piece. After that, I printed a section of the palm. I didn't print the entire palm because it would have taken 8.5 hours, whereas the section I needed for the thumb test only took 3 hours.
+
+- Tolerances & Post-Processing: I wanted to assemble the ball bearing into the thumb connection part for my first full prototype, but the printed tolerances were too tight. The holders were too small for the bearing. I tried shaving off some plastic with a utility knife, but it still wouldn't fit. Eventually, I used some sandpaper to sand it down cleanly, and it finally worked!
+
+- The Tendon Struggle: Next, I tried to route the tendon string through the assembly, but the string just wouldn't go through the internal holes. The printer might have left some small artifacts inside the channel, and the string I was using kept kinking and fraying until it was too damaged to push through.
+
+- A Resourceful Solution: I didn't give up. I went looking through some sewing supplies and found a much thinner, 0.1mm string. I also grabbed a sewing needle and used it to carefully guide the new string through the stubborn holes.
+
+- Success: By the end of the day, I successfully assembled all the physical parts of the thumb (except the fingertip) and successfully routed the tendon string through the entire mechanism!
+
+- Next Steps:
+
+    - Print the fingertip to complete the physical thumb assembly.
+
+    - Test the mechanical pulling motion to see how well the tendon system actually moves the joints.
+
+
+<img width="1887" height="982" alt="Screenshot 2026-07-10 120117" src="https://github.com/user-attachments/assets/e9db1a19-7def-49bd-ac84-7236f048ec68" />
+<img width="1919" height="933" alt="Screenshot 2026-07-10 120612" src="https://github.com/user-attachments/assets/9343dba6-fe64-434e-b08c-8afc3e101e84" />
+<img width="1889" height="844" alt="Screenshot 2026-07-10 121727" src="https://github.com/user-attachments/assets/2332c7f0-13f5-41fb-acc1-a40760807a50" />
+<img width="438" height="569" alt="Screenshot 2026-07-10 223131" src="https://github.com/user-attachments/assets/f8d5c182-49d8-43df-8697-7d9a86881555" />
+<img width="434" height="545" alt="Screenshot 2026-07-10 223142" src="https://github.com/user-attachments/assets/e89cc2e9-278a-4548-9f4f-aa9b4d3bb59b" />
+<img width="427" height="555" alt="Screenshot 2026-07-10 223154" src="https://github.com/user-attachments/assets/d79b067f-5363-4e2f-b419-909ab5cb849f" />
+<img width="410" height="549" alt="Screenshot 2026-07-10 223206" src="https://github.com/user-attachments/assets/25732723-3bb6-496c-a6a4-8172728c16a1" />
+<img width="437" height="576" alt="Screenshot 2026-07-10 223216" src="https://github.com/user-attachments/assets/2dab8275-1089-4725-bea0-659213145f45" />

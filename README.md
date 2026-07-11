@@ -1365,14 +1365,41 @@ Progress & Thoughts:
 
 
 
-Day 57:
-Today it was also a frustrating day.
-At first of the day, I took the part from yesterday and tried to put the tendon trough the one hole, but something didn't want to work, so I tried to use a Staubsauger with extra moutings with a Beilagscheibe und einem Pneumatik-Schlauch, that I can put the hose exactly onto the hole of the tendon were it has to came out. After all the tries, which didn't worked too, I came up with a other idea. I took the Luftkompressor and set it to 8bar and blew completly on the maximum of the machine which I had in the hole that it will be free. It also didn't work. So I asked my dad and he drilled the hole a little bit bigger, because he had a mouting for the Luftkompressor so the air wouldn't get lost at the oustide of the hole. Unfortunately, it still didn't work, so my dad wanted to drill with the drill and the 0.8mm drill bit into the part to clean the hole from contaminants. Just as my luck would have it, the drill bit snapped off inside the part and got stuck. Yeah so it was over and I could the part throw into the plastic trash, but I wanted to test the trash and took a lighter and burned it a little, during this accation my dad holded a pistol the measure the temperature. At the end I took a Hammer and hit it.
-The I wanted to print it new, but somehow the current of the 3d printer went after 2 hours off and the printer went off, so the print failed. (it was my foult, because I have forgotten to turn the timer of the automatic current off to turn off)
-Then I wanted to improve my github with the help of copilot in github, but it wasn't the best, so I haven't done it.
-Furthermore, I disassembled the display of the 3d-printer, because it blinked everytime, the light was low so I couldn't see much and the buttons didn't work all since I had buyd the printer. So I completely dissambled the display until I was at the PCB it was a bit tricky, because I wanted to be really careful. Then I plugged the orange cable out and carefully in. At the end I assembled it for the second time. The screen shined really bright, but the buttons didn't work, so I did it for the thirt time. That time it still didn't work, but I tried to press a button on my phone, because I wanted to turn the fans on and suddently the buttons at the display also worked.
-At the end of the day, I wanted to print the part for the thirt time, but this time perfectly. This was the reason, why I searched with AI and other tools trough the internet for the best 3d-printer settings, but idk. I couldn't find so much. I did some changes and finally started the print after all the work. Why had it had to be???? The printer didn't print, filament didn't want to come out. So I stopped everything this day and I'll go on tomorrow.
-The next few days, I want to improve my github and go on with my PCB (magnet encoder, just correcting things) and also I want to ship my project in for budget in macondo
+Day 57: Compressed Air, Broken Drills, and Printer Power Failures
+Progress & Thoughts:
 
-Sorry for the little pictures this day, I can't do so much, because my phone is so big for holding it all the time and I don't have a holder or anything. A small camera for recording would be perfect for all the work, but I can't afford me this. 
+- The Tendon Struggle Continues: I started the day trying to route the tendon through yesterday’s part, but it still wouldn't work. I tried a crazy idea: I rigged a vacuum cleaner with custom attachments using a washer and a pneumatic hose, trying to suck the string exactly through the exit hole. When that didn't work, I grabbed the air compressor, set it to 8 bar, and blasted maximum pressure into the hole to clear it out. Still nothing.
+
+- The Broken Drill Bit: I asked my dad for help, and he tried to drill the hole slightly bigger so the air compressor nozzle would fit perfectly without air escaping. When that still didn't clear the channel, he took a drill with a tiny 0.8mm bit to clean out the contaminants. Just my luck—the drill bit snapped off and got stuck deep inside the part. The piece was ruined.
+
+- Stress Relief & Material Testing: Since the part was destined for the trash anyway, I decided to test its limits. I took a lighter and burned it a bit while my dad used a temperature gun to measure the heat. Finally, I took a hammer and just smashed it. Honestly, it felt good.
+
+- The Power Failure: I tried to reprint the part. After 2 hours of printing, the power to the 3D printer suddenly cut off, and the print failed. It was completely my fault—I forgot to disable the automatic shut-off timer on my smart plug.
+
+- Display Teardown: Next, I decided to fix my printer's display. Ever since I bought it, the screen flickered, the brightness was low, and the buttons barely worked. I completely disassembled it down to the PCB, being extremely careful. I unplugged the orange ribbon cable and reseated it. After reassembling it twice, the screen was finally bright, but the buttons still didn't work. I took it apart for a third time, but no luck. However, when I suddenly used the phone app to turn on the printer fans, a software glitch seemed to fix it, and the physical display buttons miraculously started working!
+
+- The Final Defeat: At the end of the day, I wanted to start the print for the third time, but perfectly. I used AI and searched the internet for the absolute best slicer settings, made my tweaks, and hit print. Why did this have to happen to me? The printer didn't print. No filament came out of the nozzle. Another clog. I stopped everything and called it a day.
+
+- Next Steps:
+
+    - Improve my GitHub documentation (Copilot wasn't helping much today, so I'll do it manually).
+
+    - Continue working on the PCB designs (specifically correcting the magnetic encoder).
+
+    - Submit my project for a Hack Club Macondo grant to get some budget!
+
+- Note: Sorry for the lack of pictures today. It’s really hard to hold my massive phone while working with both hands, and I don't have a mount. A small action camera would be perfect for documenting this, but I can't afford one right now.
+
+
 <img width="261" height="379" alt="image" src="https://github.com/user-attachments/assets/60c068f2-3e75-4b58-a945-da7efc7af3b5" />
+<img width="1919" height="957" alt="Screenshot 2026-07-11 204253" src="https://github.com/user-attachments/assets/f57d4a62-b7fc-419a-bdb2-2dc7fbea146d" />
+<img width="1919" height="992" alt="Screenshot 2026-07-11 210637" src="https://github.com/user-attachments/assets/96d41247-c3c3-43be-b46e-8fe1c0d307dc" />
+<img width="437" height="563" alt="Screenshot 2026-07-11 231949" src="https://github.com/user-attachments/assets/3e1754b2-f37a-4c3e-be5e-e80ce885f828" />
+<img width="441" height="588" alt="Screenshot 2026-07-11 231841" src="https://github.com/user-attachments/assets/340453f2-c929-4cb5-bfcd-cb8eec20a0e5" />
+<img width="433" height="582" alt="Screenshot 2026-07-11 231852" src="https://github.com/user-attachments/assets/60707cf9-a3cf-4789-8562-5617635b3ebf" />
+<img width="433" height="552" alt="Screenshot 2026-07-11 231903" src="https://github.com/user-attachments/assets/d8c4cc7d-f2d8-4120-935b-d3d5079719bf" />
+<img width="445" height="574" alt="Screenshot 2026-07-11 231913" src="https://github.com/user-attachments/assets/72af154c-11ab-4cc3-aed0-45b5087d26ae" />
+<img width="404" height="423" alt="Screenshot 2026-07-11 231921" src="https://github.com/user-attachments/assets/00c6ce86-5df2-44f3-b4be-70aa66afaa6c" />
+<img width="407" height="595" alt="Screenshot 2026-07-11 231932" src="https://github.com/user-attachments/assets/8013b17e-33fa-4475-a85a-1d98be48d4cc" />
+<img width="489" height="589" alt="Screenshot 2026-07-11 232004" src="https://github.com/user-attachments/assets/bbc14fcc-dc34-4b7b-9d25-7c0d2ab7718f" />
+<img width="436" height="574" alt="Screenshot 2026-07-11 232015" src="https://github.com/user-attachments/assets/b32d4d1d-4cb1-466b-865a-34c26406fe2f" />

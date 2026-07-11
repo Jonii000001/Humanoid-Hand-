@@ -1336,24 +1336,22 @@ Progress & Thoughts:
 
 
 
-Day 56: The Factory is Back, Post-Processing & Stringing the Thumb
+Day 56: The Factory Resumes, Tolerances & The Midnight Tendon Struggle
 Progress & Thoughts:
 
 - Printing Resumes: The print factory is officially back in business! First, I printed the thumb-to-palm connection piece. After that, I printed a section of the palm. I didn't print the entire palm because it would have taken 8.5 hours, whereas the section I needed for the thumb test only took 3 hours.
 
 - Tolerances & Post-Processing: I wanted to assemble the ball bearing into the thumb connection part for my first full prototype, but the printed tolerances were too tight. The holders were too small for the bearing. I tried shaving off some plastic with a utility knife, but it still wouldn't fit. Eventually, I used some sandpaper to sand it down cleanly, and it finally worked!
 
-- The Tendon Struggle: Next, I tried to route the tendon string through the assembly, but the string just wouldn't go through the internal holes. The printer might have left some small artifacts inside the channel, and the string I was using kept kinking and fraying until it was too damaged to push through.
+- The Endless Tendon Battle: Next, I tried to route the tendon string through the assembly, but the internal channels turned into a complete nightmare. I found a thin 0.1mm string in some sewing supplies and used a needle to guide it. I finally managed to get the string through the first hole. After nearly an hour of intense focusing, I actually managed to push it through the second hole—but then it immediately slipped back out of the first one.
 
-- A Resourceful Solution: I didn't give up. I went looking through some sewing supplies and found a much thinner, 0.1mm string. I also grabbed a sewing needle and used it to carefully guide the new string through the stubborn holes.
-
-- Success: By the end of the day, I successfully assembled all the physical parts of the thumb (except the fingertip) and successfully routed the tendon string through the entire mechanism!
+- Midnight Defeat: I kept trying over and over again, but the string just refused to go through anymore. I kept grinding all the way until 12:30 AM. Eventually, I was so completely exhausted and frustrated by this single piece of string that I literally fell asleep right at my desk while working on it.
 
 - Next Steps:
 
-    - Print the fingertip to complete the physical thumb assembly.
+    - Take a break, clear my head, and tackle the tendon routing again with a fresh pair of eyes.
 
-    - Test the mechanical pulling motion to see how well the tendon system actually moves the joints.
+    - Figure out a better way to secure the string so it doesn't slip out again.
 
 
 <img width="1887" height="982" alt="Screenshot 2026-07-10 120117" src="https://github.com/user-attachments/assets/e9db1a19-7def-49bd-ac84-7236f048ec68" />

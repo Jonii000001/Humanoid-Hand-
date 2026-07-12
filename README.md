@@ -1403,3 +1403,29 @@ Progress & Thoughts:
 <img width="407" height="595" alt="Screenshot 2026-07-11 231932" src="https://github.com/user-attachments/assets/8013b17e-33fa-4475-a85a-1d98be48d4cc" />
 <img width="489" height="589" alt="Screenshot 2026-07-11 232004" src="https://github.com/user-attachments/assets/bbc14fcc-dc34-4b7b-9d25-7c0d2ab7718f" />
 <img width="436" height="574" alt="Screenshot 2026-07-11 232015" src="https://github.com/user-attachments/assets/b32d4d1d-4cb1-466b-865a-34c26406fe2f" />
+
+
+
+Day 58: First Layer Failures, Git Panics, and Shrinking PCBs
+The last three days have been frustrating and honestly a bit boring. Today, I tried to print the thumb part of the palm again, but the print failed for the 3rd time. I don't really know how to move forward, and I don't have anyone around to ask for help. The print always fails right at the first layer—instead of laying down a clean surface, it just strings everywhere. On top of that, my brain is struggling to process everything going on at once. My dad started building a custom photovoltaic setup on the garden house roof, and my own project has gotten so complex that I barely know where to start improving it. The stress is really building up, especially since I only have one month left to submit my project and budget for the Macondo grant.
+
+Since the day couldn't get any more disappointing, I decided to take a break from the hardware and organize my GitHub README. I tried using GitHub Copilot to help, but I will never trust it again. It completely broke my entire README, and I had no idea how to revert it. I scoured the internet for help, and some YouTube videos actually made it worse! Finally, with clear instructions from Claude AI, I managed to fix it using Codespaces. I opened the terminal, typed git revert HEAD --no-edit, confirmed it, and then ran git push. Just like that, everything went back to normal.
+
+Despite the chaos, I did manage to make some solid progress. I realized that my PCB design in KiCad was too big; the diameter was 14mm, but I had adjusted the CAD model to only have 13mm of clearance. I had to shrink the board. Initially, I moved the TLE5012 magnetic encoder chip slightly to the left to fit everything on the smaller board, but then it hit me: that won't work. The chip must sit exactly in the center to accurately read the joint's position in real life. So, I kept the chip centered and just packed the other components tightly around it. I ran the DRC (Design Rule Check) in KiCad, everything passed, and I downloaded the final files.
+
+To end the day on a positive note, I fully assembled the digital model of the robot hand in CAD by connecting all the final parts from my object library. Over the next few days, I want to focus on finishing the electronics and putting together the Bill of Materials (BOM) so I can submit my budget proposal to Macondo. I'm going on a trip next week, so my time will be limited. I'll probably just use that time away to organize my GitHub and post my updates.
+
+
+<img width="1919" height="901" alt="Screenshot 2026-07-12 225427" src="https://github.com/user-attachments/assets/f208ddbf-9719-4a68-a219-9c4fa1fea873" />
+<img width="1334" height="703" alt="Screenshot 2026-07-12 222926" src="https://github.com/user-attachments/assets/0f9306ca-1bf4-48eb-96d4-34f6cebdae1c" />
+<img width="1168" height="700" alt="Screenshot 2026-07-12 215230" src="https://github.com/user-attachments/assets/15c61403-3653-4851-a5c0-a1054ca3146a" />
+<img width="735" height="375" alt="Screenshot 2026-07-12 174534" src="https://github.com/user-attachments/assets/344f5d62-e571-49f0-acd3-e2e6e1c9db97" />
+<img width="620" height="548" alt="Screenshot 2026-07-12 172102" src="https://github.com/user-attachments/assets/3d7ddf85-1276-4410-a32e-e317fc5767b6" />
+<img width="1914" height="924" alt="Screenshot 2026-07-12 170236" src="https://github.com/user-attachments/assets/c3428a62-c8a5-48e6-bbb7-d0c8a71ac1d6" />
+<img width="1036" height="828" alt="Screenshot 2026-07-12 162539" src="https://github.com/user-attachments/assets/e6bee431-399f-4cf3-8ad5-8412e294f70c" />
+<img width="1421" height="832" alt="Screenshot 2026-07-12 161806" src="https://github.com/user-attachments/assets/29a0ecea-5fc5-4575-91d7-559a69ffca9b" />
+<img width="1904" height="850" alt="Screenshot 2026-07-12 155933" src="https://github.com/user-attachments/assets/08a8d6c7-f9b2-4911-a622-5d7c89cfa212" />
+<img width="1900" height="869" alt="Screenshot 2026-07-12 155643" src="https://github.com/user-attachments/assets/4c023e21-dba5-44af-9850-37ca96eb04ac" />
+<img width="1918" height="872" alt="Screenshot 2026-07-12 142836" src="https://github.com/user-attachments/assets/3e3f7b29-93be-4dd9-bf28-282f8de76fcb" />
+<img width="1919" height="811" alt="Screenshot 2026-07-12 142606" src="https://github.com/user-attachments/assets/2b32249f-e50a-4927-96b4-985bcb34303c" />
+<img width="1917" height="859" alt="Screenshot 2026-07-12 142334" src="https://github.com/user-attachments/assets/6893c337-af51-4296-b9ec-7b27df68c977" />

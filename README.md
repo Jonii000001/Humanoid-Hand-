@@ -1433,3 +1433,16 @@ To end the day on a positive note, I fully assembled the digital model of the ro
 <img width="560" height="740" alt="Screenshot 2026-07-12 235808" src="https://github.com/user-attachments/assets/a057361a-4f91-4949-985e-483f039645cc" />
 <img width="555" height="691" alt="Screenshot 2026-07-12 235853" src="https://github.com/user-attachments/assets/9cf2b1c2-3f05-4f4c-95cb-c4a417f2a68a" />
 <img width="554" height="727" alt="Screenshot 2026-07-12 235901" src="https://github.com/user-attachments/assets/aab622ab-8654-4865-9e35-bea413f12594" />
+
+
+Day 59: Budget Cuts, BOM Revisions, and Running on Empty
+Today, my main focus was organizing my material list—the Bill of Materials (BOM). I had to reduce it massively because the initial costs were just way too high. I spent a lot of time searching the internet to find the perfect, most cost-effective components. Originally, I wanted to use a Raspberry Pi 5 with 16GB of RAM, but the price was simply too steep, so I had to make a massive downgrade to the 4GB version. I also made some fundamental hardware changes to save money and space. I swapped the diametral magnet for a longer one that goes entirely through the joint, and I will place a magnetic encoder on both sides to read the position. To cut costs further, I deleted the Würth Elektronik ferrite shielding foil completely, and I reduced both the Teensy microcontrollers and the LiPo batteries down to just one each.
+
+After all these cuts, I finally arrived at a total price of €971. I will probably have to pay a little bit out of pocket, because the Macondo grant is capped at exactly $1000, and with the current exchange rate, €971 is slightly over that limit. I'm not completely finished with the electronics yet. Tomorrow, I plan to design the magnetic encoder transceiver board, and then I will finally submit my project proposal to get the budget. I really hope I get the $1000; otherwise, it will be incredibly difficult to actually build an advanced robotics project like this.
+
+Honestly, I have to apologize for the slow progress over the last few days, but I think I desperately need a short break. My body is completely exhausted. I'm running on empty because I haven't been getting enough sleep, and I have so many different projects going on at the same time. I simply can't push myself to the absolute limit every single day anymore. For now, my new rule is to try and do at least one hour of solid work each day to keep the momentum going without burning myself out completely.
+
+<img width="1919" height="576" alt="Screenshot 2026-07-13 222326" src="https://github.com/user-attachments/assets/0a81db61-a132-4ec0-b490-17a93e34850b" />
+<img width="1813" height="789" alt="Screenshot 2026-07-13 213900" src="https://github.com/user-attachments/assets/2302f972-1c0d-4e92-b2e0-8c485c463d46" />
+<img width="1257" height="806" alt="Screenshot 2026-07-13 094207" src="https://github.com/user-attachments/assets/4b653c3c-361b-4a99-91ee-f6a55db46cac" />
+<img width="1244" height="729" alt="Screenshot 2026-07-13 094246" src="https://github.com/user-attachments/assets/3f29f7b2-19b0-44ae-adc7-d280e838fd00" />

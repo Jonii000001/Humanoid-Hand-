@@ -1449,4 +1449,10 @@ Honestly, I have to apologize for the slow progress over the last few days, but 
 
 
 Day 60:
-Today wasn't a special day I just researched how I can connect all 30 magnetic encoders that the raspberry pi can read the signal without having a mess with all the wires. I used first Gemini for advice and looked in the internet for the products, but yeah they were really expensive, so I asked claude ai and at the end I came up with the RP2400-Zero. I also asked claude for the connection and I'll have to connect the encoder SKC and Data from up to the down (I have to connect all the 3 encoder from the one side and all the from the other side) I also corrected some things from the product list, because yesterday I forgot to add a ressistor in fact the 100 OHm ressistor. First I hadn't found the 0402 100 ohm ressistor from the branch Yageo, but later I found it. I also thought about how I should solder it on the PCB (my self or directly JLCMC
+Today wasn't a special day I just researched how I can connect all 30 magnetic encoders that the raspberry pi can read the signal without having a mess with all the wires. I used first Gemini for advice and looked in the internet for the products, but yeah they were really expensive, so I asked claude ai and at the end I came up with the RP2400-Zero. I also asked claude for the connection and I'll have to connect the encoder SKC and Data from up to the down (I have to connect all the 3 encoder from the one side and all the from the other side) I also corrected some things from the product list, because yesterday I forgot to add a ressistor in fact the 100 OHm ressistor. First I hadn't found the 0402 100 ohm ressistor from the branch Yageo, but later I found it. I also thought about how I should solder it on the PCB (my self or directly JLCMC). I'll have to look up how much I would have to pay for that, but maybe much. 
+
+
+<img width="1404" height="544" alt="Screenshot 2026-07-14 143805" src="https://github.com/user-attachments/assets/5e41f128-03fc-4cb8-a8bd-94fff92b490e" />
+<img width="1248" height="904" alt="Screenshot 2026-07-14 113549" src="https://github.com/user-attachments/assets/d08c07a3-fd22-42c1-81ab-1cb8b194d702" />
+<img width="1091" height="317" alt="Screenshot 2026-07-14 102707" src="https://github.com/user-attachments/assets/7e258d45-3e8b-4b74-ad30-d43324a1fd1c" />
+

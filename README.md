@@ -1446,3 +1446,7 @@ Honestly, I have to apologize for the slow progress over the last few days, but 
 <img width="1813" height="789" alt="Screenshot 2026-07-13 213900" src="https://github.com/user-attachments/assets/2302f972-1c0d-4e92-b2e0-8c485c463d46" />
 <img width="1257" height="806" alt="Screenshot 2026-07-13 094207" src="https://github.com/user-attachments/assets/4b653c3c-361b-4a99-91ee-f6a55db46cac" />
 <img width="1244" height="729" alt="Screenshot 2026-07-13 094246" src="https://github.com/user-attachments/assets/3f29f7b2-19b0-44ae-adc7-d280e838fd00" />
+
+
+Day 60:
+Today wasn't a special day I just researched how I can connect all 30 magnetic encoders that the raspberry pi can read the signal without having a mess with all the wires. I used first Gemini for advice and looked in the internet for the products, but yeah they were really expensive, so I asked claude ai and at the end I came up with the RP2400-Zero. I also asked claude for the connection and I'll have to connect the encoder SKC and Data from up to the down (I have to connect all the 3 encoder from the one side and all the from the other side) I also corrected some things from the product list, because yesterday I forgot to add a ressistor in fact the 100 OHm ressistor. First I hadn't found the 0402 100 ohm ressistor from the branch Yageo, but later I found it. I also thought about how I should solder it on the PCB (my self or directly JLCMC

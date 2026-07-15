@@ -1472,7 +1472,6 @@ Despite the missing mouse, I couldn't resist starting a little bit of CAD at the
 <img width="338" height="735" alt="Screenshot 2026-07-15 172707" src="https://github.com/user-attachments/assets/6e58b75f-d977-448d-8a98-f2a978e1cc3b" />
 <img width="713" height="735" alt="Screenshot 2026-07-15 151936" src="https://github.com/user-attachments/assets/30f694b2-2424-4b33-964b-d97dfb84af7d" />
 <img width="338" height="734" alt="Screenshot 2026-07-15 172714" src="https://github.com/user-attachments/assets/98500c42-41ee-48f4-aff3-00ff707051f8" />
-<img width="1779" height="743" alt="Screenshot 2026-07-15 173105" src="https://github.com/user-attachments/assets/1b99a14e-7588-4f7c-be26-7647c95f64f1" />
 <img width="1132" height="477" alt="Screenshot 2026-07-15 174148" src="https://github.com/user-attachments/assets/030ff830-4d08-4a36-ab04-23d7d2a6a0a6" />
 <img width="297" height="634" alt="Screenshot 2026-07-15 174216" src="https://github.com/user-attachments/assets/ee7d1bf2-c05c-4234-aa9d-77ec10db4115" />
 <img width="1179" height="316" alt="Screenshot 2026-07-15 174120" src="https://github.com/user-attachments/assets/4317c013-8910-403d-897a-75f694f8c619" />

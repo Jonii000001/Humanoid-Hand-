@@ -1,3 +1,4 @@
+<img width="1779" height="743" alt="Screenshot 2026-07-15 173105" src="https://github.com/user-attachments/assets/9f2fda53-e9bf-48d8-aecb-15a735fb36a8" />
 # Humanoid-Hand-
 ## About the Author & Project Motivation
 

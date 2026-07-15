@@ -1,4 +1,3 @@
-<img width="1779" height="743" alt="Screenshot 2026-07-15 173105" src="https://github.com/user-attachments/assets/9f2fda53-e9bf-48d8-aecb-15a735fb36a8" />
 # Humanoid-Hand-
 ## About the Author & Project Motivation
 
@@ -1479,3 +1478,4 @@ Despite the missing mouse, I couldn't resist starting a little bit of CAD at the
 <img width="1919" height="593" alt="Screenshot 2026-07-15 174414" src="https://github.com/user-attachments/assets/e443b607-0521-47fd-b6fa-24e078f0ebab" />
 <img width="1462" height="790" alt="Screenshot 2026-07-15 210945" src="https://github.com/user-attachments/assets/cc0a0687-3180-4601-8ec5-d41196c0bd66" />
 <img width="847" height="488" alt="Screenshot 2026-07-15 212014" src="https://github.com/user-attachments/assets/cf2f5811-04cf-4b7f-8257-83c246e96bf7" />
+<img width="1779" height="743" alt="Screenshot 2026-07-15 173105" src="https://github.com/user-attachments/assets/9f2fda53-e9bf-48d8-aecb-15a735fb36a8" />

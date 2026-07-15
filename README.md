@@ -1460,3 +1460,22 @@ Besides the wiring logic, I spent some time updating my Bill of Materials (BOM).
 <img width="1248" height="904" alt="Screenshot 2026-07-14 113549" src="https://github.com/user-attachments/assets/d08c07a3-fd22-42c1-81ab-1cb8b194d702" />
 <img width="1091" height="317" alt="Screenshot 2026-07-14 102707" src="https://github.com/user-attachments/assets/7e258d45-3e8b-4b74-ad30-d43324a1fd1c" />
 
+
+Day 61: BOM Finalized, Grant Submitted, and Mid-Print Embedding
+Today was heavily focused on logistics and project management. I finally finished the Bill of Materials (BOM) and listed every single component in detail. I spent a lot of time reviewing the price of every part and trying to find cheaper alternatives to keep the budget under control. For example, instead of buying the 12V power cable directly from Robotis, I decided to source one from Amazon. Doing this saves a lot of money that would have otherwise been wasted on expensive shipping fees and import taxes. Once the BOM and all the organizational details were perfectly prepared, I officially submitted the project for a Macondo Hack Club grant! Now the waiting game begins. Hopefully, it gets accepted, but it won't even be reviewed for another 17 days. Even if I get the full $1,000, it unfortunately won't be quite enough to cover everything. I will have to pay the remaining costs out of my own pocket, unless I can manage to find another sponsor somewhere to help out.
+
+I wanted to dive deep into CAD next, but I'm currently blocked by my hardware setup. I just got a new laptop for school, but it only has USB-C ports, so I had to order a new mouse before I can model efficiently. Next week, I'm going on a trip to another country with my family, so I won't have much time to work on the project anyway. I think I'll use that week to just relax, take a well-deserved break, and then fully lock in again as soon as I get back home.
+
+Despite the missing mouse, I couldn't resist starting a little bit of CAD at the end of the day. I figured out a brilliant plan for integrating the 4x10mm diametral magnet. Instead of just creating a slot for it, I'm going to design the part to completely enclose both sides of the hole and add mounts for the ball bearings on the outside. When it comes time to manufacture it, I will pause the 3D print exactly in the middle, place the magnet inside the cavity, and then let the printer print over it. The magnet will be permanently embedded right inside the solid plastic!
+
+<img width="339" height="725" alt="Screenshot 2026-07-15 172701" src="https://github.com/user-attachments/assets/9c68c404-9559-47b5-8cdf-c8ababfd0866" />
+<img width="338" height="735" alt="Screenshot 2026-07-15 172707" src="https://github.com/user-attachments/assets/6e58b75f-d977-448d-8a98-f2a978e1cc3b" />
+<img width="713" height="735" alt="Screenshot 2026-07-15 151936" src="https://github.com/user-attachments/assets/30f694b2-2424-4b33-964b-d97dfb84af7d" />
+<img width="338" height="734" alt="Screenshot 2026-07-15 172714" src="https://github.com/user-attachments/assets/98500c42-41ee-48f4-aff3-00ff707051f8" />
+<img width="1779" height="743" alt="Screenshot 2026-07-15 173105" src="https://github.com/user-attachments/assets/1b99a14e-7588-4f7c-be26-7647c95f64f1" />
+<img width="1132" height="477" alt="Screenshot 2026-07-15 174148" src="https://github.com/user-attachments/assets/030ff830-4d08-4a36-ab04-23d7d2a6a0a6" />
+<img width="297" height="634" alt="Screenshot 2026-07-15 174216" src="https://github.com/user-attachments/assets/ee7d1bf2-c05c-4234-aa9d-77ec10db4115" />
+<img width="1179" height="316" alt="Screenshot 2026-07-15 174120" src="https://github.com/user-attachments/assets/4317c013-8910-403d-897a-75f694f8c619" />
+<img width="1919" height="593" alt="Screenshot 2026-07-15 174414" src="https://github.com/user-attachments/assets/e443b607-0521-47fd-b6fa-24e078f0ebab" />
+<img width="1462" height="790" alt="Screenshot 2026-07-15 210945" src="https://github.com/user-attachments/assets/cc0a0687-3180-4601-8ec5-d41196c0bd66" />
+<img width="847" height="488" alt="Screenshot 2026-07-15 212014" src="https://github.com/user-attachments/assets/cf2f5811-04cf-4b7f-8257-83c246e96bf7" />

@@ -1,13 +1,14 @@
-Days 1–3: Biomechanical Research & Architecture
-• Objective: Define the mechanical framework and actuation logic for a humanoid finger structure.
+## Day 1: The begin of my Journey
 
-• Research & Development: Analyzed biological hand kinematics and existing robotic prostheses. Determined that embedding motors directly into the finger joints adds excessive distal mass.
+Today is the starting of my my project and the long journey of real human engineering. I'm really curious what's the outcome.
+That's my first project build from myself. Hopefully it'll be a fun time and great step ahead to my future dream of MIT.
+My goal is to build in the future more projects and get in touch with real engineering problems and try to solve them by myself
 
-• Structural Decision: Selected an underactuated, antagonistic tendon-driven system.
+Today I researched a lot, how I wan to build my humanoid hand. I looked at many pictures and watched youtube videos as inspiration
 
-• Mechanism: Actuation will be handled by a remote "forearm" housing containing the servos. Each servo will utilize a custom dual-pulley system. Rotational movement in one direction pulls the flexor tendon (Beuger) to actuate flexion, while the opposite rotation releases it and pulls the extensor tendon (Strecker) for extension.
+Here are some inspirations:
+<img width="353" height="479" alt="Screenshot 2026-04-30 213453" src="https://github.com/user-attachments/assets/028ac7e1-484a-4013-8ef2-d252e3d7b1b5" />
+This is a really advanced example and looks really cool, maybe this would be my dream of humanoid hand
 
-• Future Scope: Identified the need for high-precision angular feedback at the joints to transition from open-loop to closed-loop control.
-
-<img width="821" height="625" alt="Screenshot 2026-05-23 151136" src="https://github.com/user-attachments/assets/e37f3cd1-b1f2-4bd4-a13a-b47eae356d7a" />
-
+<img width="519" height="853" alt="Screenshot 2026-04-30 213837" src="https://github.com/user-attachments/assets/07634a11-e921-4466-9036-e4c272452a06" />
+Here are so much tendons visualable, maybe a glove would disappear the mechanics in the inside and look cleaner, but so it looks also more impressive

@@ -26,7 +26,7 @@ My dream is also to go to MIT, hopefully I will get there ;)
 | [Ceramic ball bearing 1](https://www.ebay.at/itm/407026719115?var=677216858335) | Smooth joint movement | 5 | $37.17 |
 | [Ceramic ball bearing 2](https://www.ebay.at/itm/358293695031?var=626577657096) | Smooth joint movement | 25 | $235.95 |
 | [Teensy 4.1](https://www.amazon.de/-/en/PJRC-Teensy-With-Pins-Soldered/dp/B08CTM3279/ref=sr_1_1?crid=1ZX5R2QFAPHGG&dib=eyJ2IjoiMSJ9.73YAbp3wwEJKFXMEClrPk1XXfObPSKHulkErnEHfmcHnMpEfxqxYqTlxRe3dv-a6y9oBpAO3nFt8q_XMAJ3DVzIuNkFFpeohAUSXvdm--NUbfVeX3HIcWHmSie_qJGLECwadoCAI_pxwEI7DS-o9ehRn6Y39YA-jK77rsASh9SPdst9kfhqWksoz6oAXTKacete_jnoh4VNIObOQxUROrxHCJFyTbOBEujw67zcHXiQqFmwIt5uw9Pl4uxmOCifG3FLbStXdC2pJtT78m5ZucvjKw3fg2qGsm28sOlTYsO4.PWp6stcMaetyrIMh4LyMzXZlvadNRumBnpowNjj4SfM&dib_tag=se&keywords=teensy+4.1&qid=1780600704&s=ce-de&sprefix=teensy+4.1%2Celectronics%2C120&sr=1-1) | Controls the hand | 1 | |
-| PCB || Magnetic encoder | 35 | $13.80 |
+| PCB | | Magnetic encoder | 35 | $13.80 |
 | [100Ω SMD Resistor](https://www.lcsc.com/product-detail/C144808.html?spm=wm.gwc.xh.4.cbm___wm.sxq.ssl.gwc&lcsc_vid=FFcNUAJSEwNZX10CE1JWBlIAE1hdV1QAQAJWUVNeFQcxVlNeQ1JXUldXTlJeVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVFaXlRIHxUDCw%3D%3D) | PCB | 100 | $0.38 |
 | [1kΩ SMD Resistor](https://www.lcsc.com/product-detail/C106235.html?spm=wm.gwc.xh.2.cbm___wm.sxq.ssl.gwc&lcsc_vid=FFcNUAJSEwNZX10CE1JWBlIAE1hdV1QAQAJWUVNeFQcxVlNeQ1JXUldXTlJeVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVFaXlRIHxUDCw%3D%3D) | PCB | 100 | 
 $0.62 | |

@@ -56,3 +56,9 @@ My dream is also to go to MIT, hopefully I will get there ;)
 
 ## Schematic 
 <img width="1080" height="691" alt="Screenshot 2026-07-18 192702" src="https://github.com/user-attachments/assets/a28092b3-8b6e-4032-8cac-87112c839c4d" />
+
+### Software Roadmap
+- [ ] Basis-Firmware für ESP32/Arduino schreiben
+- [ ] Kalibrierung der Magnetsensoren (TLE5012B)
+- [ ] Kinematik-Berechnung für die Fingerglieder
+- [ ] Bluetooth-/WLAN-Steuerung implementieren

@@ -29,9 +29,9 @@ My dream is also to go to MIT, hopefully I will get there ;)
 | PCB | Magnetic encoder | 35 | $13.80 | |
 | [100Ω SMD Resistor](https://www.lcsc.com/product-detail/C144808.html?spm=wm.gwc.xh.4.cbm___wm.sxq.ssl.gwc&lcsc_vid=FFcNUAJSEwNZX10CE1JWBlIAE1hdV1QAQAJWUVNeFQcxVlNeQ1JXUldXTlJeVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVFaXlRIHxUDCw%3D%3D) | PCB | 100 | $0.38 |
 | [1kΩ SMD Resistor](https://www.lcsc.com/product-detail/C106235.html?spm=wm.gwc.xh.2.cbm___wm.sxq.ssl.gwc&lcsc_vid=FFcNUAJSEwNZX10CE1JWBlIAE1hdV1QAQAJWUVNeFQcxVlNeQ1JXUldXTlJeVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVFaXlRIHxUDCw%3D%3D) | PCB | 100 | 
-$0.62 | |
+$0.62 |
 | [10kΩ SMD Resistor](https://www.lcsc.com/product-detail/C60490.html?spm=wm.gwc.xh.3.cbm___wm.sxq.ssl.gwc&lcsc_vid=FFcNUAJSEwNZX10CE1JWBlIAE1hdV1QAQAJWUVNeFQcxVlNeQ1JXUldXTlJeVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVFaXlRIHxUDCw%3D%3D) | PCB | 100 | 
-$0.59 | |
+$0.59 |
 | [Ceramic SMD capacitor 100nF](https://www.lcsc.com/product-detail/C14663.html?spm=wm.gwc.dh.1.cbm___wm.sxq.ssl.gwc&lcsc_vid=FFcNUAJSEwNZX10CE1JWBlIAE1hdV1QAQAJWUVNeFQcxVlNeQ1JXUldXTlJeVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVFaXlRIHxUDCw%3D%3D) | 100 | 
 $0.88 |
 | [TLE5012B-Chip](https://www.lcsc.com/product-detail/C123083.html?spm=wm.gwc.xh.0.cbm___wm.sxq.ssl.gwc&lcsc_vid=FFcNUAJSEwNZX10CE1JWBlIAE1hdV1QAQAJWUVNeFQcxVlNeQ1JXUldXTlJeVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQVFaXlRIHxUDCw%3D%3D) | Read magnet axis | 34 | $98.10 |

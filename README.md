@@ -18,7 +18,7 @@ My dream is also to go to MIT, hopefully I will get there ;)
 
 | Component | Purpoes | Qty | Cost(USD) | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| [Dynamixal Servomotor] (https://en.robotis.com/shop_en/item.php?it_id=902-0135-000#sit_dvr) | Moves hand | 16 | $489,65 | |
+| [Dynamixal Servomotor](https://en.robotis.com/shop_en/item.php?it_id=902-0135-000#sit_dvr) | Moves hand | 16 | $489,65 | |
 | SMPS 12V 5A PS-10 | Power the Servomotors | 1 | | |
 | OpenRB-150 | Servomotor controller and signal transceiver | 1 | $24,94 | |
 | Lipo Battery 11.1 V | Power the Servomotor without cable | 1 | | |

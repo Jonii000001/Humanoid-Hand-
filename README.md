@@ -6,12 +6,12 @@
 
 
 ## About
-The humanoid hand is a self designed roboter hand inspired by famous hands like the Wuji hand and Orca hand, which can be controlled from your computer. It can be used for grapping items like a bottle, so I could hold my bottle during my study session and alert me for drinking.
+The humanoid hand is a self designed roboter hand inspired by famous hands like the Wuji hand and Orca hand, which can be controlled from your computer. It can be used for grasping items like a bottle, so I could hold my bottle during my study session and alert me for drinking.
 
 
 ## Why did I make this project?
-This summer I wanted to build my first own project, because next year I'll go to a higher technical school and I thought it would be a great practice to start in my summer holidays. First I wasn't sure, which project I should build. My first ideas were a self balancing robot, car, drone and at the end I decided to create a humanoid hand, because I liked the complex mechanism behind it.
-The main key is just because I want to prove everyone that I can achieve this, my father didn't believe in me, so this was the main fact, why I used a humanoid hand instead of the other projects. 
+This summer, I wanted to build my first project, because next year I'll go to a higher technical school, and I thought it would be a great practice to start during my summer holidays. First, I wasn't sure which project I should build. My first ideas were a self-balancing robot, car, and drone, and in the end, I decided to create a humanoid hand because I liked the complex mechanism behind it.
+The main key is that I want to prove to everyone that I can achieve this. My father didn't believe in me, so this was the main reason why I used a humanoid hand instead of the other projects. 
 My dream is also to go to MIT, hopefully I will get there ;)
 
 ## BOM

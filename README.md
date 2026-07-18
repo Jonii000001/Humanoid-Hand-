@@ -18,7 +18,7 @@ My dream is also to go to MIT, hopefully I will get there ;)
 
 | Component | Purpoes | Qty | Cost(USD) | 
 | :--- | :--- | :--- | :--- |
-| [Dynamixal Servomotor](https://en.robotis.com/shop_en/item.php?it_id=902-0135-000#sit_dvr) | Moves hand | 16 | $490,02 |
+| [Dynamixal Servomotor](https://en.robotis.com/shop_en/item.php?it_id=902-0135-000#sit_dvr) | Moves hand | 16 | $514.18 |
 | [OpenRB-150](https://en.robotis.com/shop_en/item.php?it_id=902-0183-000) | Servomotor controller and signal transceiver | 1 | $24,94 |
 | [Lipo Battery 11.1 V](https://www.amazon.de/-/en/OVONIC-Battery-Connection-Aircraft-Helicopter/dp/B0C3B47G2N/ref=sr_1_8?crid=2LYTQFP2EEQK3&dib=eyJ2IjoiMSJ9.nw2s57qqLqOaFVBvlCka9IhXU7DA95gM6agqVctoXY7b7RThVAMtqda12TTXvQKVUEploqYtWp4DUgfplciXl6LMWDjSwUTimg3OmONwYiE0K2NqLPehsVIN91DhbOTMNG-vC012v8HjNtXkmL47NlOtmQCR-tPEsrf5sWBQHlBT-kwVvOkkfRsJye66gETzd0K0zp2J7tgm7ouAHGhZCITCVx57T4pgZi5gefC-_4ATVbR4omS31nALu1pOMP0cpHhuKxJnX8V_xbQ5VIbY9wqg7kc2mi7Ow-pkATssX2o.5TM-OHYB9TXnq5HWWza8btVRPxmjxXjR_2KERJMD0fU&dib_tag=se&keywords=3S+Lipo+Battery+35C+2200+mAh+11.1+V&qid=1783972504&sprefix=3s+lipo+battery+35c+2200+mah+11.1+v%2Caps%2C148&sr=8-8) | Power the Servomotor | 1 | $26.51 |
 | [Diamertically Magnet](https://www.magnet-shop.net/neodym-magnete/stabmagnete/stabmagnet-4.0-x-10.0-mm-n45-nickel-diametral-haelt-1.1-kg?klar_source=google&klar_cpid=19629153051&klar_adid=733632335184&gad_source=1&gad_campaignid=19629153051&gbraid=0AAAAAD-1I2bwd7UyxVgaSF3HH7-991-Gc&gclid=CjwKCAjwyOzSBhBTEiwAmxvJ-gqosx6Ed2dHn7_7eOlspQYhVeY38qSm3f2InlA8T037VH2726_T8RoC0msQAvD_BwE) | Magnetic encoder | 30 | $23.10 |

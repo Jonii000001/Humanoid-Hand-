@@ -1,4 +1,5 @@
-Day 4: Today I started sketching and constructing the joint and the spool for the Servomotor.
+Day 4: Prototyping 
+Today I started sketching and constructing the joint and the spool for the Servomotor.
 
 I planned today that I'll probably take the MG994/995, because it's budget-friendly for me and has the right torque, I think. However, if I can secure funding at the Macondo hack club, I don't know if I can, because it's the first time I've heard of that method.
 

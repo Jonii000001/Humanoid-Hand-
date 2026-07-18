@@ -14,7 +14,7 @@ This summer I wanted to build my first own project, because next year I'll go to
 The main key is just because I want to prove everyone that I can achieve this, my father didn't believe in me, so this was the main fact, why I used a humanoid hand instead of the other projects. 
 My dream is also to go to MIT, hopefully I will get there ;)
 
-## Product list
+## BOM
 
 | Component | Purpoes | Qty | Cost(USD) | 
 | :--- | :--- | :--- | :--- |

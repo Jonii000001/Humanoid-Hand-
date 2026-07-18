@@ -14,7 +14,7 @@ This summer, I wanted to build my first project, because next year I'll go to a 
 The main key is that I want to prove to everyone that I can achieve this. My father didn't believe in me, so this was the main reason why I used a humanoid hand instead of the other projects. 
 My dream is also to go to MIT, hopefully I will get there ;)
 
-##Build Status
+## Build Status
 - [x]  Bill of Materials Complete
 - [ ]  CAD Design Complete
 - [x]  CAD Assembeled

@@ -17,11 +17,11 @@ My dream is also to go to MIT, hopefully I will get there ;)
 ## Product list
 
 | Component | Purpoes | Qty | Cost(USD) | Link |
-| :--- | :--- | :--- | :--- |
-| Dynamixal Servomotor | Moves hand | 16 | $489,65 |
-| SMPS 12V 5A PS-10 | Power the Servomotors | 1 | 
-| OpenRB-150 | Servomotor controller and signal transceiver | 1 | 
-| Lipo Battery 11.1 V | Power the Servomotor without cable | 1 |
-| Diamertically Magnet | Magnetic encoder | 30 |
-| Dynemma Tendon | Move the hand | 1 | 
+| :--- | :--- | :--- | :--- | :--- |
+| Dynamixal Servomotor | Moves hand | 16 | $489,65 | |
+| SMPS 12V 5A PS-10 | Power the Servomotors | 1 | | |
+| OpenRB-150 | Servomotor controller and signal transceiver | 1 | | |
+| Lipo Battery 11.1 V | Power the Servomotor without cable | 1 | | |
+| Diamertically Magnet | Magnetic encoder | 30 | | |
+| Dynemma Tendon | Move the hand | 1 | | |
 

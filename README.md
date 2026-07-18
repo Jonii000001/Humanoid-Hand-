@@ -18,10 +18,17 @@ My dream is also to go to MIT, hopefully I will get there ;)
 
 | Component | Purpoes | Qty | Cost(USD) | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| Dynamixal Servomotor | Moves hand | 16 | $489,65 | |
+| [Dynamixal Servomotor] (https://en.robotis.com/shop_en/item.php?it_id=902-0135-000#sit_dvr) | Moves hand | 16 | $489,65 | |
 | SMPS 12V 5A PS-10 | Power the Servomotors | 1 | | |
-| OpenRB-150 | Servomotor controller and signal transceiver | 1 | | |
+| OpenRB-150 | Servomotor controller and signal transceiver | 1 | $24,94 | |
 | Lipo Battery 11.1 V | Power the Servomotor without cable | 1 | | |
 | Diamertically Magnet | Magnetic encoder | 30 | | |
 | Dynemma Tendon | Move the hand | 1 | | |
-
+| Ceramic ball bearing | Smooth joint movement | 30 | | |
+| Teensy 4.1 | Controls the hand | 1 | |
+| PCB || Magnetic encoder | 30 | | |
+| 100Ω SMD Resistor | PCB | 30 | | |
+| 470Ω SMD Resistor | PCB | 30 | | |
+| Ceramic SMD capacitor | 30 | | |
+| TLE5012B-Chip | Read magnet axis | 30 | | |
+| RP2040-Zero | Magnet encode signal transceiver | 6 | | |

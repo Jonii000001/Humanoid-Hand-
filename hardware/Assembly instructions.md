@@ -61,7 +61,7 @@ This hole on every part is to fix the tendon that it can't slip trough and that 
 <img width="1118" height="682" alt="Screenshot 2026-07-31 223548" src="https://github.com/user-attachments/assets/001ea2be-6bae-45be-9b36-3a9ba5b868a0" />
 Lastly, you have to put the PCB on the PCB holders on each side and above each PCB the cover (you just have to pull it up there, without a screw or anything), like in the image you can see the green ones are for the side. Two components for every side (PCB + PCB cover) and the red one is for the backside of the palm (where the ceramic ball bearing is placed)
 
-# Result)
+# Result
 <img width="846" height="778" alt="Screenshot 2026-07-31 225004" src="https://github.com/user-attachments/assets/fa9b6f85-3b75-42c9-a708-05aed35eca5e" />
 
 <br>
@@ -70,86 +70,93 @@ Lastly, you have to put the PCB on the PCB holders on each side and above each P
 # Ring finger:
 ---
 <br>
-## Components
+
+# Components
 <img width="1199" height="698" alt="Screenshot 2026-07-31 225300" src="https://github.com/user-attachments/assets/c86fcc4c-822d-4485-8e99-e80f690e702c" />
 These are the parts for assembling the finger (you also need the tendon)
 
-## 1)
+# 1)
 <img width="957" height="623" alt="Screenshot 2026-07-31 225815" src="https://github.com/user-attachments/assets/56082763-bd81-4e8d-865f-04292b8e99d9" />
 Here is the overview, how you have to assemble the finger, but it's the same like the pinky you can use the instruction from it. I used put the parts in the exact order, how it have to be connected. You can use exactly the same parts for the ring finger than the pinky.
 
-## Result) 
+# Result
 <img width="825" height="719" alt="Screenshot 2026-07-31 231026" src="https://github.com/user-attachments/assets/cf5e24ec-5c3c-4c14-a8ef-cb3567466062" />
 
 # Middle finger:
+--- 
+<br>
 
-## Components
+# Components
 <img width="341" height="366" alt="Screenshot 2026-07-31 232408" src="https://github.com/user-attachments/assets/3e24c042-bb86-4b4e-83f3-8430be84f02a" />
 
-## 1)
+# 1)
 <img width="736" height="664" alt="Screenshot 2026-07-31 232539" src="https://github.com/user-attachments/assets/138d73f9-a519-4520-ad7d-3ee75e1329aa" />
 You have to assemble the parts for the middle finger just exactly like the other ones, only instead of the pinky part I use the index finger part (I think the middle finger part is a bit to big, maybe I'll design it later smaller, but now I will use the index finger part). I added that at the end at the bottom of the palm there should be 6 tendon ending coming out from the middle finger.
 
-## 2)
+# 2)
 <img width="844" height="709" alt="Screenshot 2026-08-01 124234" src="https://github.com/user-attachments/assets/6df73b2a-baed-4feb-8742-da1004f81e66" />
 Here is the next sketch connect the finger to the palm. I created extra more sketches to visualize the whole assembling procress. You just have to assemble all 4 fingers the same (expect the thumb). 
 
-## Result)
+# Result
 <img width="89" height="191" alt="Screenshot 2026-08-01 221652" src="https://github.com/user-attachments/assets/a23f501c-8579-4435-ae86-55d2f1d3e89e" />
 
 # Index finger:
+--- 
+<br>
 
-## Components
+# Components
 <img width="929" height="654" alt="Screenshot 2026-08-01 125607" src="https://github.com/user-attachments/assets/a906039e-f899-4436-a2fe-53c5b852df8f" />
 
-## Result)
+# Result
 <img width="737" height="522" alt="Screenshot 2026-08-01 131603" src="https://github.com/user-attachments/assets/80b32fef-2557-42d4-82ed-72b076f11b77" />
 I didn't take much picture and doucmenting everything clear, because it's the same like the pinky, except you have to take here the index finger part. At the end you should have with all 4 fingers at the bottom of the palm 24 tendon endings.
 
 
 # Thumb:
+--- 
+<br>
 
-## Components
+# Components
 <img width="904" height="579" alt="Screenshot 2026-08-01 152353" src="https://github.com/user-attachments/assets/fc511f82-d939-4ef2-ba10-77772ef09d4c" />
 
-## 1)
+# 1)
 <img width="1180" height="687" alt="Screenshot 2026-08-01 152735" src="https://github.com/user-attachments/assets/dba12116-5807-4412-9275-f6d525d0d754" />
 First you have to take the base connecting part and put on the two ball bearing holders MR84ZZ ball bearing (steel) on the right and left side. The red line symbolises the tendon. You have to put the tendon though the two holes in the part.
 
-## 2)
+# 2)
 <img width="1005" height="619" alt="Screenshot 2026-08-01 152851" src="https://github.com/user-attachments/assets/64a2f82f-9fef-4d4e-8c9b-5eeaaef8a825" />
 The next, you  have to connect the ball bearing exactly in the positions like in the picture. Watch out, to put it in the right side into it. The green circles have to be placed at the side of the other circles (the tendon has to go through the hole).
 
-## 3)
+# 3)
 <img width="542" height="433" alt="Screenshot 2026-08-01 153046" src="https://github.com/user-attachments/assets/fc65d2e9-e272-4b88-bc07-f931c2670e39" />
 Now, you have to lead the tendon through the hole to the bottom of the palm.
 
-## 4)
+# 4)
 <img width="421" height="286" alt="Screenshot 2026-08-01 153219" src="https://github.com/user-attachments/assets/1a9c3d6d-3daa-408c-bb28-c0354d365233" />
 <img width="462" height="422" alt="Screenshot 2026-08-01 153303" src="https://github.com/user-attachments/assets/9500f842-9d29-4a4d-9f36-42ce2781176a" />
 Now, take the thumb base and put on it on both sides MR84ZZ ball bearings. The pink line should be the tendon. The tendon should go from the left side, to the middle, to the right side and you can see it at the holes.
 
-## 5)
+# 5)
 <img width="836" height="686" alt="Screenshot 2026-08-01 153727" src="https://github.com/user-attachments/assets/33454c14-181a-4455-9417-27b75a16d56c" />
 Now connect it to the base connecting part. Watch out for the right position. The holes should be at the backside.
 
-## 6)
+# 6)
 <img width="494" height="353" alt="Screenshot 2026-08-01 160319" src="https://github.com/user-attachments/assets/5b5db243-b50e-4f82-b4cc-38b39347c5e5" />
 Now take the pinky part and put on it two ceramic ball bearings. Furthemore, press the PCB on the holders and finally the PCB cover. The magnet is already inside the part (during print, place)
 
-## 7)
+# 7)
 <img width="606" height="535" alt="Screenshot 2026-08-01 160928" src="https://github.com/user-attachments/assets/040f3233-6a84-4849-a888-c8f539dc9ab3" />
 Connect the pinky part on the thumb base.
 
-## 8)
+# 8)
 <img width="555" height="678" alt="Screenshot 2026-08-01 161126" src="https://github.com/user-attachments/assets/3d4aa27f-40bf-475e-a663-09e414d2eb4d" />
 Now connect the fingertip with a M2 Screw to the fingertip conection part and also the two ceramic ball bearings.
 
-## 9)
+# 9)
 <img width="620" height="412" alt="Screenshot 2026-08-01 161316" src="https://github.com/user-attachments/assets/1d699520-a3b7-40ac-b7f3-381bbd06d5a8" />
 Assemble it on the the other part
 
-## 10)
+# 10)
 <img width="466" height="222" alt="Screenshot 2026-08-01 161428" src="https://github.com/user-attachments/assets/57318a66-4d2c-4aa6-a47a-d4caecea98ae" />
 Put the rest of the PCBs and the cover on the thumb base (I forgot it before)
 
@@ -157,9 +164,17 @@ Put the rest of the PCBs and the cover on the thumb base (I forgot it before)
 <img width="985" height="661" alt="Screenshot 2026-08-01 161608" src="https://github.com/user-attachments/assets/11e8c311-aa27-4a54-ac7e-d3ee49b10eaa" />
 At the end you just have 32 tendon endings at the bottom of the palm.
 
+<br>
+--- 
+<br> 
+
 # Vision of the project:
 <img width="1207" height="676" alt="Screenshot 2026-08-01 161919" src="https://github.com/user-attachments/assets/ec08796a-6c30-4a8a-b3ab-31e2c896d6b7" />
 At the end it should be something like that. I didn't drew everything on it, but the main parts are at the picture.
+
+<br>
+--- 
+<br> 
 
 > [!CAUTION]
 > Real life assembling tutorial is incoming!!

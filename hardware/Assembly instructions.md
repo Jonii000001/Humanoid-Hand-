@@ -164,17 +164,15 @@ Put the rest of the PCBs and the cover on the thumb base (I forgot it before)
 <img width="985" height="661" alt="Screenshot 2026-08-01 161608" src="https://github.com/user-attachments/assets/11e8c311-aa27-4a54-ac7e-d3ee49b10eaa" />
 At the end you just have 32 tendon endings at the bottom of the palm.
 
-<br>
 --- 
-
+<br>
 
 # Vision of the project:
 <img width="1207" height="676" alt="Screenshot 2026-08-01 161919" src="https://github.com/user-attachments/assets/ec08796a-6c30-4a8a-b3ab-31e2c896d6b7" />
 At the end it should be something like that. I didn't drew everything on it, but the main parts are at the picture.
 
+--- 
 <br>
----  
-
 
 > [!CAUTION]
 > Real life assembling tutorial is incoming!!

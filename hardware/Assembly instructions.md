@@ -8,7 +8,9 @@
 Red magnet: 4x4mm
 <br>
 Orange magnet: 4x10mm
+<br>
 White ball bearing: ceramic (MR84)
+<br>
 Grey ball bearing: steel (MR84ZZ)
 
 # Palm)
@@ -16,6 +18,7 @@ Grey ball bearing: steel (MR84ZZ)
 
 # Pinky:
 --- 
+<br>
 # Components
 <img width="592" height="399" alt="Screenshot 2026-08-01 212056" src="https://github.com/user-attachments/assets/b20ba2ab-2243-44b5-b5ff-4bf92828efb3" />
 
@@ -65,7 +68,7 @@ Lastly, you have to put the PCB on the PCB holders on each side and above each P
 
 # Ring finger:
 ---
-
+<br>
 ## Components
 <img width="1199" height="698" alt="Screenshot 2026-07-31 225300" src="https://github.com/user-attachments/assets/c86fcc4c-822d-4485-8e99-e80f690e702c" />
 These are the parts for assembling the finger (you also need the tendon)

@@ -14,7 +14,11 @@ Grey ball bearing: steel (MR84ZZ)
 <img width="1144" height="677" alt="Screenshot 2026-07-30 230605" src="https://github.com/user-attachments/assets/fba08cb6-8bfe-4cd2-93cd-8871e22294e1" />
 
 
-## Pinky)
+## Pinky:
+
+# Components pinky)
+<img width="592" height="399" alt="Screenshot 2026-08-01 212056" src="https://github.com/user-attachments/assets/b20ba2ab-2243-44b5-b5ff-4bf92828efb3" />
+
 # 1) 
 <img width="1498" height="769" alt="Screenshot 2026-07-30 230957" src="https://github.com/user-attachments/assets/2a912bee-1a6c-4802-a357-2da6ad36e250" />
 First you have to take the finger base part and put during the print the 4x4mm diametral magnet inside. 
@@ -42,3 +46,32 @@ Now you have to take the fingertip connection part, put on it on both sides cera
 (The magnet is already place inside the part)
 
 # 7) 
+<img width="1348" height="755" alt="Screenshot 2026-07-31 222327" src="https://github.com/user-attachments/assets/f3bc1464-0fdd-4d8b-8c2c-08454cf92e3f" />
+Now, you have to use a M2 Screw to screw the fingertip to the fingertip connection part.
+
+# 8)
+<img width="925" height="390" alt="Screenshot 2026-07-31 222929" src="https://github.com/user-attachments/assets/293fe014-b724-4d59-b4d2-c1383fa88e58" />
+This hole on every part is to fix the tendon that it can't slip trough and that the Servomotor can pull the part. You can fix the tendon with a threaded rod or just a stick (the hole has a diameter of 2mm). The green lines visualize the tendons inside the part.
+
+# 9)
+<img width="1118" height="682" alt="Screenshot 2026-07-31 223548" src="https://github.com/user-attachments/assets/001ea2be-6bae-45be-9b36-3a9ba5b868a0" />
+Lastly, you have to put the PCB on the PCB holders on each side and above each PCB the cover (you just have to pull it up there, without a screw or anything), like in the image you can see the green ones are for the side. Two components for every side (PCB + PCB cover) and the red one is for the backside of the palm (where the ceramic ball bearing is placed)
+
+# Result)
+<img width="846" height="778" alt="Screenshot 2026-07-31 225004" src="https://github.com/user-attachments/assets/fa9b6f85-3b75-42c9-a708-05aed35eca5e" />
+
+
+## Ring finger:
+
+# Components ring finger)
+<img width="1199" height="698" alt="Screenshot 2026-07-31 225300" src="https://github.com/user-attachments/assets/c86fcc4c-822d-4485-8e99-e80f690e702c" />
+These are the parts for assembling the finger (you also need the tendon)
+
+# 1)
+<img width="957" height="623" alt="Screenshot 2026-07-31 225815" src="https://github.com/user-attachments/assets/56082763-bd81-4e8d-865f-04292b8e99d9" />
+Here is the overview, how you have to assemble the finger, but it's the same like the pinky you can use the instruction from it. I used put the parts in the exact order, how it have to be connected. You can use exactly the same parts for the ring finger than the pinky.
+
+# Result) 
+<img width="825" height="719" alt="Screenshot 2026-07-31 231026" src="https://github.com/user-attachments/assets/cf5e24ec-5c3c-4c14-a8ef-cb3567466062" />
+
+

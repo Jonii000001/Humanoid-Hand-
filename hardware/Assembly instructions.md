@@ -153,5 +153,5 @@ At the end you just have 32 tendon endings at the bottom of the palm.
 <img width="1207" height="676" alt="Screenshot 2026-08-01 161919" src="https://github.com/user-attachments/assets/ec08796a-6c30-4a8a-b3ab-31e2c896d6b7" />
 At the end it should be something like that. I didn't drew everything on it, but the main parts are at the picture.
 
-> [!NOTE]
+> [!CAUTION]
 > Real life assembling tutorial is incoming!!

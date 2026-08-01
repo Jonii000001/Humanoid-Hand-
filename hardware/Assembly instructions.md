@@ -13,8 +13,8 @@ Grey ball bearing: steel (MR84ZZ)
 # Palm)
 <img width="1144" height="677" alt="Screenshot 2026-07-30 230605" src="https://github.com/user-attachments/assets/fba08cb6-8bfe-4cd2-93cd-8871e22294e1" />
 
-[!CAUTION]
-# Pinky:
+> [!CAUTION]
+> # Pinky:
 
 ## Components pinky
 <img width="592" height="399" alt="Screenshot 2026-08-01 212056" src="https://github.com/user-attachments/assets/b20ba2ab-2243-44b5-b5ff-4bf92828efb3" />

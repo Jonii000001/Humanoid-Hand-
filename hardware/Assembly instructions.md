@@ -61,9 +61,9 @@ Lastly, you have to put the PCB on the PCB holders on each side and above each P
 <img width="846" height="778" alt="Screenshot 2026-07-31 225004" src="https://github.com/user-attachments/assets/fa9b6f85-3b75-42c9-a708-05aed35eca5e" />
 
 
-## Ring finger:
+# Ring finger:
 
-# Components ring finger)
+## Components ring finger
 <img width="1199" height="698" alt="Screenshot 2026-07-31 225300" src="https://github.com/user-attachments/assets/c86fcc4c-822d-4485-8e99-e80f690e702c" />
 These are the parts for assembling the finger (you also need the tendon)
 

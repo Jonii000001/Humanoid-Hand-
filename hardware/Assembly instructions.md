@@ -173,7 +173,7 @@ At the end you just have 32 tendon endings at the bottom of the palm.
 At the end it should be something like that. I didn't drew everything on it, but the main parts are at the picture.
 
 <br>
---- 
+---  
 <br> 
 
 > [!CAUTION]

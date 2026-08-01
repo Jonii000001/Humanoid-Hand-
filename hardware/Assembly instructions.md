@@ -13,10 +13,9 @@ Grey ball bearing: steel (MR84ZZ)
 # Palm)
 <img width="1144" height="677" alt="Screenshot 2026-07-30 230605" src="https://github.com/user-attachments/assets/fba08cb6-8bfe-4cd2-93cd-8871e22294e1" />
 
-##### $${\color{red}\text{Components (Pinky)}}$$
+# Pinky:
 
-
-## Components pinky
+## Components
 <img width="592" height="399" alt="Screenshot 2026-08-01 212056" src="https://github.com/user-attachments/assets/b20ba2ab-2243-44b5-b5ff-4bf92828efb3" />
 
 ## 1) 
@@ -63,7 +62,7 @@ Lastly, you have to put the PCB on the PCB holders on each side and above each P
 
 # Ring finger:
 
-## Components ring finger
+## Components
 <img width="1199" height="698" alt="Screenshot 2026-07-31 225300" src="https://github.com/user-attachments/assets/c86fcc4c-822d-4485-8e99-e80f690e702c" />
 These are the parts for assembling the finger (you also need the tendon)
 
@@ -73,5 +72,17 @@ Here is the overview, how you have to assemble the finger, but it's the same lik
 
 ## Result) 
 <img width="825" height="719" alt="Screenshot 2026-07-31 231026" src="https://github.com/user-attachments/assets/cf5e24ec-5c3c-4c14-a8ef-cb3567466062" />
+
+# Middle finger:
+
+## Components
+<img width="341" height="366" alt="Screenshot 2026-07-31 232408" src="https://github.com/user-attachments/assets/3e24c042-bb86-4b4e-83f3-8430be84f02a" />
+
+## 1)
+<img width="736" height="664" alt="Screenshot 2026-07-31 232539" src="https://github.com/user-attachments/assets/138d73f9-a519-4520-ad7d-3ee75e1329aa" />
+You have to assemble the parts for the middle finger just exactly like the other ones, only instead of the pinky part I use the index finger part (I think the middle finger part is a bit to big, maybe I'll design it later smaller, but now I will use the index finger part).
+
+## Result)
+<img width="89" height="191" alt="Screenshot 2026-08-01 221652" src="https://github.com/user-attachments/assets/a23f501c-8579-4435-ae86-55d2f1d3e89e" />
 
 

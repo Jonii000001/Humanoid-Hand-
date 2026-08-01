@@ -4,8 +4,9 @@
 # Component List
 <img width="1283" height="781" alt="Screenshot 2026-07-30 230511" src="https://github.com/user-attachments/assets/f2c0312d-bd9e-4c13-b7cf-fb3409e2ba55" />
 (Expect: RP2040-Zero, Dynemma tendon, cables, Lipo Battery, teensy 4.1, Servomotors, OpenRB-150, FSR-Sensor)
-
+<br>
 Red magnet: 4x4mm
+<br>
 Orange magnet: 4x10mm
 White ball bearing: ceramic (MR84)
 Grey ball bearing: steel (MR84ZZ)

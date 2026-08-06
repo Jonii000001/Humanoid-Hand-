@@ -48,7 +48,7 @@ My dream is also to go to MIT, hopefully I will get there ;)
 | [RP2040-Zero](https://de.aliexpress.com/item/1005010530069817.html?spm=a2g0o.productlist.main.13.794dl0e4l0e4nG&algo_pvid=fbacfa47-203a-45f1-953c-313e447ff765&algo_exp_id=fbacfa47-203a-45f1-953c-313e447ff765-12&pdp_ext_f=%7B%22order%22%3A%225875%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005010530069817%22%2C%22orig_item_id%22%3A%221005010313694762%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%216.26%213.13%21%21%2147.28%2123.64%21%402103877917840243854055069e0e47%2112000052713684938%21sea%21AT%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Adc27ac49%3Bm03_new_user%3A-29895&curPageLogUid=5XlZvE56spEe&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010530069817%7C_p_origin_prod%3A1005010313694762) | Magnet encoder signal transceiver | 1 | $12.34 |
 | [Raspberry pi 5 4gb](https://www.berrybase.at/raspberry-pi-5-4gb-ram) | Small intelligent AI system | 1 | $143.63 |
 
-## Total Build Cost: $854.85 (including shipping)
+## Total Build Cost: $$998.48 (including shipping)
 
 
 ## PCB

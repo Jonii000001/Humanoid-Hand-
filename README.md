@@ -60,6 +60,7 @@ My dream is also to go to MIT, hopefully I will get there ;)
 
 ### Software Roadmap
 - [ ] Write base firmware for Teensy 4.1 / Raspberry Pi
+- [X] Write the code for RP2040-Zero
 - [ ] Calibrate TLE5012B magnetic encoders
 - [ ] Implement kinematics calculation for robotic servo motors
 - [ ] Set up communication protocol between Pi and Teensy

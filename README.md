@@ -53,11 +53,10 @@ My dream is also to go to MIT, hopefully I will get there ;)
 
 
 ## PCB
-<img width="565" height="659" alt="image" src="https://github.com/user-attachments/assets/4af31016-dbe3-4e94-9b6e-5b5bd2ae8d20" />
+<img width="875" height="653" alt="image" src="https://github.com/user-attachments/assets/5936c778-7182-476b-9d19-018b2d209b2c" />
 
 ## Schematic 
 <img width="1044" height="748" alt="image" src="https://github.com/user-attachments/assets/ada777aa-ed1a-4632-acd7-b9605f59225f" />
-
 
 ### Software Roadmap
 - [ ] Write base firmware for Teensy 4.1 / Raspberry Pi

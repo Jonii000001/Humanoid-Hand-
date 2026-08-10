@@ -23,9 +23,12 @@
 <img width="1474" height="800" alt="Screenshot 2026-08-06 103930" src="https://github.com/user-attachments/assets/034584ce-4db4-4376-a03c-37608c7d298f" />
 <img width="1495" height="571" alt="Screenshot 2026-08-06 102819" src="https://github.com/user-attachments/assets/6cf4d1f8-1189-4dfd-b445-8d28a759a06b" />
 
+<img width="1498" height="750" alt="Screenshot 2026-08-06 102801" src="https://github.com/user-attachments/assets/2527b012-80b2-4301-9909-cb840e3653af" />
+
 
 ## 7) Dyneema tendon
 <img width="1911" height="911" alt="Screenshot 2026-07-18 212509" src="https://github.com/user-attachments/assets/5d66ae32-2920-4927-9917-eab18a54aac1" />
 
-
+## 8) FSR sensor (Force Resistance Sensor)
+<img width="1651" height="675" alt="Screenshot 2026-08-08 223517" src="https://github.com/user-attachments/assets/6b183f68-7d90-49a2-863a-0e4bf7e371c1" />
 

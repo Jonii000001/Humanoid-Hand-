@@ -11,11 +11,11 @@
 <img width="1565" height="672" alt="Screenshot 2026-08-06 111546" src="https://github.com/user-attachments/assets/8856a11b-ec24-4368-b329-c70979f51792" />
 
 
-## 4
+## 4) Robotis Parts (Servo, Motor driver, cable, extension)
 <img width="1904" height="968" alt="Screenshot 2026-08-06 110549" src="https://github.com/user-attachments/assets/ba2419f2-8496-4883-8d1a-16854b838c05" />
 
 
-## 5
+## 5) Waveshare RP2040-Zero
 <img width="1848" height="776" alt="Screenshot 2026-08-06 105239" src="https://github.com/user-attachments/assets/323dabd9-2230-46b9-abce-f066bfa77911" />
 
 

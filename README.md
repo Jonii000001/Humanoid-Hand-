@@ -50,6 +50,7 @@ My dream is also to go to MIT, hopefully I will get there ;)
 | [RP2040-Zero](https://www.amazon.de/RP2040-Zero-Development-Microcontroller-Multifunctional-Integration/dp/B09SBCKYSC?ref_=ast_sto_dp) | Magnet encoder signal transceiver | 1 | $12.24 |
 | [Quartzman FSR-400sB](https://www.amazon.de/-/en/Quartzman-FSR-400sB-Thin-Pressure-Sensor/dp/B0DS8D6BMF/ref=sr_1_4?crid=10KDYF8JBHBJR&dib=eyJ2IjoiMSJ9.2uoruLBmw-k2J6Er5Bfl7gSxQzy5jOl5P1L_h9vv_5JGSBnP-KB3EYmH1iEbA5grjJcCetATrbLUQfSxf3VWmPUKkV9OQHvzlbv1Cn5f1zBx8h2YtyLqD_6iOgiMoHr-txAmCrdWElfUz47heNyRORWtnFShRfIoln8tvKfzoolVEY_VDh0nkh7JTc1K8wUexu5lxJIZzVBxstIr8IUL-e7L1GL1Yq1km65gDy6WdFJJYk7zLPO18z0uV8dc5hEVqGyfTf1NEVURpI287PmeDocdNuu84ZNJyS478_mF_mQ.OJOH0_4GYyzUZT2EIED5edErHfAo5QGcNXsQLwdR9Ws&dib_tag=se&keywords=fsr+sensor+short&qid=1786220330&sprefix=fsr+sensor+shor%2Caps%2C133&sr=8-4) | To read the pressure from the fingertips | 2 | $16.16 |
 ## Total Build Cost: $996.49 (including shipping)
+## [Cart images](https://github.com/Jonii000001/Humanoid-Hand-/blob/main/BOM-Cart.md)
 
 
 ## PCB

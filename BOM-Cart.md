@@ -3,11 +3,11 @@
 <img width="1649" height="683" alt="Screenshot 2026-08-06 113138" src="https://github.com/user-attachments/assets/81d0642b-0980-4f9b-8518-b583569808f6" />
 
 
-## 2
+## 2) Diametral Magnet
 <img width="1184" height="859" alt="Screenshot 2026-08-06 112530" src="https://github.com/user-attachments/assets/0e826d6f-b924-401b-b406-0106a38d16a6" />
 
 
-## 3
+## 3) Ceramic ball bearing
 <img width="1565" height="672" alt="Screenshot 2026-08-06 111546" src="https://github.com/user-attachments/assets/8856a11b-ec24-4368-b329-c70979f51792" />
 
 

@@ -29,6 +29,6 @@
 ## 7) Dyneema tendon
 <img width="1911" height="911" alt="Screenshot 2026-07-18 212509" src="https://github.com/user-attachments/assets/5d66ae32-2920-4927-9917-eab18a54aac1" />
 
-## 8) FSR sensor (Force Resistance Sensor)
+## 8) FSR sensor (Force Sensitive Resistore )
 <img width="1651" height="675" alt="Screenshot 2026-08-08 223517" src="https://github.com/user-attachments/assets/6b183f68-7d90-49a2-863a-0e4bf7e371c1" />
 

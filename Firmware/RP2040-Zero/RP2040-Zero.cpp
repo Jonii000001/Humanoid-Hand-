@@ -20,9 +20,9 @@ void setup() {
   }
 
   // Setup the SPI communication with the TLE5012B sensor, usin the SPI library, the pins are set to the correct values for the RP2040-Zero
-  SPI1.setRX(PIN_MISO) = 8; //set the RX pin for the TLE5012B (SPI1 RX, that's the SPI receive pin, it receives data from the TLE5012B)
-  SPI1.setTX(PIN_MOSI) = 15; //set the TX pin for the TLE5012B (SPI1 TX, that's the SPI transmit pin, it sends commands to the TLE5012B)
- SPI1.setSCK(PIN_SCK) = 14; //set the SCK pin for the TLE5012B (SPI1 SCK, that's the SPI clock pin, it sets the speed of the communication)
+  SPI1.setRX(PIN_MISO); //set the RX pin for the TLE5012B (SPI1 RX, that's the SPI receive pin, it receives data from the TLE5012B)
+  SPI1.setTX(PIN_MOSI); //set the TX pin for the TLE5012B (SPI1 TX, that's the SPI transmit pin, it sends commands to the TLE5012B)
+ SPI1.setSCK(PIN_SCK); //set the SCK pin for the TLE5012B (SPI1 SCK, that's the SPI clock pin, it sets the speed of the communication)
   SPI1.setFrequency(1000000); //set the frequency for the SPI communication,
 
   // Start the SPI communication with the TLE5012B sensor, using the SPI library, the pins are set to the correct values for the RP2040-Zero
@@ -52,6 +52,16 @@ Serial.println(" degrees"); //print the angle in degrees
 
 }
 
-
+// Function to read the angle from the TLE5012B sensor, it takes care of the CSQ pin for me, and returns a 16-bit value, which is the angle in degrees
 uint16_t readAngle(int sensorIndex) {
+  uint16_t rawData = 0;
+
+  digitalWrite(PIN_CSQ[sensorIndex], LOW); //turn on the sensor, LOW is on, HIGH is off (Like sleep mode for the sensors)
+  delayMicroseconds(1) //Small delay, good for the data stability
+  SP1.transfer16(0x8020); //send the command to read the angle, 0x8020 is the command to read the angle from the TLE5012B sensor, it is a 16-bit value, and the transfer16 function sends a 16-bit value to the TLE5012B sensor, and returns a 16-bit value, which is the angle in degrees
+  rawData = SPI1.transfer16(0x0000); //send a dummy command
+  digitalWrite(PIN_CSQ[sensorIndex], HIGH); //turn off the sensor, HIGH is off, LOW is on (Like sleep mode for the sensors)
+  return rawData & 0x7FFF; //return the angle in degrees, the & 0x7FFF is to remove the sign bit, because the TLE5012B sensor returns a signed value, and I want an unsigned value, so I use the & 0x7FFF to remove the sign bit, and return only the angle in degrees
+
+
 }

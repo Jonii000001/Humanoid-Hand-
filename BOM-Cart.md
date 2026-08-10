@@ -19,14 +19,13 @@
 <img width="1848" height="776" alt="Screenshot 2026-08-06 105239" src="https://github.com/user-attachments/assets/323dabd9-2230-46b9-abce-f066bfa77911" />
 
 
-## 6
+## 6) TLE5012B chip, resistor, capacitor
 <img width="1474" height="800" alt="Screenshot 2026-08-06 103930" src="https://github.com/user-attachments/assets/034584ce-4db4-4376-a03c-37608c7d298f" />
 <img width="1495" height="571" alt="Screenshot 2026-08-06 102819" src="https://github.com/user-attachments/assets/6cf4d1f8-1189-4dfd-b445-8d28a759a06b" />
 
 
-## 7
+## 7) Dyneema tendon
 <img width="1911" height="911" alt="Screenshot 2026-07-18 212509" src="https://github.com/user-attachments/assets/5d66ae32-2920-4927-9917-eab18a54aac1" />
 
 
-## 8
-<img width="1814" height="824" alt="Screenshot 2026-07-18 212441" src="https://github.com/user-attachments/assets/ebb235af-05b8-4f9f-9964-af763f9cf297" />
+

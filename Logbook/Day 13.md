@@ -1,4 +1,4 @@
-Day 13: AS5048 and FSR x400 short sensor
+## AS5048 and FSR x400 short sensor
 
 Today I did so much of planning and mechanical things. At the first I was looking for a better magnetic encoder instead of the AS5600. So, I found out that the AS5048a sensor, is way better, because it has a 14-bit sensor, which reads ca. 16,384 positions per second while the AS5600 read 4,096 positions (12-bit sensor) . The AS5048 also uses another communication mechanism and is way better than the AS5600.
 
@@ -11,3 +11,12 @@ In addition, I looked this day which pressure sensor I'll use for the feeling of
 Plan: Tomorrow, I want to design the PCB board and maybe integrate it directly into my CAD design. I also want to go on with the mechanical planning
 
 The next few days will be really important for my project. Starting at the mechanical chips (magnetic encoder) and mechanism for the fingertip (FSR x400 short), by the tendon through the finger and the cable management.
+
+<img width="805" height="485" alt="image" src="https://github.com/user-attachments/assets/7b25d2db-effb-44a2-8c1e-5ca0cd8b3445" />
+<img width="1017" height="563" alt="image" src="https://github.com/user-attachments/assets/5bcfae43-6ea7-4b83-baa8-2fc9dccd9a57" />
+<img width="1279" height="489" alt="image" src="https://github.com/user-attachments/assets/49cd3868-f300-45cd-b017-32b481e48e03" />
+<img width="1133" height="780" alt="image" src="https://github.com/user-attachments/assets/dad5b0a7-e369-4268-8124-8eafa108d8e6" />
+<img width="1191" height="716" alt="image" src="https://github.com/user-attachments/assets/a8a7cecf-15fe-46d1-8fb0-290fb28f9234" />
+<img width="1063" height="492" alt="image" src="https://github.com/user-attachments/assets/14772b20-ca9f-4481-8f01-c4783a9a1bbd" />
+<img width="431" height="160" alt="image" src="https://github.com/user-attachments/assets/e48ae323-a7a7-4316-bb71-783bd2d3a52e" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/8ae8c31c-5edd-409e-b11b-252b9a0840df" />

@@ -1,4 +1,4 @@
-Day 6: CAD designing fingertip
+## CAD designing fingertip
 
 Today I designed the fingertip for the finger of the humanoid hand. I tried several different shapes of the fingertip, but none of my designs impressed me. They all looked like different things, not like a fingertip from a real-life hand.
 
@@ -8,4 +8,10 @@ But the most useful thing about this day was that I learnt a lot of new function
 
 Future: Redesign them, because they don't look like a real hand. Try to create a better version of the fingertip.
 
+<img width="570" height="523" alt="image" src="https://github.com/user-attachments/assets/819d6757-0d2b-4c8f-9ba6-4797eb9f50de" />
+<img width="591" height="718" alt="image" src="https://github.com/user-attachments/assets/c905ad98-b2fe-478e-a9f0-ba336e768af2" />
+<img width="565" height="551" alt="image" src="https://github.com/user-attachments/assets/184d543a-a006-43b3-ae09-7b5a4db895ca" />
+<img width="826" height="457" alt="image" src="https://github.com/user-attachments/assets/a759992c-0d5f-422c-b909-9c6884a51633" />
+<img width="1264" height="862" alt="image" src="https://github.com/user-attachments/assets/05af175e-09c3-4185-93e8-c31d58775a5a" />
+<img width="1204" height="744" alt="image" src="https://github.com/user-attachments/assets/f6e4d1be-72b3-4cd7-bef3-a37e24114936" />
 

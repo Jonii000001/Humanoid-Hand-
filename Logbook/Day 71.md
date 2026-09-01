@@ -9,3 +9,5 @@ For the people who want to know what I changed in detail. I have increased the l
 
 [Macondo_Lapse_Journal_Writing](https://lapse.hackclub.com/timelapse/4pIVMAeKGJ_x)
 [Macondo_Lapse_CAD_Designing](https://lapse.hackclub.com/timelapse/HM7kziWOc22H)
+
+<img width="639" height="404" alt="image" src="https://github.com/user-attachments/assets/ad81f86c-7e0d-42b7-aea5-f396c81fa09b" />

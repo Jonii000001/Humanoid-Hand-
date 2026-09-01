@@ -1,4 +1,4 @@
-Redesigning of the palm for the third time.
+## Redesigning of the palm for the third time.
 
 At first of this day, I made a redesign of the palm for the third time, but I didn't finish it yet, because I think it doesn't make any sense without all the fingers assembled.
 
@@ -11,3 +11,9 @@ Luckily, I recognized it today during the correction, because later on it would 
 So tomorrow I'll finish the pinky, maybe also a longer part for the middle finger, I don't know yet.
 
 Most of the measurements I just copied from the old palm, so it was easier for me to make the palm.
+
+<img width="1454" height="774" alt="image" src="https://github.com/user-attachments/assets/b02d33e3-0e05-4300-8ea5-57d1dd2afabe" />
+<img width="1177" height="693" alt="image" src="https://github.com/user-attachments/assets/e10618d9-a894-4259-9229-9bfa5a78cc81" />
+<img width="1313" height="535" alt="image" src="https://github.com/user-attachments/assets/65794699-c476-4e1c-bbba-166a5bf1b6ba" />
+<img width="974" height="677" alt="image" src="https://github.com/user-attachments/assets/51666c3d-faf6-44cc-901b-dc8eda6be06d" />
+<img width="756" height="553" alt="image" src="https://github.com/user-attachments/assets/7e5f39fc-3dab-4dc8-8a7c-f3d868860a64" />

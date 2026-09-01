@@ -1,4 +1,4 @@
-Day 12: Day 12 First time KICAD & PCB designing
+Day 12: First time KICAD & PCB designing
 
 Today was the first time I designed a custom PCB and used KICAD. At the beginning of the day, I didn't have any clue which software I should use or how I would design a PCB. I had never done it before. At first, I had to watch some YouTube tutorials on how it works, but I didn't do that for long, because I just wanted to start and learn by doing.
 

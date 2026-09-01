@@ -1,4 +1,4 @@
-## AS4048 PCB designing
+## AS5048 PCB designing
 
 Today was a really stressful day.
 
